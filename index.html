@@ -59,15 +59,16 @@
     transform:translate(-50%,-50%); border:2px solid rgba(255,255,255,.18); border-radius:50%}
   #configPitch{max-width:270px; margin:0 auto; aspect-ratio:3/4}
   .prow{display:flex; justify-content:space-evenly; align-items:center; flex:1; position:relative; z-index:1}
-  .slot{width:60px; text-align:center; font-size:.6rem; line-height:1.1; color:#eafff0; text-shadow:0 1px 2px #0008}
+  .slot{width:18%; max-width:64px; text-align:center; font-size:.58rem; line-height:1.1; color:#eafff0; text-shadow:0 1px 2px #0008}
   .dot{width:34px; height:34px; border-radius:50%; margin:0 auto 3px; background:#0d1a12;
     border:2px dashed #ffffff66; display:flex; align-items:center; justify-content:center; font-weight:800; font-size:.72rem}
   .slot.filled .dot{border-style:solid; border-color:#fff}
   .slot.pickable .dot{border-style:solid; border-color:var(--accent); cursor:pointer; animation:pulse 1.1s infinite}
   .slot.pickable{cursor:pointer}
   @keyframes pulse{50%{box-shadow:0 0 0 6px rgba(34,197,94,.3)}}
-  .slot .nm{font-weight:700; display:block; min-height:1.1em}
-  .slot .cl{font-size:.52rem; color:#cfe9d6; opacity:.85}
+  .slot .nm{font-weight:700; display:block; min-height:1.1em; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+  .slot .cl{font-size:.52rem; color:#cfe9d6; opacity:.9; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+  .slot .cl b{color:#fff}
   .slot .rt{font-size:.55rem; font-weight:800}
 
   /* Draft layout */
@@ -187,9 +188,22 @@
   .hidden{display:none}
 
   @media(max-width:780px){
-    .draftGrid{grid-template-columns:1fr}
+    body{padding:12px}
+    .app{max-width:100%}
+    .draftGrid{grid-template-columns:1fr; gap:12px}
     .leftCol{order:2}
     .twoCol{grid-template-columns:1fr}
+    .logo{font-size:2.1rem}
+    .plist{max-height:none}            /* bez zagnieżdżonego scrolla na telefonie */
+    .pitch{max-width:360px; margin:0 auto}
+    #configPitch{max-width:220px}
+    .reel{padding:12px 6px}
+    h3.sec{margin:16px 0 8px}
+  }
+  @media(max-width:380px){
+    .tiles{grid-template-columns:repeat(3,1fr); gap:6px}
+    .tile .tv{font-size:1.3rem}
+    .statusRow{flex-wrap:wrap}
   }
 </style>
 </head>
@@ -367,7 +381,7 @@ function renderPitch(el,slots,pickableCodesOrFn,onSlot){
         <div class="dot" style="${s.player?`background:${s.color};`:`border-color:${col}99;`}">
           ${s.player?initials(s.player.n):s.code}</div>
         <span class="nm">${s.player?lastName(s.player.n):POS_LABEL[s.code]}</span>
-        ${s.player?`<span class="cl">${s.club}</span><span class="rt">${getR(s.player)}</span>`:""}`;
+        ${s.player?`<span class="cl">${abbr(s.club)} <b>${getR(s.player)}</b></span>`:""}`;
       if(pick&&onSlot) div.onclick=()=>onSlot(s);
       row.appendChild(div);
     });
