@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>34-0 | Zbuduj najlepszą jedenastkę Ekstraklasy</title>
+<style>
+  :root{
+    --bg:#0a0f0c; --bg2:#0e1512; --card:#121a16; --line:#223028;
+    --txt:#e9efe9; --muted:#8aa093; --accent:#22c55e; --gold:#d9a534;
+    --pitch:#1f6f3d; --pitch2:#1a5e34;
+    --gk:#f59e0b; --def:#3b82f6; --mid:#22c55e; --att:#ef4444;
+  }
+  *{box-sizing:border-box}
+  body{
+    font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    background:radial-gradient(900px 500px at 50% -8%,#13241a,var(--bg));
+    color:var(--txt); margin:0; min-height:100vh; padding:18px;
+  }
+  .app{max-width:1040px; margin:0 auto}
+  .logo{font-size:2.6rem; font-weight:900; letter-spacing:1px; text-align:center; line-height:1}
+  .logo .d{display:inline-block; width:.42em; height:.13em; background:var(--accent);
+    border-radius:3px; vertical-align:middle; margin:0 .06em}
+  .tag{text-align:center; color:var(--muted); margin:8px 0 0; font-size:1rem}
+  .tag2{text-align:center; color:#5d6f63; margin:4px 0 22px; font-size:.85rem}
+  .pill{display:inline-block; border:1px solid var(--gold); color:var(--gold);
+    font-size:.72rem; font-weight:800; letter-spacing:1.5px; padding:5px 14px;
+    border-radius:999px; margin:0 auto 16px; }
+  .center{text-align:center}
+
+  h3.sec{font-size:.72rem; letter-spacing:2px; color:var(--muted); margin:22px 0 10px}
+  .opts{display:flex; gap:8px; flex-wrap:wrap}
+  .opt{flex:1; min-width:90px; background:var(--card); border:1px solid var(--line);
+    border-radius:10px; padding:12px; cursor:pointer; transition:.12s; text-align:center}
+  .opt:hover{border-color:#3a4d40}
+  .opt.sel{border-color:var(--accent); background:#13251a; box-shadow:0 0 0 1px var(--accent)}
+  .opt .t{font-weight:800}
+  .opt .s{color:var(--muted); font-size:.78rem; margin-top:3px}
+  .opt.gold.sel{border-color:var(--gold); box-shadow:0 0 0 1px var(--gold)}
+  .opt.gold.sel .t{color:var(--gold)}
+  .twoCol{display:grid; grid-template-columns:1fr 1fr; gap:8px}
+  .formDesc{color:var(--muted); font-size:.85rem; margin:8px 2px 0; min-height:1.2em}
+
+  .btn{background:var(--accent); color:#06210f; border:none; font-weight:800;
+    padding:15px 20px; border-radius:11px; font-size:1.05rem; cursor:pointer; width:100%}
+  .btn:disabled{opacity:.5; cursor:default}
+  .btn.ghost{background:transparent; color:var(--txt); border:1px solid var(--line)}
+  .btn.gold{background:var(--gold); color:#241a05}
+  .btn.sm{width:auto; padding:9px 14px; font-size:.85rem}
+
+  .panel{background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; margin-top:14px}
+
+  /* Boisko */
+  .pitch{position:relative; border:2px solid #2e8a4f; border-radius:14px;
+    background:repeating-linear-gradient(0deg,var(--pitch),var(--pitch) 9%,var(--pitch2) 9%,var(--pitch2) 18%);
+    padding:14px 6px; display:flex; flex-direction:column; gap:4px; aspect-ratio:7/9}
+  .pitch::before{content:""; position:absolute; left:6%; right:6%; top:50%; height:2px; background:rgba(255,255,255,.18)}
+  .pitch::after{content:""; position:absolute; left:50%; top:50%; width:74px; height:74px;
+    transform:translate(-50%,-50%); border:2px solid rgba(255,255,255,.18); border-radius:50%}
+  .prow{display:flex; justify-content:space-evenly; align-items:center; flex:1; position:relative; z-index:1}
+  .slot{width:60px; text-align:center; font-size:.6rem; line-height:1.1; color:#eafff0; text-shadow:0 1px 2px #0008}
+  .dot{width:34px; height:34px; border-radius:50%; margin:0 auto 3px; background:#0d1a12;
+    border:2px dashed #ffffff66; display:flex; align-items:center; justify-content:center; font-weight:800; font-size:.72rem}
+  .slot.filled .dot{border-style:solid; border-color:#fff}
+  .slot.pickable .dot{border-style:solid; border-color:var(--accent); cursor:pointer; animation:pulse 1.1s infinite}
+  .slot.pickable{cursor:pointer}
+  @keyframes pulse{50%{box-shadow:0 0 0 6px rgba(34,197,94,.3)}}
+  .slot .nm{font-weight:700; display:block; min-height:1.1em}
+  .slot .cl{font-size:.52rem; color:#cfe9d6; opacity:.85}
+  .slot .rt{font-size:.55rem; font-weight:800}
+
+  /* Draft layout */
+  .draftGrid{display:grid; grid-template-columns:300px 1fr; gap:16px; align-items:start}
+  .leftCol .meta{display:flex; justify-content:space-between; font-size:.8rem; color:var(--muted); margin-bottom:8px}
+  .leftCol .meta b{color:var(--txt)}
+  .progress{height:6px; background:#1c2620; border-radius:6px; overflow:hidden; margin-bottom:12px}
+  .progress > i{display:block; height:100%; background:var(--accent); width:0; transition:.3s}
+
+  .spinBox{text-align:center; padding:10px 0}
+  .reels{display:flex; gap:10px; justify-content:center; align-items:center; margin:14px 0}
+  .reel{flex:1; max-width:200px; background:#0c130f; border:1px solid var(--line); border-radius:10px; padding:14px 8px}
+  .reel .lab{font-size:.62rem; letter-spacing:1.5px; color:var(--muted)}
+  .reel .val{font-weight:800; font-size:1.05rem; margin-top:4px; min-height:1.3em}
+  .reel.season{max-width:120px}
+  .reel.season .val{color:var(--gold)}
+  .spinning .val{filter:blur(1px); opacity:.7}
+
+  .instr{color:var(--muted); font-size:.9rem; margin:4px 0 12px}
+  .instr b{color:var(--txt)}
+  .plist{display:flex; flex-direction:column; gap:8px; max-height:60vh; overflow-y:auto; padding-right:4px}
+  .pcard{display:flex; align-items:center; gap:12px; background:#0c130f; border:1px solid var(--line);
+    border-radius:10px; padding:10px 12px; cursor:pointer; transition:.1s}
+  .pcard:hover{background:#101a14; transform:translateX(2px)}
+  .pcard.dim{opacity:.35; cursor:not-allowed; filter:grayscale(.6)}
+  .pcard.dim:hover{transform:none; background:#0c130f}
+  .rbox{width:38px; height:38px; border-radius:8px; display:flex; align-items:center; justify-content:center;
+    font-weight:900; font-size:1rem; color:#08130c; flex:none}
+  .pinfo{flex:1; min-width:0}
+  .pinfo .pn{font-weight:700}
+  .pinfo .pnat{color:var(--muted); font-size:.76rem}
+  .badges{display:flex; gap:4px; flex-wrap:wrap; justify-content:flex-end}
+  .bdg{font-size:.6rem; font-weight:800; color:#06210f; padding:3px 6px; border-radius:5px}
+
+  .footer{display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-top:26px}
+  .fbtn{border:1px solid var(--line); color:var(--muted); background:transparent; text-decoration:none;
+    padding:8px 14px; border-radius:999px; font-size:.82rem; display:inline-flex; gap:6px; align-items:center}
+  .fbtn.coffee{border-color:var(--gold); color:var(--gold)}
+  .credit{text-align:center; color:#465249; font-size:.74rem; margin-top:12px}
+
+  /* End */
+  .scoreBig{font-size:3.2rem; font-weight:900; color:var(--accent); line-height:1}
+  .scoreSub{color:var(--muted); margin-top:2px}
+  .lbList{list-style:none; padding:0; margin:10px 0 0}
+  .lbList li{display:flex; justify-content:space-between; padding:8px 12px; border-radius:8px; background:#0c130f; margin-bottom:5px}
+  .lbList li.me{border:1px solid var(--accent)}
+  .lbRank{color:var(--muted); width:28px}
+  .lbName{flex:1; text-align:left; font-weight:700}
+  .lbScore{font-weight:900; color:var(--accent)}
+  input.name{background:#0c130f; border:1px solid var(--line); color:var(--txt);
+    padding:11px 12px; border-radius:9px; font-size:1rem; width:100%}
+  .row2{display:flex; gap:8px; margin-top:10px}
+  .row2 > *{flex:1}
+  .toast{position:fixed; bottom:22px; left:50%; transform:translateX(-50%); background:#0c130f;
+    border:1px solid var(--accent); color:var(--accent); padding:10px 16px; border-radius:10px; opacity:0;
+    transition:.25s; pointer-events:none; z-index:50}
+  .toast.show{opacity:1}
+  .hidden{display:none}
+
+  @media(max-width:780px){
+    .draftGrid{grid-template-columns:1fr}
+    .leftCol{order:2}
+    .twoCol{grid-template-columns:1fr}
+  }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <!-- ===== KONFIGURACJA ===== -->
+  <section id="screen-config">
+    <div class="center"><span class="pill">EKSTRAKLASA · DRAFT</span></div>
+    <div class="logo">34<span class="d"></span>0</div>
+    <p class="tag">Zbuduj najlepszą jedenastkę Ekstraklasy wszech czasów.</p>
+    <p class="tag2">Zakręć kołem. Wybieraj zawodników. Przejdziesz sezon bez porażki?</p>
+
+    <div class="panel">
+      <h3 class="sec">FORMACJA</h3>
+      <div class="opts" id="formationOpts"></div>
+      <p class="formDesc" id="formationDesc"></p>
+      <div class="panel" style="margin-top:12px;padding:10px"><div class="pitch" id="configPitch"></div></div>
+
+      <h3 class="sec">POZIOM TRUDNOŚCI</h3>
+      <div class="opts" id="diffOpts"></div>
+
+      <h3 class="sec">TRYB DRAFTU</h3>
+      <div class="twoCol" id="modeOpts"></div>
+
+      <h3 class="sec">OCENY ZAWODNIKÓW</h3>
+      <div class="twoCol" id="ratingOpts"></div>
+
+      <div style="margin-top:20px"><button class="btn" id="startBtn">Rozpocznij draft →</button></div>
+    </div>
+  </section>
+
+  <!-- ===== DRAFT ===== -->
+  <section id="screen-draft" class="hidden">
+    <div class="logo" style="font-size:1.7rem">34<span class="d" style="height:.11em"></span>0</div>
+    <div class="draftGrid">
+      <div class="leftCol">
+        <div class="panel">
+          <div class="meta">
+            <span>Formacja <b id="dFormation">4-3-3</b></span>
+            <span>Rerolle: <b id="dRerolls">0</b></span>
+          </div>
+          <div class="progress"><i id="dProgress"></i></div>
+          <div class="pitch" id="draftPitch"></div>
+        </div>
+      </div>
+      <div class="rightCol">
+        <div class="panel" id="actionPanel"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== KONIEC ===== -->
+  <section id="screen-end" class="hidden">
+    <div class="center">
+      <div class="logo" style="font-size:1.7rem">Twoja jedenastka 34<span class="d" style="height:.11em"></span>0</div>
+      <div class="scoreBig" id="endScore">—</div>
+      <div class="scoreSub" id="endSub"></div>
+    </div>
+    <div class="draftGrid">
+      <div class="leftCol"><div class="panel"><div class="pitch" id="endPitch"></div></div></div>
+      <div class="rightCol">
+        <div class="panel">
+          <h3 class="sec" style="margin-top:0">ZAPISZ WYNIK</h3>
+          <input class="name" id="playerName" placeholder="Twoje imię / ksywka" maxlength="18">
+          <div class="row2">
+            <button class="btn sm gold" id="saveBtn">Zapisz na ranking</button>
+            <button class="btn sm ghost" id="shareBtn">Skopiuj skład</button>
+          </div>
+          <h3 class="sec">RANKING (lokalny)</h3>
+          <ol class="lbList" id="lbList"></ol>
+          <button class="btn ghost" id="replayBtn" style="margin-top:14px">Zagraj ponownie</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="footer">
+    <a class="fbtn" href="#" id="lbFooter">🏆 Ranking</a>
+    <a class="fbtn" href="mailto:a.kurek9@gmail.com?subject=34-0%20feedback" target="_blank">✉ Feedback</a>
+    <a class="fbtn coffee" href="https://buymeacoffee.com/art_games" target="_blank">☕ Postaw mi kawę</a>
+  </div>
+  <p class="credit">Zainspirowane 38-0.app · gra fanowska, niekomercyjna · oceny i składy orientacyjne</p>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+/* =======================================================================
+   BAZA: kluby × sezony. Każdy zawodnik: n=nazwisko, nt=narodowość,
+   r=ocena (sezon), p=pozycje, pr=ocena "prime" (opcjonalnie)
+   Kody pozycji: GK RB LB CB CDM CM CAM RM LM RW LW ST
+======================================================================= */
+const SQUADS = [
+ {club:"Lech Poznań", season:"2009/10", color:"#1f6fd6", players:[
+   {n:"Krzysztof Kotorowski",nt:"Polska",r:76,p:["GK"]},
+   {n:"Jasmin Burić",nt:"Bośnia",r:72,p:["GK"]},
+   {n:"Manuel Arboleda",nt:"Kolumbia",r:78,p:["CB"]},
+   {n:"Bartosz Bosacki",nt:"Polska",r:75,p:["CB"]},
+   {n:"Grzegorz Wojtkowiak",nt:"Polska",r:74,p:["CB","RB"]},
+   {n:"Marcin Kikut",nt:"Polska",r:73,p:["RB","RM"]},
+   {n:"Dimitrije Injac",nt:"Serbia",r:73,p:["LB","CB","LM"]},
+   {n:"Sławomir Peszko",nt:"Polska",r:78,pr:80,p:["LM","LW","RM"]},
+   {n:"Semir Štilić",nt:"Bośnia",r:77,p:["CAM","CM","RM"]},
+   {n:"Rafał Murawski",nt:"Polska",r:75,p:["CM","CDM"]},
+   {n:"Ivan Đurđević",nt:"Serbia",r:73,p:["CDM","CM"]},
+   {n:"Bartosz Ślusarski",nt:"Polska",r:72,p:["ST","LW"]},
+   {n:"Robert Lewandowski",nt:"Polska",r:82,pr:92,p:["ST"]},
+   {n:"Artjoms Rudņevs",nt:"Łotwa",r:76,pr:80,p:["ST","LW"]},
+   {n:"Hernán Rengifo",nt:"Peru",r:74,p:["ST","RW","RM"]},
+ ]},
+ {club:"Lech Poznań", season:"2014/15", color:"#1f6fd6", players:[
+   {n:"Jasmin Burić",nt:"Bośnia",r:75,p:["GK"]},
+   {n:"Maciej Gostomski",nt:"Polska",r:70,p:["GK"]},
+   {n:"Tamás Kádár",nt:"Węgry",r:76,p:["CB","LB"]},
+   {n:"Marcin Kamiński",nt:"Polska",r:75,p:["CB"]},
+   {n:"Paulus Arajuuri",nt:"Finlandia",r:75,p:["CB"]},
+   {n:"Dariusz Dudka",nt:"Polska",r:74,p:["CB","CDM"]},
+   {n:"Barry Douglas",nt:"Szkocja",r:74,p:["LB","LM"]},
+   {n:"Gergő Lovrencsics",nt:"Węgry",r:74,p:["RB","RM"]},
+   {n:"Karol Linetty",nt:"Polska",r:78,pr:82,p:["CM","CAM"]},
+   {n:"Łukasz Trałka",nt:"Polska",r:75,p:["CDM","CM"]},
+   {n:"Kasper Hämäläinen",nt:"Finlandia",r:76,p:["LM","LW","CAM"]},
+   {n:"Darko Jevtić",nt:"Szwajcaria",r:75,p:["CAM","RW","RM"]},
+   {n:"Szymon Pawłowski",nt:"Polska",r:73,p:["RM","RW"]},
+   {n:"Denis Thomalla",nt:"Niemcy",r:73,p:["ST"]},
+   {n:"Zaur Sadayev",nt:"Rosja",r:73,p:["ST"]},
+   {n:"Dawid Kownacki",nt:"Polska",r:73,pr:78,p:["ST","LW"]},
+ ]},
+ {club:"Legia Warszawa", season:"2012/13", color:"#0f7a36", players:[
+   {n:"Dušan Kuciak",nt:"Słowacja",r:75,p:["GK"]},
+   {n:"Wojciech Skaba",nt:"Polska",r:68,p:["GK"]},
+   {n:"Iñaki Astiz",nt:"Hiszpania",r:74,p:["CB","CDM"]},
+   {n:"Tomasz Jodłowiec",nt:"Polska",r:75,p:["CB","CDM"]},
+   {n:"Jakub Rzeźniczak",nt:"Polska",r:73,p:["CB","RB"]},
+   {n:"Maciej Rybus",nt:"Polska",r:76,pr:79,p:["LB","LM","LW"]},
+   {n:"Ivica Vrdoljak",nt:"Chorwacja",r:75,p:["CDM","CM"]},
+   {n:"Ariel Borysiuk",nt:"Polska",r:74,p:["CM","CDM"]},
+   {n:"Janusz Gol",nt:"Polska",r:73,p:["CM","RM"]},
+   {n:"Miroslav Radović",nt:"Serbia",r:79,pr:82,p:["CAM","RW","ST"]},
+   {n:"Michał Kucharczyk",nt:"Polska",r:74,p:["LW","RW","LM"]},
+   {n:"Jakub Kosecki",nt:"Polska",r:73,p:["RW","LW","RM"]},
+   {n:"Henrik Ojamaa",nt:"Estonia",r:73,p:["LW","ST"]},
+   {n:"Marek Saganowski",nt:"Polska",r:75,p:["ST"]},
+   {n:"Michał Żyro",nt:"Polska",r:73,p:["ST","RW"]},
+ ]},
+ {club:"Legia Warszawa", season:"2015/16", color:"#0f7a36", players:[
+   {n:"Arkadiusz Malarz",nt:"Polska",r:73,p:["GK"]},
+   {n:"Michał Pazdan",nt:"Polska",r:78,pr:80,p:["CB"]},
+   {n:"Igor Lewczuk",nt:"Polska",r:74,p:["CB"]},
+   {n:"Adam Hloušek",nt:"Czechy",r:74,p:["LB","LM"]},
+   {n:"Łukasz Broź",nt:"Polska",r:72,p:["RB","RM"]},
+   {n:"Steeve Joseph-Reinette",nt:"Francja",r:71,p:["LB","CB"]},
+   {n:"Tomasz Jodłowiec",nt:"Polska",r:75,p:["CDM","CB"]},
+   {n:"Ondrej Duda",nt:"Słowacja",r:77,pr:81,p:["CAM","CM"]},
+   {n:"Vadis Odjidja-Ofoe",nt:"Belgia",r:77,p:["CM","CAM","CDM"]},
+   {n:"Thibault Moulin",nt:"Francja",r:73,p:["CAM","LM"]},
+   {n:"Guilherme",nt:"Brazylia",r:74,p:["LW","RW"]},
+   {n:"Michał Kucharczyk",nt:"Polska",r:74,p:["RW","LW","RM"]},
+   {n:"Miroslav Radović",nt:"Serbia",r:78,p:["CAM","RW","ST"]},
+   {n:"Nemanja Nikolić",nt:"Węgry",r:79,pr:82,p:["ST"]},
+   {n:"Aleksandar Prijović",nt:"Serbia",r:75,p:["ST"]},
+ ]},
+ {club:"Wisła Kraków", season:"2004/05", color:"#e11d2a", players:[
+   {n:"Mariusz Pawełek",nt:"Polska",r:73,p:["GK"]},
+   {n:"Krzysztof Dróżdż",nt:"Polska",r:67,p:["GK"]},
+   {n:"Arkadiusz Głowacki",nt:"Polska",r:75,p:["CB"]},
+   {n:"Marcin Baszczyński",nt:"Polska",r:74,p:["RB","CB","LB"]},
+   {n:"Paweł Kłeczek",nt:"Polska",r:71,p:["CB"]},
+   {n:"Tomasz Jarzębowski",nt:"Polska",r:71,p:["LB","LM"]},
+   {n:"Radosław Sobolewski",nt:"Polska",r:75,p:["CM","CDM"]},
+   {n:"Łukasz Garguła",nt:"Polska",r:73,p:["CM","CAM"]},
+   {n:"Kamil Kosowski",nt:"Polska",r:76,pr:78,p:["RM","RW","LM"]},
+   {n:"Mauro Cantoro",nt:"Argentyna",r:74,p:["CAM","RW"]},
+   {n:"Marcin Kuźba",nt:"Polska",r:73,p:["ST"]},
+   {n:"Maciej Żurawski",nt:"Polska",r:80,pr:83,p:["ST"]},
+   {n:"Tomasz Frankowski",nt:"Polska",r:78,pr:81,p:["ST"]},
+   {n:"Paweł Brożek",nt:"Polska",r:75,pr:80,p:["ST"]},
+ ]},
+ {club:"Raków Częstochowa", season:"2022/23", color:"#b3132a", players:[
+   {n:"Vladan Kovačević",nt:"Bośnia",r:78,pr:80,p:["GK"]},
+   {n:"Zoran Arsenić",nt:"Chorwacja",r:74,p:["CB"]},
+   {n:"Stratos Svarnas",nt:"Grecja",r:74,p:["CB"]},
+   {n:"Bogdan Racovițan",nt:"Rumunia",r:73,p:["CB"]},
+   {n:"Tomáš Petrášek",nt:"Czechy",r:73,p:["CB"]},
+   {n:"Fran Tudor",nt:"Chorwacja",r:74,p:["RB","RM"]},
+   {n:"Patryk Kun",nt:"Polska",r:73,p:["LB","LM"]},
+   {n:"Deian Sorescu",nt:"Rumunia",r:74,p:["RB","RW","RM"]},
+   {n:"Giannis Papanikolaou",nt:"Grecja",r:73,p:["CDM","CM"]},
+   {n:"Ben Lederman",nt:"USA",r:74,p:["CM","CAM"]},
+   {n:"Marcin Cebula",nt:"Polska",r:75,p:["CAM","RW","LW"]},
+   {n:"Ivi López",nt:"Hiszpania",r:80,pr:82,p:["LW","CAM","RW"]},
+   {n:"Mateusz Wdowiak",nt:"Polska",r:73,p:["RW","RM"]},
+   {n:"Vladislavs Gutkovskis",nt:"Łotwa",r:75,p:["ST"]},
+   {n:"Łukasz Zwoliński",nt:"Polska",r:72,p:["ST"]},
+ ]},
+ {club:"Piast Gliwice", season:"2018/19", color:"#2348c4", players:[
+   {n:"František Plach",nt:"Słowacja",r:74,p:["GK"]},
+   {n:"Jakub Czerwiński",nt:"Polska",r:74,p:["CB"]},
+   {n:"Tomáš Huk",nt:"Słowacja",r:72,p:["CB"]},
+   {n:"Uroš Korun",nt:"Słowenia",r:73,p:["CB"]},
+   {n:"Bartosz Rymaniak",nt:"Polska",r:71,p:["LB","CB"]},
+   {n:"Martin Konczkowski",nt:"Polska",r:71,p:["RB","RM"]},
+   {n:"Tom Hateley",nt:"Anglia",r:74,p:["CM","CDM"]},
+   {n:"Marek Hlinka",nt:"Słowacja",r:72,p:["CDM","CM"]},
+   {n:"Radosław Murawski",nt:"Polska",r:73,p:["CM"]},
+   {n:"Gerard Badía",nt:"Hiszpania",r:75,p:["CAM","CM"]},
+   {n:"Joel Valencia",nt:"Ekwador",r:76,pr:79,p:["LW","CAM","LM"]},
+   {n:"Patryk Lipski",nt:"Polska",r:73,p:["CAM","RW","RM"]},
+   {n:"Piotr Parzyszek",nt:"Polska",r:74,p:["ST"]},
+   {n:"Mateusz Szczepaniak",nt:"Polska",r:71,p:["ST","LW"]},
+ ]},
+ {club:"Widzew Łódź", season:"1996/97", color:"#d61f2b", players:[
+   {n:"Maciej Szczęsny",nt:"Polska",r:74,p:["GK"]},
+   {n:"Tomasz Kuszczak",nt:"Polska",r:69,p:["GK"]},
+   {n:"Tomasz Łapiński",nt:"Polska",r:76,pr:78,p:["CB","RB"]},
+   {n:"Krzysztof Bąk",nt:"Polska",r:71,p:["CB"]},
+   {n:"Zbigniew Wyciszkiewicz",nt:"Polska",r:71,p:["CB"]},
+   {n:"Dariusz Gęsior",nt:"Polska",r:73,p:["LB","LM"]},
+   {n:"Mirosław Myśliński",nt:"Polska",r:72,p:["RB","RM"]},
+   {n:"Mariusz Śpiewak",nt:"Polska",r:72,p:["CM","CDM"]},
+   {n:"Tomasz Sokołowski",nt:"Polska",r:73,p:["CAM","CM"]},
+   {n:"Maciej Czaja",nt:"Polska",r:70,p:["CM","LM"]},
+   {n:"Marek Citko",nt:"Polska",r:78,pr:81,p:["RW","LW","RM"]},
+   {n:"Radosław Gilewicz",nt:"Polska",r:75,p:["ST","CAM"]},
+   {n:"Sławomir Majak",nt:"Polska",r:74,p:["ST"]},
+   {n:"Marcin Mięciel",nt:"Polska",r:72,p:["ST"]},
+ ]},
+ {club:"Górnik Zabrze", season:"Złota era", color:"#1452a8", players:[
+   {n:"Hubert Kostka",nt:"Polska",r:76,p:["GK"]},
+   {n:"Jerzy Gorgoń",nt:"Polska",r:76,pr:79,p:["CB"]},
+   {n:"Stanisław Oślizło",nt:"Polska",r:74,p:["CB"]},
+   {n:"Henryk Wieczorek",nt:"Polska",r:73,p:["CB","CDM"]},
+   {n:"Antoni Szymanowski",nt:"Polska",r:75,p:["RB","LB"]},
+   {n:"Zygmunt Anczok",nt:"Polska",r:73,p:["LB","LM"]},
+   {n:"Zygfryd Szołtysik",nt:"Polska",r:76,p:["CAM","CM"]},
+   {n:"Alfred Olek",nt:"Polska",r:71,p:["CM","CDM"]},
+   {n:"Włodzimierz Mazur",nt:"Polska",r:74,p:["LW","CAM","LM"]},
+   {n:"Erwin Wilczek",nt:"Polska",r:73,p:["RW","LW","RM"]},
+   {n:"Jan Banaś",nt:"Polska",r:75,p:["ST","RW"]},
+   {n:"Włodzimierz Lubański",nt:"Polska",r:84,pr:88,p:["ST"]},
+   {n:"Andrzej Jarosik",nt:"Polska",r:74,p:["ST","CAM"]},
+   {n:"Joachim Marx",nt:"Polska",r:74,p:["ST"]},
+ ]},
+ {club:"Jagiellonia", season:"2023/24", color:"#f2b705", players:[
+   {n:"Sławomir Abramowicz",nt:"Polska",r:73,p:["GK"]},
+   {n:"Adrián Diéguez",nt:"Hiszpania",r:73,p:["CB"]},
+   {n:"Norbert Wojtuszek",nt:"Polska",r:72,p:["CB","RB"]},
+   {n:"Bartłomiej Wdowik",nt:"Polska",r:74,p:["LB","LM"]},
+   {n:"Taras Romanczuk",nt:"Polska",r:74,p:["CDM","CM","CB"]},
+   {n:"Jarosław Kubicki",nt:"Polska",r:73,p:["CDM","CM"]},
+   {n:"Sergi Samper",nt:"Hiszpania",r:73,p:["CM","CDM"]},
+   {n:"Nene",nt:"Portugalia",r:74,p:["CM","CAM"]},
+   {n:"Dominik Marczuk",nt:"Polska",r:73,p:["RW","RM"]},
+   {n:"Darko Churlinov",nt:"Macedonia",r:74,p:["LW","RW"]},
+   {n:"José Naranjo",nt:"Hiszpania",r:73,p:["RW","LW"]},
+   {n:"Jesús Imaz",nt:"Hiszpania",r:78,pr:80,p:["CAM","ST"]},
+   {n:"Afimico Pululu",nt:"Angola",r:75,p:["ST"]},
+   {n:"Marc Gual",nt:"Hiszpania",r:75,p:["ST","LW"]},
+ ]},
+ {club:"Śląsk Wrocław", season:"2011/12", color:"#1aa05a", players:[
+   {n:"Wojciech Pawłowski",nt:"Polska",r:72,p:["GK"]},
+   {n:"Krzysztof Pilarz",nt:"Polska",r:70,p:["GK"]},
+   {n:"Piotr Celeban",nt:"Polska",r:73,p:["CB"]},
+   {n:"Dudu Paraíba",nt:"Brazylia",r:73,p:["CB","CDM"]},
+   {n:"Mariusz Pawelec",nt:"Polska",r:71,p:["CB"]},
+   {n:"Tadeusz Socha",nt:"Polska",r:71,p:["LB","CB"]},
+   {n:"Sebastian Dudek",nt:"Polska",r:71,p:["RB","RM"]},
+   {n:"Łukasz Madej",nt:"Polska",r:72,p:["CDM","CM"]},
+   {n:"Sebastian Mila",nt:"Polska",r:77,pr:80,p:["CAM","CM","LM"]},
+   {n:"Robert Pich",nt:"Czechy",r:73,p:["RW","CAM","RM"]},
+   {n:"Waldemar Sobota",nt:"Polska",r:75,p:["RW","LW","RM"]},
+   {n:"Przemysław Paciorek",nt:"Polska",r:70,p:["LW","ST"]},
+   {n:"Johan Voskamp",nt:"Holandia",r:73,p:["ST"]},
+   {n:"Cristian Díaz",nt:"Argentyna",r:71,p:["ST","CAM"]},
+ ]},
+];
+
+/* ===== Formacje (od ataku u góry do bramki na dole) ===== */
+const FORMATIONS = {
+ "4-3-3":{desc:"Atak szerokością. Trzej napastnicy tworzą stałe zagrożenie.",
+   rows:[["LW","ST","RW"],["CM","CM","CM"],["LB","CB","CB","RB"],["GK"]]},
+ "4-4-2":{desc:"Klasyczna równowaga. Dwóch napastników, czterech pomocników.",
+   rows:[["ST","ST"],["LM","CM","CM","RM"],["LB","CB","CB","RB"],["GK"]]},
+ "4-5-1":{desc:"Kontrola środka pola. Jeden napastnik, gęsta pomoc.",
+   rows:[["ST"],["LM","CM","CM","CM","RM"],["LB","CB","CB","RB"],["GK"]]},
+ "3-5-2":{desc:"Trzej obrońcy, wahadłowi wysoko, dwóch z przodu.",
+   rows:[["ST","ST"],["LM","CM","CM","CM","RM"],["CB","CB","CB"],["GK"]]},
+ "5-4-1":{desc:"Defensywna twierdza. Pięciu z tyłu, solidny blok.",
+   rows:[["ST"],["LM","CM","CM","RM"],["LB","CB","CB","CB","RB"],["GK"]]},
+};
+const DIFF = {Easy:{label:"Łatwy",sub:"3 rerolle",rerolls:3,gold:false},
+              Normal:{label:"Normalny",sub:"1 reroll",rerolls:1,gold:true},
+              Hard:{label:"Trudny",sub:"bez rerolli — każdy wybór ostateczny",rerolls:0,gold:false}};
+const POS_LABEL={GK:"Bramkarz",RB:"Prawy obr.",LB:"Lewy obr.",CB:"Środ. obr.",CDM:"Defen. pom.",
+  CM:"Środ. pom.",CAM:"Ofen. pom.",RM:"Prawy pom.",LM:"Lewy pom.",RW:"Pr. skrzydło",LW:"Lw. skrzydło",ST:"Napastnik"};
+const GROUP=c=>["GK"].includes(c)?"gk":["RB","LB","CB"].includes(c)?"def":
+  ["CDM","CM","CAM","RM","LM"].includes(c)?"mid":"att";
+const GCOLOR={gk:"var(--gk)",def:"var(--def)",mid:"var(--mid)",att:"var(--att)"};
+
+/* ===== Stan ===== */
+let cfg={formation:"4-3-3",diff:"Normal",mode:"squad",ratings:"career"};
+let G=null; // game state
+const rand=n=>Math.floor(Math.random()*n);
+const getR=p=>cfg.ratings==="prime"?(p.pr||Math.min(99,p.r+2)):p.r;
+const $=id=>document.getElementById(id);
+const show=id=>{["screen-config","screen-draft","screen-end"].forEach(s=>$(s).classList.add("hidden"));$(id).classList.remove("hidden");window.scrollTo(0,0);};
+const initials=n=>n.split(" ").map(w=>w[0]).join("").slice(0,2).toUpperCase();
+
+/* ===== Render konfiguracji ===== */
+function buildConfig(){
+  const fo=$("formationOpts"); fo.innerHTML="";
+  Object.keys(FORMATIONS).forEach(f=>{
+    const d=document.createElement("div"); d.className="opt"+(f===cfg.formation?" sel":"");
+    d.innerHTML=`<div class="t">${f}</div>`;
+    d.onclick=()=>{cfg.formation=f; buildConfig();};
+    fo.appendChild(d);
+  });
+  $("formationDesc").textContent=FORMATIONS[cfg.formation].desc;
+  renderPitch($("configPitch"),slotsFor(cfg.formation),null,null);
+
+  const di=$("diffOpts"); di.innerHTML="";
+  Object.keys(DIFF).forEach(k=>{const o=DIFF[k];
+    const d=document.createElement("div"); d.className="opt"+(o.gold?" gold":"")+(k===cfg.diff?" sel":"");
+    d.innerHTML=`<div class="t">${o.label}</div><div class="s">${o.sub}</div>`;
+    d.onclick=()=>{cfg.diff=k; buildConfig();}; di.appendChild(d);
+  });
+
+  const mo=$("modeOpts"); mo.innerHTML="";
+  [["squad","Najpierw skład","Zakręć o klub, wybierz dowolnego zawodnika, przypisz pozycję."],
+   ["position","Najpierw pozycja","Wybierz slot, potem zakręć o klub, który go obsadzi."]].forEach(([k,t,s])=>{
+    const d=document.createElement("div"); d.className="opt"+(k===cfg.mode?" sel":"");
+    d.innerHTML=`<div class="t">${t}</div><div class="s">${s}</div>`;
+    d.onclick=()=>{cfg.mode=k; buildConfig();}; mo.appendChild(d);
+  });
+
+  const ro=$("ratingOpts"); ro.innerHTML="";
+  [["career","Sezonowe","Oceny z konkretnego sezonu danego klubu."],
+   ["prime","Prime","Każdy zawodnik w swojej życiowej formie."]].forEach(([k,t,s])=>{
+    const d=document.createElement("div"); d.className="opt"+(k===cfg.ratings?" sel":"");
+    d.innerHTML=`<div class="t">${t}</div><div class="s">${s}</div>`;
+    d.onclick=()=>{cfg.ratings=k; buildConfig();}; ro.appendChild(d);
+  });
+}
+function slotsFor(f){const s=[]; FORMATIONS[f].rows.forEach((row,ri)=>row.forEach(code=>s.push({id:s.length,code,row:ri,player:null})));return s;}
+
+/* ===== Render boiska ===== */
+function renderPitch(el,slots,pickableCodesOrFn,onSlot){
+  el.innerHTML="";
+  const rows={}; slots.forEach(s=>{(rows[s.row]=rows[s.row]||[]).push(s);});
+  Object.keys(rows).sort((a,b)=>a-b).forEach(ri=>{
+    const row=document.createElement("div"); row.className="prow";
+    rows[ri].forEach(s=>{
+      const pick = typeof pickableCodesOrFn==="function" ? pickableCodesOrFn(s) : false;
+      const div=document.createElement("div");
+      div.className="slot"+(s.player?" filled":"")+(pick?" pickable":"");
+      const col=s.player?s.color:GCOLOR[GROUP(s.code)];
+      div.innerHTML=`
+        <div class="dot" style="${s.player?`background:${s.color};`:`border-color:${col}99;`}">
+          ${s.player?initials(s.player.n):s.code}</div>
+        <span class="nm">${s.player?lastName(s.player.n):POS_LABEL[s.code]}</span>
+        ${s.player?`<span class="cl">${s.club}</span><span class="rt">${getR(s.player)}</span>`:""}`;
+      if(pick&&onSlot) div.onclick=()=>onSlot(s);
+      row.appendChild(div);
+    });
+    el.appendChild(row);
+  });
+}
+const lastName=n=>{const a=n.split(" ");return a.length>1?a[0][0]+". "+a.slice(1).join(" "):n;};
+
+/* ===== Start gry ===== */
+function startGame(){
+  G={slots:slotsFor(cfg.formation), rerolls:DIFF[cfg.diff].rerolls, picks:0,
+     phase:null, spunSquad:null, chosenPlayer:null, chosenSlot:null};
+  $("dFormation").textContent=cfg.formation;
+  show("screen-draft");
+  nextPick();
+}
+function openSlots(){return G.slots.filter(s=>!s.player);}
+function updateHud(){
+  $("dRerolls").textContent=G.rerolls;
+  $("dProgress").style.width=(G.picks/11*100)+"%";
+  renderPitch($("draftPitch"),G.slots, slotHighlight, slotClickHandler());
+}
+function slotHighlight(s){
+  if(G.phase==="choose-slot-first" && !s.player) return true;
+  if(G.phase==="choose-slot" && !s.player && G.chosenPlayer.p.includes(s.code)) return true;
+  return false;
+}
+function slotClickHandler(){
+  if(G.phase==="choose-slot-first") return s=>{ G.chosenSlot=s; spinPanelPositionMode(); };
+  if(G.phase==="choose-slot") return s=>{ assign(G.chosenPlayer, s); };
+  return null;
+}
+
+/* ===== Sterowanie turą ===== */
+function nextPick(){
+  if(G.picks>=11) return endGame();
+  G.spunSquad=null; G.chosenPlayer=null; G.chosenSlot=null;
+  if(cfg.mode==="squad"){ G.phase="idle"; renderSpinPanel("squad"); }
+  else { G.phase="choose-slot-first"; renderChooseSlotFirst(); }
+  updateHud();
+}
+
+/* --- Tryb: najpierw skład --- */
+function renderSpinPanel(){
+  const left=11-G.picks;
+  $("actionPanel").innerHTML=`
+    <h3 class="sec" style="margin-top:0">ZAKRĘĆ O SKŁAD</h3>
+    <p class="instr"><b>${left}</b> ${left===1?"pozycja":left<5?"pozycje":"pozycji"} do obsadzenia</p>
+    <div class="reels" id="reels">
+      <div class="reel"><div class="lab">KLUB</div><div class="val" id="reelClub">—</div></div>
+      <div class="reel season"><div class="lab">SEZON</div><div class="val" id="reelSeason">—</div></div>
+    </div>
+    <button class="btn" id="spinBtn">🎰 Zakręć kołem</button>`;
+  $("spinBtn").onclick=()=>doSpin(false);
+}
+function renderChooseSlotFirst(){
+  $("actionPanel").innerHTML=`
+    <h3 class="sec" style="margin-top:0">WYBIERZ POZYCJĘ</h3>
+    <p class="instr">Kliknij wolny slot na boisku, który chcesz obsadzić, a potem zakręć o klub.</p>`;
+}
+function spinPanelPositionMode(){
+  G.phase="pre-spin";
+  $("actionPanel").innerHTML=`
+    <h3 class="sec" style="margin-top:0">ZAKRĘĆ O KLUB</h3>
+    <p class="instr">Obsadzasz: <b>${POS_LABEL[G.chosenSlot.code]}</b></p>
+    <div class="reels">
+      <div class="reel"><div class="lab">KLUB</div><div class="val" id="reelClub">—</div></div>
+      <div class="reel season"><div class="lab">SEZON</div><div class="val" id="reelSeason">—</div></div>
+    </div>
+    <button class="btn" id="spinBtn">🎰 Zakręć kołem</button>`;
+  $("spinBtn").onclick=()=>doSpin(false);
+  updateHud();
+}
+
+/* ===== Losowanie ===== */
+function pickFinalSquad(){
+  let pool;
+  if(cfg.mode==="position"){
+    pool=SQUADS.filter(sq=>sq.players.some(p=>p.p.includes(G.chosenSlot.code)));
+  } else {
+    const open=openSlots();
+    pool=SQUADS.filter(sq=>sq.players.some(p=>open.some(s=>p.p.includes(s.code))));
+  }
+  if(!pool.length) pool=SQUADS;
+  return pool[rand(pool.length)];
+}
+function doSpin(isReroll){
+  if(isReroll){ if(G.rerolls<=0) return; G.rerolls--; updateHud(); }
+  const final=pickFinalSquad();
+  const btn=$("spinBtn"); if(btn) btn.disabled=true;
+  const reels=document.querySelectorAll(".reel"); reels.forEach(r=>r.classList.add("spinning"));
+  let t=0; const total=15;
+  const iv=setInterval(()=>{
+    const s=SQUADS[rand(SQUADS.length)];
+    $("reelClub").textContent=s.club; $("reelSeason").textContent=s.season; t++;
+    if(t>=total){ clearInterval(iv);
+      $("reelClub").textContent=final.club; $("reelSeason").textContent=final.season;
+      reels.forEach(r=>r.classList.remove("spinning"));
+      G.spunSquad=final; revealPlayers();
+    }
+  },70);
+}
+
+/* ===== Lista zawodników ===== */
+function revealPlayers(){
+  G.phase="choose-player";
+  const sq=G.spunSquad;
+  const open=openSlots();
+  // które karty są aktywne?
+  const usable=p=> cfg.mode==="position"
+      ? p.p.includes(G.chosenSlot.code)
+      : open.some(s=>p.p.includes(s.code));
+  const players=[...sq.players].sort((a,b)=>getR(b)-getR(a));
+  const anyUsable=players.some(usable);
+
+  const rerollBtn = G.rerolls>0
+    ? `<button class="btn sm ghost" id="rerollBtn">🔄 Reroll (${G.rerolls})</button>` : "";
+  const head = cfg.mode==="position"
+    ? `Obsadzasz <b>${POS_LABEL[G.chosenSlot.code]}</b> — wybierz pasującego zawodnika.`
+    : `Wybierz zawodnika, potem wskaż wolną pozycję na boisku.`;
+
+  $("actionPanel").innerHTML=`
+    <div style="display:flex;justify-content:space-between;align-items:center">
+      <h3 class="sec" style="margin:0">WYLOSOWANO</h3>${rerollBtn}</div>
+    <p class="instr"><span style="color:${sq.color};font-weight:800">${sq.club}</span>
+       <span style="color:var(--gold);font-weight:800"> ${sq.season}</span></p>
+    <p class="instr">${head}</p>
+    <div class="plist" id="plist"></div>
+    ${anyUsable?"":`<p class="instr" style="color:var(--att)">Brak pasujących zawodników do wolnych pozycji — zakręć ponownie.</p>
+       <button class="btn" id="freeReroll">🎰 Zakręć ponownie (gratis)</button>`}`;
+  if($("rerollBtn")) $("rerollBtn").onclick=()=>doSpin(true);
+  if($("freeReroll")) $("freeReroll").onclick=()=>{ cfg.mode==="position"?spinPanelPositionMode():(G.phase="idle",renderSpinPanel()); updateHud(); };
+
+  const list=$("plist");
+  players.forEach(p=>{
+    const ok=usable(p);
+    const g=GROUP(p.p[0]);
+    const card=document.createElement("div");
+    card.className="pcard"+(ok?"":" dim");
+    card.innerHTML=`
+      <div class="rbox" style="background:${GCOLOR[g]}">${getR(p)}</div>
+      <div class="pinfo"><div class="pn">${p.n}</div><div class="pnat">${p.nt}</div></div>
+      <div class="badges">${p.p.map(c=>`<span class="bdg" style="background:${GCOLOR[GROUP(c)]}">${c}</span>`).join("")}</div>`;
+    if(ok) card.onclick=()=>choosePlayer(p);
+    list.appendChild(card);
+  });
+}
+function choosePlayer(p){
+  if(cfg.mode==="position"){ assign(p, G.chosenSlot); return; }
+  G.chosenPlayer=p;
+  const elig=openSlots().filter(s=>p.p.includes(s.code));
+  if(elig.length===1){ assign(p, elig[0]); return; }
+  G.phase="choose-slot";
+  $("actionPanel").innerHTML=`
+    <h3 class="sec" style="margin-top:0">WYBIERZ POZYCJĘ</h3>
+    <p class="instr">Gdzie ustawić: <b>${p.n}</b> (${getR(p)})? Kliknij podświetlony slot na boisku.</p>
+    <button class="btn ghost sm" id="backBtn">← Wróć do listy</button>`;
+  $("backBtn").onclick=()=>revealPlayers();
+  updateHud();
+}
+function assign(p,slot){
+  slot.player=p; slot.club=G.spunSquad.club; slot.color=G.spunSquad.color; slot.season=G.spunSquad.season;
+  G.picks++;
+  nextPick();
+}
+
+/* ===== Koniec ===== */
+function endGame(){
+  const total=G.slots.reduce((s,x)=>s+getR(x.player),0);
+  const ovr=Math.round(total/11);
+  G.score=total; G.ovr=ovr;
+  $("endScore").textContent=ovr;
+  $("endSub").textContent=`Średnia ocena składu · suma ${total} pkt · ${cfg.formation}`;
+  renderPitch($("endPitch"),G.slots,null,null);
+  renderLeaderboard();
+  show("screen-end");
+}
+
+/* ===== Ranking (localStorage) ===== */
+const LB_KEY="lb-34-0";
+function getLB(){try{return JSON.parse(localStorage.getItem(LB_KEY))||[]}catch(e){return[]}}
+function renderLeaderboard(myEntry){
+  const lb=getLB().sort((a,b)=>b.score-a.score).slice(0,10);
+  const ol=$("lbList"); ol.innerHTML="";
+  if(!lb.length){ ol.innerHTML=`<li><span class="lbName" style="color:var(--muted)">Brak wyników — bądź pierwszy!</span></li>`; }
+  lb.forEach((e,i)=>{
+    const li=document.createElement("li");
+    if(myEntry&&e.t===myEntry.t) li.className="me";
+    li.innerHTML=`<span class="lbRank">${i+1}.</span><span class="lbName">${e.name}</span>
+      <span class="lbScore">${e.ovr}</span>`;
+    ol.appendChild(li);
+  });
+}
+$("saveBtn").onclick=()=>{
+  const name=($("playerName").value||"Anonim").trim().slice(0,18);
+  const entry={name,score:G.score,ovr:G.ovr,form:cfg.formation,t:Date.now()};
+  const lb=getLB(); lb.push(entry); localStorage.setItem(LB_KEY,JSON.stringify(lb));
+  renderLeaderboard(entry); toast("Zapisano na ranking!");
+};
+$("shareBtn").onclick=()=>{
+  const lines=[`⚽ Moja jedenastka 34-0 (Ekstraklasa) — OVR ${G.ovr} · ${cfg.formation}`,""];
+  G.slots.forEach(s=>lines.push(`${s.code}: ${s.player.n} ${getR(s.player)} (${s.club})`));
+  lines.push("","Zagraj sam → buymeacoffee.com/art_games  #340 #Ekstraklasa");
+  navigator.clipboard.writeText(lines.join("\n")).then(()=>toast("Skopiowano skład do schowka!"));
+};
+$("replayBtn").onclick=()=>{ buildConfig(); show("screen-config"); };
+$("startBtn").onclick=startGame;
+$("lbFooter").onclick=e=>{e.preventDefault(); renderLeaderboard(); show("screen-end");
+  $("endScore").textContent="🏆"; $("endSub").textContent="Najlepsze składy (lokalnie)";
+  $("endPitch").innerHTML=""; };
+
+function toast(msg){const t=$("toast"); t.textContent=msg; t.classList.add("show"); setTimeout(()=>t.classList.remove("show"),1800);}
+
+/* start */
+buildConfig();
+</script>
+</body>
+</html>
