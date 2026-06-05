@@ -8,7 +8,13 @@ sys.path.insert(0, "tools")
 import scrape_90minut as S
 
 # (rok startowy, sciezka tabeli na 90minut: "<poziom>/liga<NNN>")
-SEASONS = [(2021,"1/liga11753"),(2020,"1/liga11233"),(2019,"1/liga10549"),(2018,"0/liga9937")]
+SEASONS = [
+ (2017,"0/liga9322"),(2016,"0/liga8694"),(2015,"0/liga8069"),(2014,"0/liga7466"),
+ (2013,"0/liga6826"),(2012,"0/liga6218"),(2011,"0/liga5617"),(2010,"0/liga4991"),
+ (2009,"0/liga4389"),(2008,"0/liga3782"),(2007,"0/liga3155"),(2006,"0/liga2525"),
+ (2005,"0/liga1944"),(2004,"0/liga1329"),(2003,"0/liga632"),(2002,"0/liga188"),
+ (2001,"0/liga56"),
+]
 
 def clubs_of(path):
     t = S.fetch(f"http://www.90minut.pl/liga/{path}.html")
