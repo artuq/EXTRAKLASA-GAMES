@@ -1,0 +1,1062 @@
+[
+ {
+  "club": "Legia Warszawa",
+  "season": "1994/95",
+  "players": [
+   {
+    "n": "Arkadiusz Onyszko",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Szczesny",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Zbigniew Robakiewicz",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Juliusz Kruszankin",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Jacek Zieliński",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Piotr Mosor",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Krzysztof Ratajczyk",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Marek Jozwiak",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Zbigniew Mandziejewicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Marcin Jalocha",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Radoslaw Michalski",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Igor Koziol",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Grzegorz Lewandowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Jacek Bednarz",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Adam Fedoruk",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Leszek Pisz",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Tomasz Unton",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Grzegorz Wedzynski",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Jacek Kacprzak",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "LM",
+     "LW"
+    ]
+   },
+   {
+    "n": "Marcin Mieciel",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Wojciech Kowalczyk",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Jerzy Podbrozny",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Zbigniew Grzesiak",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Dariusz Szelag",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   }
+  ]
+ },
+ {
+  "club": "Widzew Łódź",
+  "season": "1995/96",
+  "players": [
+   {
+    "n": "Andrzej Wozniak",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Tomasz Muchiński",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcin Bogus",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Daniel Bogusz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Waldemar Jaskulski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Tomasz Łapiński",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Marek Bajor",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "RB"
+    ]
+   },
+   {
+    "n": "Andriy Mykhalchuk",
+    "nt": "Ukraina",
+    "grp": "DEF",
+    "p": [
+     "RB"
+    ]
+   },
+   {
+    "n": "Ryszard Czerwiec",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Pawel Miaszkiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Zbigniew Wyciszkiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Dariusz Podolski",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Rafal Kubiak",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Maciej Bielecki",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Marek Citko",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Miroslaw Szymkowiak",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Slawomir Gula",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Piotr Szarpak",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "RM",
+     "RW"
+    ]
+   },
+   {
+    "n": "Rafal Siadaczka",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "RM",
+     "RW"
+    ]
+   },
+   {
+    "n": "Marek Koniarek",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Bogdan Pikuta",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   }
+  ]
+ },
+ {
+  "club": "ŁKS Łódź",
+  "season": "1997/98",
+  "players": [
+   {
+    "n": "Boguslaw Wyparlo",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Grzegorz Krysiak",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Witold Bendkowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Mauro Sergio da Silva",
+    "nt": "Brazylia",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Tomasz Romaniuk",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Tomasz Klos",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Tomasz Kos",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Darlington Omodiagbe",
+    "nt": "Nigeria",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Daniel Trescinski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Ariel Jakubowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "LB"
+    ]
+   },
+   {
+    "n": "Tomasz Lenart",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "LB"
+    ]
+   },
+   {
+    "n": "Rafal Pawlak",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Zbigniew Wyciszkiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Rodrigo Carbone",
+    "nt": "Brazylia",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Fernando",
+    "nt": "Brazylia",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Saulo",
+    "nt": "Brazylia",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Kacper Derczynski",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Tomasz Wieszczycki",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Rafal Niznik",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CAM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Marek Saganowski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Daniel Dubicki",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Miroslaw Trzeciak",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Tomasz Cebula",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Austin Hamlet",
+    "nt": "Nigeria",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   }
+  ]
+ },
+ {
+  "club": "Wisła Kraków",
+  "season": "1998/99",
+  "players": [
+   {
+    "n": "Jakub Wierzchowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Artur Sarnat",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jacek Matyja",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Jakub Zurek",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Lukasz Skrzynski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Kazimierz Wegrzyn",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Krzysztof Smolinski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Grzegorz Kaliciak",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Bogdan Zajac",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "RB"
+    ]
+   },
+   {
+    "n": "Pawel Adamczyk",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "RB"
+    ]
+   },
+   {
+    "n": "Radoslaw Kaluzny",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Marek Zajac",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Ryszard Czerwiec",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Tomasz Kulawik",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Krzysztof Piszczek",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM"
+    ]
+   },
+   {
+    "n": "Pawel Nowak",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Slawomir Paluch",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "RM",
+     "RW"
+    ]
+   },
+   {
+    "n": "Krzysztof Bukalski",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CAM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Sunday Ibrahim",
+    "nt": "Nigeria",
+    "grp": "MID",
+    "p": [
+     "CAM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Grzegorz Pater",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "RW",
+     "ST"
+    ]
+   },
+   {
+    "n": "Olgierd Moskalewicz",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "CAM",
+     "ST"
+    ]
+   },
+   {
+    "n": "Daniel Dubicki",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Tomasz Frankowski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Grzegorz Nicinski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   }
+  ]
+ },
+ {
+  "club": "Polonia Warszawa",
+  "season": "1999/00",
+  "players": [
+   {
+    "n": "Robert Gubiec",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mariusz Liberda",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Szczesny",
+    "nt": "Polska",
+    "grp": "GK",
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Przemyslaw Boldt",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Mariusz Malinowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Jacek Paszulewicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Piotr Dziewicki",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Mariusz Pawlak",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Mariusz Unierzyski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Tomas Zvirgzdauskas",
+    "nt": "Litwa",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Tomasz Ciesielski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "CB"
+    ]
+   },
+   {
+    "n": "Tomasz Kielbowicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "LB"
+    ]
+   },
+   {
+    "n": "Jacek Dabrowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "LB"
+    ]
+   },
+   {
+    "n": "Krzysztof Sadzawicki",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "RB"
+    ]
+   },
+   {
+    "n": "Marcin Kus",
+    "nt": "Polska",
+    "grp": "DEF",
+    "p": [
+     "RB"
+    ]
+   },
+   {
+    "n": "Emmanuel Ekwueme",
+    "nt": "Nigeria",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Arkadiusz Kaliszan",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Piotr Kosiorowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CDM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Donatas Vencevičius",
+    "nt": "Litwa",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Mateusz Bartczak",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Tomasz Wieszczycki",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CM",
+     "CAM"
+    ]
+   },
+   {
+    "n": "Igor Golaszewski",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "RM",
+     "RW"
+    ]
+   },
+   {
+    "n": "Jaroslaw Mazurkiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "RM",
+     "RW"
+    ]
+   },
+   {
+    "n": "Arkadiusz Bak",
+    "nt": "Polska",
+    "grp": "MID",
+    "p": [
+     "CAM",
+     "CM"
+    ]
+   },
+   {
+    "n": "Emmanuel Olisadebe",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Maciej Bykowski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Bartosz Tarachulski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Grazvydas Mikulėnas",
+    "nt": "Litwa",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Marcin Wachowicz",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Tomasz Moskal",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Lukasz Wozniak",
+    "nt": "Polska",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   },
+   {
+    "n": "Mladen Alajbeg",
+    "nt": "Chorwacja",
+    "grp": "ATT",
+    "p": [
+     "ST"
+    ]
+   }
+  ]
+ }
+]

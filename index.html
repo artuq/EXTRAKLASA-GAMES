@@ -289,13 +289,16 @@
 
 <script src="data/ekstraklasa.js"></script>
     <script src="data/legendy.js"></script>
+    <script src="data/legendy90.js"></script>
 <script>
 /* =======================================================================
    BAZA: kluby × sezony. Każdy zawodnik: n=nazwisko, nt=narodowość,
    r=ocena (sezon), p=pozycje, pr=ocena "prime" (opcjonalnie)
    Kody pozycji: GK RB LB CB CDM CM CAM RM LM RW LW ST
 ======================================================================= */
-const SQUADS = (window.EKSTRAKLASA_SQUADS||[]).concat(window.LEGENDY_SQUADS||[]);
+const SQUADS = (window.EKSTRAKLASA_SQUADS||[])
+  .concat(window.LEGENDY_SQUADS||[])
+  .concat(window.LEGENDY90_SQUADS||[]);
 
 /* ===== Formacje (od ataku u góry do bramki na dole) ===== */
 const FORMATIONS = {
@@ -668,10 +671,8 @@ function renderPreSeason(){
     </div>
     <div class="odds">${bar("Mistrzostwo",p.odds.win,"var(--gold)")}${bar("Top 4",p.odds.top4,"var(--mid)")}
       ${bar("Top 6",p.odds.top6,"var(--def)")}${bar("Top 10",p.odds.top10,"#8b5cf6")}${bar("Spadek",p.odds.releg,"var(--att)")}</div>
-    <button class="btn" id="simBtn">⚽ Symuluj sezon →</button>
-    <button class="btn ghost" id="replayBtn" style="margin-top:8px">Nowy draft</button>`;
+    <button class="btn" id="simBtn">⚽ Symuluj sezon →</button>`;
   $("simBtn").onclick=runSim;
-  $("replayBtn").onclick=()=>{ buildConfig(); show("screen-config"); };
 }
 function runSim(){
   const res=simulate(G.proj.st);
