@@ -1,0 +1,4671 @@
+[
+ {
+  "club": "Lech Poznań",
+  "id_klub": 169,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Krzysztof Bąkowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Bartosz Mrozek",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 134,
+    "goals": 0
+   },
+   {
+    "n": "Mateusz Pruchniewski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Elias Andersson",
+    "nt": "Szwecja",
+    "grp": "DEF",
+    "apps": 27,
+    "goals": 0
+   },
+   {
+    "n": "Alex Douglas",
+    "nt": "Szwecja",
+    "grp": "DEF",
+    "apps": 30,
+    "goals": 0
+   },
+   {
+    "n": "Robert Gumny",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 105,
+    "goals": 2
+   },
+   {
+    "n": "Michał Gurgul",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 74,
+    "goals": 2
+   },
+   {
+    "n": "Hubert Janyszka",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Antonio Milić",
+    "nt": "Chorwacja",
+    "grp": "DEF",
+    "apps": 139,
+    "goals": 8
+   },
+   {
+    "n": "Wojciech Mońka",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 28,
+    "goals": 0
+   },
+   {
+    "n": "Bartosz Salamon",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 80,
+    "goals": 4
+   },
+   {
+    "n": "Mateusz Skrzypczak",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 110,
+    "goals": 7
+   },
+   {
+    "n": "Maciej Wichtowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Gísli Þórðarson",
+    "nt": "Islandia",
+    "grp": "MID",
+    "apps": 18,
+    "goals": 2
+   },
+   {
+    "n": "Bartłomiej Barański",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 7,
+    "goals": 1
+   },
+   {
+    "n": "Leo Bengtsson",
+    "nt": "Szwecja",
+    "grp": "MID",
+    "apps": 33,
+    "goals": 6
+   },
+   {
+    "n": "Sammy Dudek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Bryan Fiabema",
+    "nt": "Norwegia",
+    "grp": "MID",
+    "apps": 38,
+    "goals": 2
+   },
+   {
+    "n": "Ali Gholizadeh",
+    "nt": "Iran",
+    "grp": "MID",
+    "apps": 62,
+    "goals": 14
+   },
+   {
+    "n": "Tymoteusz Gmur",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Taofeek Ismaheel",
+    "nt": "Nigeria",
+    "grp": "MID",
+    "apps": 59,
+    "goals": 4
+   },
+   {
+    "n": "Filip Jagiełło",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 142,
+    "goals": 8
+   },
+   {
+    "n": "Antoni Kozubal",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 68,
+    "goals": 2
+   },
+   {
+    "n": "Kornel Lisman",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 26,
+    "goals": 1
+   },
+   {
+    "n": "Radosław Murawski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 235,
+    "goals": 7
+   },
+   {
+    "n": "Timothy Ouma",
+    "nt": "Kenia",
+    "grp": "MID",
+    "apps": 21,
+    "goals": 0
+   },
+   {
+    "n": "Luis Palma",
+    "nt": "Honduras",
+    "grp": "MID",
+    "apps": 31,
+    "goals": 10
+   },
+   {
+    "n": "Yannick Agnero",
+    "nt": "Wybrzeże Kości Słoniowej",
+    "grp": "ATT",
+    "apps": 27,
+    "goals": 3
+   },
+   {
+    "n": "Mikael Ishak",
+    "nt": "Szwecja",
+    "grp": "ATT",
+    "apps": 163,
+    "goals": 89
+   },
+   {
+    "n": "Kamil Jakóbczyk",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Pablo Rodríguez",
+    "nt": "Hiszpania",
+    "grp": "ATT",
+    "apps": 27,
+    "goals": 3
+   },
+   {
+    "n": "Filip Szymczak",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 100,
+    "goals": 10
+   },
+   {
+    "n": "Płamen Andrejew",
+    "nt": "Bułgaria",
+    "grp": "GK",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Daniel Håkans",
+    "nt": "Finlandia",
+    "grp": "MID",
+    "apps": 29,
+    "goals": 2
+   },
+   {
+    "n": "Patrik Wålemark",
+    "nt": "Szwecja",
+    "grp": "MID",
+    "apps": 39,
+    "goals": 10
+   },
+   {
+    "n": "Wojciech Szymczak",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   }
+  ]
+ },
+ {
+  "club": "Górnik Zabrze",
+  "id_klub": 101,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Antoni Bałabuch",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Tomasz Loska",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 80,
+    "goals": 0
+   },
+   {
+    "n": "Marcel Łubik",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 33,
+    "goals": 0
+   },
+   {
+    "n": "Piotr Pietryga",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Rafał Janicki",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 411,
+    "goals": 15
+   },
+   {
+    "n": "Erik Janža",
+    "nt": "Słowenia",
+    "grp": "DEF",
+    "apps": 211,
+    "goals": 9
+   },
+   {
+    "n": "Matúš Kmeť",
+    "nt": "Słowacja",
+    "grp": "DEF",
+    "apps": 23,
+    "goals": 1
+   },
+   {
+    "n": "Paweł Olkowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 183,
+    "goals": 6
+   },
+   {
+    "n": "Maksymilian Pingot",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 35,
+    "goals": 0
+   },
+   {
+    "n": "Michal Sáček",
+    "nt": "Czechy",
+    "grp": "DEF",
+    "apps": 78,
+    "goals": 1
+   },
+   {
+    "n": "Radosław Szafrański",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Dominik Szala",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 27,
+    "goals": 0
+   },
+   {
+    "n": "Kryspin Szcześniak",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 106,
+    "goals": 2
+   },
+   {
+    "n": "Abbati Abdullahi",
+    "nt": "Nigeria",
+    "grp": "MID",
+    "apps": 5,
+    "goals": 0
+   },
+   {
+    "n": "Lukáš Ambros",
+    "nt": "Czechy",
+    "grp": "MID",
+    "apps": 54,
+    "goals": 2
+   },
+   {
+    "n": "Maksym Chłań",
+    "nt": "Ukraina",
+    "grp": "MID",
+    "apps": 56,
+    "goals": 11
+   },
+   {
+    "n": "Bastien Donio",
+    "nt": "Francja",
+    "grp": "MID",
+    "apps": 9,
+    "goals": 0
+   },
+   {
+    "n": "Natan Dzięgielewski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Goh Young-jun",
+    "nt": "Korea Południowa",
+    "grp": "MID",
+    "apps": 9,
+    "goals": 0
+   },
+   {
+    "n": "Patrik Hellebrand",
+    "nt": "Czechy",
+    "grp": "MID",
+    "apps": 65,
+    "goals": 6
+   },
+   {
+    "n": "Taofeek Ismaheel",
+    "nt": "Nigeria",
+    "grp": "MID",
+    "apps": 59,
+    "goals": 4
+   },
+   {
+    "n": "Jarosław Kubicki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 331,
+    "goals": 24
+   },
+   {
+    "n": "Sondre Liseth",
+    "nt": "Norwegia",
+    "grp": "MID",
+    "apps": 42,
+    "goals": 8
+   },
+   {
+    "n": "Kamil Lukoszek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 64,
+    "goals": 8
+   },
+   {
+    "n": "Roberto Massimo",
+    "nt": "Niemcy",
+    "grp": "MID",
+    "apps": 12,
+    "goals": 0
+   },
+   {
+    "n": "Aleksander Tobolik",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 2,
+    "goals": 0
+   },
+   {
+    "n": "Lukas Podolski",
+    "nt": "Niemcy",
+    "grp": "ATT",
+    "apps": 125,
+    "goals": 23
+   },
+   {
+    "n": "Ousmane Sow",
+    "nt": "Senegal",
+    "grp": "ATT",
+    "apps": 29,
+    "goals": 8
+   },
+   {
+    "n": "Thodorís Tsirigótis",
+    "nt": "Grecja",
+    "grp": "ATT",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Luka Zahovič",
+    "nt": "Słowenia",
+    "grp": "ATT",
+    "apps": 144,
+    "goals": 29
+   },
+   {
+    "n": "Paweł Bochniewicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 91,
+    "goals": 5
+   },
+   {
+    "n": "Ondřej Zmrzlý",
+    "nt": "Czechy",
+    "grp": "DEF",
+    "apps": 10,
+    "goals": 0
+   },
+   {
+    "n": "Brandon Dominguès",
+    "nt": "Francja",
+    "grp": "MID",
+    "apps": 5,
+    "goals": 0
+   },
+   {
+    "n": "Yvan Ikia Dimi",
+    "nt": "Francja",
+    "grp": "MID",
+    "apps": 13,
+    "goals": 1
+   },
+   {
+    "n": "Michał Rakoczy",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 113,
+    "goals": 18
+   },
+   {
+    "n": "Lukáš Sadílek",
+    "nt": "Czechy",
+    "grp": "MID",
+    "apps": 15,
+    "goals": 4
+   },
+   {
+    "n": "Mathias Sauer",
+    "nt": "Dania",
+    "grp": "MID",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Borisław Rupanow",
+    "nt": "Bułgaria",
+    "grp": "ATT",
+    "apps": 6,
+    "goals": 0
+   }
+  ]
+ },
+ {
+  "club": "Jagiellonia Białystok",
+  "id_klub": 132,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Sławomir Abramowicz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 64,
+    "goals": 0
+   },
+   {
+    "n": "Adrian Damasiewicz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Miłosz Piekutowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Jakub Rabiczko",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Bartłomiej Żynel",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 9,
+    "goals": 0
+   },
+   {
+    "n": "Adrián Diéguez",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 74,
+    "goals": 1
+   },
+   {
+    "n": "Yūki Kobayashi",
+    "nt": "Japonia",
+    "grp": "DEF",
+    "apps": 15,
+    "goals": 1
+   },
+   {
+    "n": "Bartłomiej Krasiewicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Andy Pelmard",
+    "nt": "Madagaskar",
+    "grp": "DEF",
+    "apps": 18,
+    "goals": 0
+   },
+   {
+    "n": "Cezary Polak",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 14,
+    "goals": 0
+   },
+   {
+    "n": "Dušan Stojinović",
+    "nt": "Słowenia",
+    "grp": "DEF",
+    "apps": 61,
+    "goals": 0
+   },
+   {
+    "n": "Bartłomiej Wdowik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 142,
+    "goals": 12
+   },
+   {
+    "n": "Norbert Wojtuszek",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 103,
+    "goals": 4
+   },
+   {
+    "n": "Alejandro Cantero",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 7,
+    "goals": 0
+   },
+   {
+    "n": "Dawid Drachal",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 87,
+    "goals": 6
+   },
+   {
+    "n": "Leon Flach",
+    "nt": "USA",
+    "grp": "MID",
+    "apps": 33,
+    "goals": 1
+   },
+   {
+    "n": "Tōki Hirosawa",
+    "nt": "Japonia",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Jesús Imaz",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 269,
+    "goals": 110
+   },
+   {
+    "n": "Aziel Jackson",
+    "nt": "USA",
+    "grp": "MID",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Kamil Jóźwiak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 117,
+    "goals": 15
+   },
+   {
+    "n": "Eryk Kozłowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 5,
+    "goals": 0
+   },
+   {
+    "n": "Maciej Kuczyński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Oskar Lipiński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Marcin Listkowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 116,
+    "goals": 2
+   },
+   {
+    "n": "Sergio Lozano",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 14,
+    "goals": 3
+   },
+   {
+    "n": "Bartosz Mazurek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 25,
+    "goals": 1
+   },
+   {
+    "n": "Oskar Pietuszewski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 32,
+    "goals": 4
+   },
+   {
+    "n": "Alejandro Pozo",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 33,
+    "goals": 2
+   },
+   {
+    "n": "Louka Prip",
+    "nt": "Dania",
+    "grp": "MID",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Taras Romanczuk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 361,
+    "goals": 33
+   },
+   {
+    "n": "Miki Villar",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 30,
+    "goals": 2
+   },
+   {
+    "n": "Afimico Pululu",
+    "nt": "Demokratyczna Republika Konga",
+    "grp": "ATT",
+    "apps": 95,
+    "goals": 37
+   },
+   {
+    "n": "Dimítris Rállis",
+    "nt": "Grecja",
+    "grp": "ATT",
+    "apps": 15,
+    "goals": 3
+   },
+   {
+    "n": "Youssuf Sylla",
+    "nt": "Belgia",
+    "grp": "ATT",
+    "apps": 6,
+    "goals": 1
+   },
+   {
+    "n": "Apóstolos Konstantópoulos",
+    "nt": "Grecja",
+    "grp": "DEF",
+    "apps": 19,
+    "goals": 0
+   },
+   {
+    "n": "Szymon Pankiewicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 2,
+    "goals": 0
+   },
+   {
+    "n": "Nahuel Leiva",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 79,
+    "goals": 12
+   },
+   {
+    "n": "Kajetan Szmyt",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 128,
+    "goals": 15
+   },
+   {
+    "n": "Zachary Zalewski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 5,
+    "goals": 0
+   },
+   {
+    "n": "Samed Baždar",
+    "nt": "Bośnia",
+    "grp": "ATT",
+    "apps": 15,
+    "goals": 3
+   }
+  ]
+ },
+ {
+  "club": "Raków Częstochowa",
+  "id_klub": 330,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Jakub Mądrzyk",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 29,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Trelowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 64,
+    "goals": 0
+   },
+   {
+    "n": "Oliwier Zych",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 45,
+    "goals": 0
+   },
+   {
+    "n": "Zoran Arsenić",
+    "nt": "Chorwacja",
+    "grp": "DEF",
+    "apps": 194,
+    "goals": 6
+   },
+   {
+    "n": "Apóstolos Konstantópoulos",
+    "nt": "Grecja",
+    "grp": "DEF",
+    "apps": 19,
+    "goals": 0
+   },
+   {
+    "n": "Ariel Mosór",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 114,
+    "goals": 3
+   },
+   {
+    "n": "Bogdan Racovițan",
+    "nt": "Rumunia",
+    "grp": "DEF",
+    "apps": 82,
+    "goals": 4
+   },
+   {
+    "n": "Strátos Svárnas",
+    "nt": "Grecja",
+    "grp": "DEF",
+    "apps": 109,
+    "goals": 7
+   },
+   {
+    "n": "Fran Tudor",
+    "nt": "Chorwacja",
+    "grp": "DEF",
+    "apps": 186,
+    "goals": 6
+   },
+   {
+    "n": "Michael Ameyaw",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 124,
+    "goals": 16
+   },
+   {
+    "n": "Péter Baráth",
+    "nt": "Węgry",
+    "grp": "MID",
+    "apps": 50,
+    "goals": 3
+   },
+   {
+    "n": "Marko Bulat",
+    "nt": "Chorwacja",
+    "grp": "MID",
+    "apps": 31,
+    "goals": 4
+   },
+   {
+    "n": "Antoni Burkiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Jesús Díaz",
+    "nt": "Kolumbia",
+    "grp": "MID",
+    "apps": 38,
+    "goals": 2
+   },
+   {
+    "n": "Ivi López",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 135,
+    "goals": 50
+   },
+   {
+    "n": "Bogdan Mirčetić",
+    "nt": "Serbia",
+    "grp": "MID",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Erick Otieno",
+    "nt": "Kenia",
+    "grp": "MID",
+    "apps": 44,
+    "goals": 1
+   },
+   {
+    "n": "Tomasz Pieńko",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 133,
+    "goals": 13
+   },
+   {
+    "n": "Srđan Plavšić",
+    "nt": "Serbia",
+    "grp": "MID",
+    "apps": 26,
+    "goals": 1
+   },
+   {
+    "n": "Oskar Repka",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 65,
+    "goals": 11
+   },
+   {
+    "n": "Ibrahima Seck",
+    "nt": "Senegal",
+    "grp": "MID",
+    "apps": 7,
+    "goals": 0
+   },
+   {
+    "n": "Karol Struski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 51,
+    "goals": 1
+   },
+   {
+    "n": "Jonatan Braut Brunes",
+    "nt": "Norwegia",
+    "grp": "ATT",
+    "apps": 64,
+    "goals": 30
+   },
+   {
+    "n": "Lamine Diaby-Fadiga",
+    "nt": "Gwinea",
+    "grp": "ATT",
+    "apps": 55,
+    "goals": 10
+   },
+   {
+    "n": "Patryk Makuch",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 125,
+    "goals": 17
+   },
+   {
+    "n": "Imad Rondić",
+    "nt": "Bośnia",
+    "grp": "ATT",
+    "apps": 62,
+    "goals": 14
+   },
+   {
+    "n": "Dominik Czeremski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Wiktor Żołneczko",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Paweł Dawidowicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 44,
+    "goals": 1
+   },
+   {
+    "n": "Mitja Ilenič",
+    "nt": "Słowenia",
+    "grp": "DEF",
+    "apps": 5,
+    "goals": 0
+   },
+   {
+    "n": "Jerzy Napieraj",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Władysław Koczerhin",
+    "nt": "Ukraina",
+    "grp": "MID",
+    "apps": 105,
+    "goals": 18
+   },
+   {
+    "n": "Abraham Ojo",
+    "nt": "Nigeria",
+    "grp": "MID",
+    "apps": 2,
+    "goals": 0
+   },
+   {
+    "n": "Isak Brusberg",
+    "nt": "Szwecja",
+    "grp": "ATT",
+    "apps": 7,
+    "goals": 0
+   }
+  ]
+ },
+ {
+  "club": "GKS Katowice",
+  "id_klub": 81,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 110,
+    "goals": 0
+   },
+   {
+    "n": "Rafał Strączek",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 73,
+    "goals": 0
+   },
+   {
+    "n": "Patryk Szczuka",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Alan Czerwiński",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 228,
+    "goals": 4
+   },
+   {
+    "n": "Borja Galán",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 63,
+    "goals": 5
+   },
+   {
+    "n": "Konrad Gruszkowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 57,
+    "goals": 2
+   },
+   {
+    "n": "Bartosz Jaroszek",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Arkadiusz Jędrych",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 84,
+    "goals": 10
+   },
+   {
+    "n": "Lukas Klemenz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 116,
+    "goals": 9
+   },
+   {
+    "n": "Märten Kuusk",
+    "nt": "Estonia",
+    "grp": "DEF",
+    "apps": 42,
+    "goals": 1
+   },
+   {
+    "n": "Aleksander Paluszek",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 68,
+    "goals": 5
+   },
+   {
+    "n": "Grzegorz Rogala",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 17,
+    "goals": 0
+   },
+   {
+    "n": "Łukasz Trepka",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Marcin Wasielewski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 99,
+    "goals": 5
+   },
+   {
+    "n": "Adrian Błąd",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 132,
+    "goals": 9
+   },
+   {
+    "n": "Jesse Bosch",
+    "nt": "Holandia",
+    "grp": "MID",
+    "apps": 11,
+    "goals": 0
+   },
+   {
+    "n": "Alan Bród",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Mateusz Kowalczyk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 59,
+    "goals": 4
+   },
+   {
+    "n": "Kacper Łukasiak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 42,
+    "goals": 2
+   },
+   {
+    "n": "Jakub Łukowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 116,
+    "goals": 17
+   },
+   {
+    "n": "Eman Markovic",
+    "nt": "Norwegia",
+    "grp": "MID",
+    "apps": 25,
+    "goals": 8
+   },
+   {
+    "n": "Mateusz Marzec",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 45,
+    "goals": 3
+   },
+   {
+    "n": "Sebastian Milewski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 116,
+    "goals": 6
+   },
+   {
+    "n": "Bartosz Nowak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 206,
+    "goals": 43
+   },
+   {
+    "n": "Filip Rejczyk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 11,
+    "goals": 0
+   },
+   {
+    "n": "Miłosz Swatowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Marcel Wędrychowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 99,
+    "goals": 6
+   },
+   {
+    "n": "Aleksander Buksa",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 65,
+    "goals": 5
+   },
+   {
+    "n": "Jakub Kokosiński",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Maciej Rosołek",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 141,
+    "goals": 17
+   },
+   {
+    "n": "Ilja Szkurin",
+    "nt": "Białoruś",
+    "grp": "ATT",
+    "apps": 98,
+    "goals": 28
+   },
+   {
+    "n": "Adam Zreľák",
+    "nt": "Słowacja",
+    "grp": "ATT",
+    "apps": 117,
+    "goals": 27
+   },
+   {
+    "n": "Wojciech Pańkowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Marius Olsen",
+    "nt": "Norwegia",
+    "grp": "DEF",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Ćwielong",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Erik Jirka",
+    "nt": "Słowacja",
+    "grp": "MID",
+    "apps": 63,
+    "goals": 10
+   },
+   {
+    "n": "Damian Rasak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 229,
+    "goals": 14
+   },
+   {
+    "n": "Mateusz Wdowiak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 289,
+    "goals": 29
+   }
+  ]
+ },
+ {
+  "club": "Legia Warszawa",
+  "id_klub": 171,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Wojciech Banasik",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Gabriel Kobylak",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 47,
+    "goals": 1
+   },
+   {
+    "n": "Marcel Mendes-Dudziński",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Tobiasz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 98,
+    "goals": 0
+   },
+   {
+    "n": "Marco Burch",
+    "nt": "Szwajcaria",
+    "grp": "DEF",
+    "apps": 25,
+    "goals": 3
+   },
+   {
+    "n": "Artur Jędrzejczyk",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 312,
+    "goals": 10
+   },
+   {
+    "n": "Steve Kapuadi",
+    "nt": "Demokratyczna Republika Konga",
+    "grp": "DEF",
+    "apps": 106,
+    "goals": 5
+   },
+   {
+    "n": "Patryk Kun",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 191,
+    "goals": 7
+   },
+   {
+    "n": "Radovan Pankov",
+    "nt": "Serbia",
+    "grp": "DEF",
+    "apps": 70,
+    "goals": 4
+   },
+   {
+    "n": "Kamil Piątkowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 77,
+    "goals": 3
+   },
+   {
+    "n": "Arkadiusz Reca",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 85,
+    "goals": 7
+   },
+   {
+    "n": "Petar Stojanović",
+    "nt": "Słowenia",
+    "grp": "DEF",
+    "apps": 14,
+    "goals": 1
+   },
+   {
+    "n": "Jan Ziółkowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 24,
+    "goals": 1
+   },
+   {
+    "n": "Rafał Augustyniak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 142,
+    "goals": 13
+   },
+   {
+    "n": "Wahan Biczachczjan",
+    "nt": "Armenia",
+    "grp": "MID",
+    "apps": 126,
+    "goals": 17
+   },
+   {
+    "n": "Kacper Chodyna",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 166,
+    "goals": 25
+   },
+   {
+    "n": "Juergen Elitim",
+    "nt": "Kolumbia",
+    "grp": "MID",
+    "apps": 73,
+    "goals": 3
+   },
+   {
+    "n": "Bartosz Kapustka",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 189,
+    "goals": 24
+   },
+   {
+    "n": "Ryōya Morishita",
+    "nt": "Japonia",
+    "grp": "MID",
+    "apps": 48,
+    "goals": 7
+   },
+   {
+    "n": "Pascal Mozie",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Maciej Saletra",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Damian Szymański",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 109,
+    "goals": 8
+   },
+   {
+    "n": "Kacper Urbański",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 25,
+    "goals": 0
+   },
+   {
+    "n": "Wojciech Urbański",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 47,
+    "goals": 4
+   },
+   {
+    "n": "Noah Weißhaupt",
+    "nt": "Niemcy",
+    "grp": "MID",
+    "apps": 7,
+    "goals": 0
+   },
+   {
+    "n": "Paweł Wszołek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 240,
+    "goals": 40
+   },
+   {
+    "n": "Aleksander Wyganowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Jakub Żewłakow",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 10,
+    "goals": 0
+   },
+   {
+    "n": "Migouel Alfarela",
+    "nt": "Francja",
+    "grp": "ATT",
+    "apps": 17,
+    "goals": 2
+   },
+   {
+    "n": "Antonio Čolak",
+    "nt": "Chorwacja",
+    "grp": "ATT",
+    "apps": 43,
+    "goals": 13
+   },
+   {
+    "n": "Marc Gual",
+    "nt": "Hiszpania",
+    "grp": "ATT",
+    "apps": 101,
+    "goals": 35
+   },
+   {
+    "n": "Ermal Krasniqi",
+    "nt": "Kosowo",
+    "grp": "ATT",
+    "apps": 25,
+    "goals": 2
+   },
+   {
+    "n": "Jean-Pierre Nsame",
+    "nt": "Kamerun",
+    "grp": "ATT",
+    "apps": 16,
+    "goals": 6
+   },
+   {
+    "n": "Mileta Rajović",
+    "nt": "Dania",
+    "grp": "ATT",
+    "apps": 32,
+    "goals": 5
+   },
+   {
+    "n": "Ilja Szkurin",
+    "nt": "Białoruś",
+    "grp": "ATT",
+    "apps": 98,
+    "goals": 28
+   },
+   {
+    "n": "Otto Hindrich",
+    "nt": "Rumunia",
+    "grp": "GK",
+    "apps": 13,
+    "goals": 0
+   },
+   {
+    "n": "Jan Leszczyński",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Samuel Kováčik",
+    "nt": "Słowacja",
+    "grp": "MID",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Rafał Adamski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 40,
+    "goals": 6
+   }
+  ]
+ },
+ {
+  "club": "Zagłębie Lubin",
+  "id_klub": 439,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "grp": "GK",
+    "apps": 196,
+    "goals": 0
+   },
+   {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 93,
+    "goals": 0
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 168,
+    "goals": 0
+   },
+   {
+    "n": "Adam Matysek",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Josip Ćorluka",
+    "nt": "Bośnia",
+    "grp": "DEF",
+    "apps": 38,
+    "goals": 1
+   },
+   {
+    "n": "Mateusz Grzybek",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 112,
+    "goals": 9
+   },
+   {
+    "n": "Roman Jakuba",
+    "nt": "Ukraina",
+    "grp": "DEF",
+    "apps": 88,
+    "goals": 7
+   },
+   {
+    "n": "Bartłomiej Kłudka",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 96,
+    "goals": 3
+   },
+   {
+    "n": "Luka Lučić",
+    "nt": "Chorwacja",
+    "grp": "DEF",
+    "apps": 24,
+    "goals": 0
+   },
+   {
+    "n": "Aleks Ławniczak",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 149,
+    "goals": 8
+   },
+   {
+    "n": "Damian Michalski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 109,
+    "goals": 10
+   },
+   {
+    "n": "Michał Nalepa",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 239,
+    "goals": 14
+   },
+   {
+    "n": "Igor Orlikowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 45,
+    "goals": 3
+   },
+   {
+    "n": "Kamil Sochań",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Hubert Adamczyk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 32,
+    "goals": 2
+   },
+   {
+    "n": "Damian Dąbrowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 379,
+    "goals": 15
+   },
+   {
+    "n": "Jesús Díaz",
+    "nt": "Kolumbia",
+    "grp": "MID",
+    "apps": 38,
+    "goals": 2
+   },
+   {
+    "n": "Mateusz Dziewiatowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 17,
+    "goals": 1
+   },
+   {
+    "n": "Ludvig Fritzson",
+    "nt": "Szwecja",
+    "grp": "MID",
+    "apps": 5,
+    "goals": 0
+   },
+   {
+    "n": "Filip Kocaba",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 37,
+    "goals": 2
+   },
+   {
+    "n": "Jakub Kolan",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 32,
+    "goals": 1
+   },
+   {
+    "n": "Tomasz Makowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 179,
+    "goals": 5
+   },
+   {
+    "n": "Marek Mróz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 56,
+    "goals": 3
+   },
+   {
+    "n": "Kamil Nowogoński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Tomasz Pieńko",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 133,
+    "goals": 13
+   },
+   {
+    "n": "Cyprian Popielec",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Adam Radwański",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 80,
+    "goals": 7
+   },
+   {
+    "n": "Jakub Sypek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 81,
+    "goals": 9
+   },
+   {
+    "n": "Kajetan Szmyt",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 128,
+    "goals": 15
+   },
+   {
+    "n": "Mateusz Wdowiak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 289,
+    "goals": 29
+   },
+   {
+    "n": "Arkadiusz Woźniak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 215,
+    "goals": 24
+   },
+   {
+    "n": "Michális Kossídis",
+    "nt": "Grecja",
+    "grp": "ATT",
+    "apps": 64,
+    "goals": 14
+   },
+   {
+    "n": "Patryk Kusztal",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 20,
+    "goals": 0
+   },
+   {
+    "n": "Marcel Reguła",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 40,
+    "goals": 6
+   },
+   {
+    "n": "Wojciech Szafranek",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Maciej Urbański",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Sebastian Kowalczyk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 178,
+    "goals": 19
+   },
+   {
+    "n": "Jakub Ligocki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Seweryn Marek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Mihael Mlinarić",
+    "nt": "Chorwacja",
+    "grp": "ATT",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Levente Szabó",
+    "nt": "Węgry",
+    "grp": "ATT",
+    "apps": 16,
+    "goals": 3
+   }
+  ]
+ },
+ {
+  "club": "Wisła Płock",
+  "id_klub": 424,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Jakub Burek",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Oskar Klat",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Rafał Leszczyński",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 122,
+    "goals": 0
+   },
+   {
+    "n": "Stanisław Pruszkowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Kevin Čustović",
+    "nt": "Szwecja",
+    "grp": "DEF",
+    "apps": 25,
+    "goals": 0
+   },
+   {
+    "n": "Andrias Edmundsson",
+    "nt": "Wyspy Owcze",
+    "grp": "DEF",
+    "apps": 18,
+    "goals": 1
+   },
+   {
+    "n": "Marcus Haglind-Sangré",
+    "nt": "Szwecja",
+    "grp": "DEF",
+    "apps": 33,
+    "goals": 0
+   },
+   {
+    "n": "Fabian Hiszpański",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 43,
+    "goals": 1
+   },
+   {
+    "n": "Aleksandre Kalandadze",
+    "nt": "Gruzja",
+    "grp": "DEF",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Marcin Kamiński",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 192,
+    "goals": 11
+   },
+   {
+    "n": "Quentin Lecoeuche",
+    "nt": "Francja",
+    "grp": "DEF",
+    "apps": 28,
+    "goals": 0
+   },
+   {
+    "n": "Jakub Lejman",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Nemanja Mijušković",
+    "nt": "Czarnogóra",
+    "grp": "DEF",
+    "apps": 56,
+    "goals": 2
+   },
+   {
+    "n": "Bojan Nastić",
+    "nt": "Bośnia",
+    "grp": "DEF",
+    "apps": 74,
+    "goals": 1
+   },
+   {
+    "n": "Filip Zając",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Dawid Barnowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Adrian Bielka",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Gleb Kuczko",
+    "nt": "Białoruś",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Dominik Kun",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 153,
+    "goals": 7
+   },
+   {
+    "n": "Mateusz Leśniewski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Filip Lodziński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Wiktor Nowak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 32,
+    "goals": 4
+   },
+   {
+    "n": "Dani Pacheco",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 93,
+    "goals": 6
+   },
+   {
+    "n": "Krystian Pomorski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 18,
+    "goals": 0
+   },
+   {
+    "n": "Žan Rogelj",
+    "nt": "Słowenia",
+    "grp": "MID",
+    "apps": 26,
+    "goals": 3
+   },
+   {
+    "n": "Bartosz Borowski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Deni Jurić",
+    "nt": "Australia",
+    "grp": "ATT",
+    "apps": 19,
+    "goals": 5
+   },
+   {
+    "n": "Piotr Krawczyk",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 117,
+    "goals": 15
+   },
+   {
+    "n": "Giánnis Niárchos",
+    "nt": "Grecja",
+    "grp": "ATT",
+    "apps": 20,
+    "goals": 1
+   },
+   {
+    "n": "Łukasz Sekulski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 158,
+    "goals": 42
+   },
+   {
+    "n": "Oskar Tomczyk",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Matwiej Bochno",
+    "nt": "Białoruś",
+    "grp": "DEF",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Dion Gallapeni",
+    "nt": "Kosowo",
+    "grp": "DEF",
+    "apps": 20,
+    "goals": 1
+   },
+   {
+    "n": "Marin Karamarko",
+    "nt": "Chorwacja",
+    "grp": "DEF",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Nikodem Rogowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Dominik Sarapata",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 23,
+    "goals": 1
+   },
+   {
+    "n": "Kyriákos Savvídis",
+    "nt": "Grecja",
+    "grp": "MID",
+    "apps": 8,
+    "goals": 1
+   },
+   {
+    "n": "Saïd Hamulic",
+    "nt": "Bośnia",
+    "grp": "ATT",
+    "apps": 35,
+    "goals": 9
+   }
+  ]
+ },
+ {
+  "club": "Pogoń Szczecin",
+  "id_klub": 297,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Kuba Bochniarz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Valentin Cojocaru",
+    "nt": "Rumunia",
+    "grp": "GK",
+    "apps": 92,
+    "goals": 0
+   },
+   {
+    "n": "Krzysztof Kamiński",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 134,
+    "goals": 0
+   },
+   {
+    "n": "Maciej Kowal",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Łukasz Łęgowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Alex Peškovič",
+    "nt": "Słowacja",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Hussein Ali",
+    "nt": "Irak",
+    "grp": "DEF",
+    "apps": 16,
+    "goals": 2
+   },
+   {
+    "n": "Rafał Jakubowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Dimítris Keramítsis",
+    "nt": "Grecja",
+    "grp": "DEF",
+    "apps": 34,
+    "goals": 1
+   },
+   {
+    "n": "Leonárdo Koútris",
+    "nt": "Grecja",
+    "grp": "DEF",
+    "apps": 116,
+    "goals": 3
+   },
+   {
+    "n": "Jakub Lis",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 17,
+    "goals": 0
+   },
+   {
+    "n": "Wojciech Lisowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 38,
+    "goals": 0
+   },
+   {
+    "n": "Danijel Lončar",
+    "nt": "Bośnia",
+    "grp": "DEF",
+    "apps": 64,
+    "goals": 2
+   },
+   {
+    "n": "Benjamin Mendy",
+    "nt": "Francja",
+    "grp": "DEF",
+    "apps": 11,
+    "goals": 0
+   },
+   {
+    "n": "Linus Wahlqvist",
+    "nt": "Szwecja",
+    "grp": "DEF",
+    "apps": 100,
+    "goals": 2
+   },
+   {
+    "n": "Jakub Zawadzki",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Mateusz Bąk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Jan Biegański",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 49,
+    "goals": 0
+   },
+   {
+    "n": "Sam Greenwood",
+    "nt": "Anglia",
+    "grp": "MID",
+    "apps": 20,
+    "goals": 3
+   },
+   {
+    "n": "Kamil Grosicki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 250,
+    "goals": 65
+   },
+   {
+    "n": "Musa Juwara",
+    "nt": "Gambia",
+    "grp": "MID",
+    "apps": 18,
+    "goals": 1
+   },
+   {
+    "n": "Natan Ława",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 10,
+    "goals": 0
+   },
+   {
+    "n": "Rajmund Molnár",
+    "nt": "Węgry",
+    "grp": "MID",
+    "apps": 10,
+    "goals": 3
+   },
+   {
+    "n": "Paul Mukairu",
+    "nt": "Nigeria",
+    "grp": "MID",
+    "apps": 34,
+    "goals": 8
+   },
+   {
+    "n": "Mor N'Diaye",
+    "nt": "Senegal",
+    "grp": "MID",
+    "apps": 17,
+    "goals": 1
+   },
+   {
+    "n": "José Pozo",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 34,
+    "goals": 3
+   },
+   {
+    "n": "Adrian Przyborek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 69,
+    "goals": 4
+   },
+   {
+    "n": "Kacper Smoliński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 72,
+    "goals": 4
+   },
+   {
+    "n": "Fredrik Ulvestad",
+    "nt": "Norwegia",
+    "grp": "MID",
+    "apps": 91,
+    "goals": 17
+   },
+   {
+    "n": "Maciej Wojciechowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Kostorz",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 39,
+    "goals": 3
+   },
+   {
+    "n": "Efthýmis Kouloúris",
+    "nt": "Grecja",
+    "grp": "ATT",
+    "apps": 70,
+    "goals": 43
+   },
+   {
+    "n": "Patryk Paryzek",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 33,
+    "goals": 2
+   },
+   {
+    "n": "Kacper Stanowski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Axel Holewiński",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Attila Szalai",
+    "nt": "Węgry",
+    "grp": "DEF",
+    "apps": 14,
+    "goals": 0
+   },
+   {
+    "n": "Kellyn Acosta",
+    "nt": "USA",
+    "grp": "MID",
+    "apps": 11,
+    "goals": 1
+   },
+   {
+    "n": "Mads Agger",
+    "nt": "Dania",
+    "grp": "MID",
+    "apps": 12,
+    "goals": 1
+   },
+   {
+    "n": "Igor Brzyski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Jacek Czapliński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 5,
+    "goals": 0
+   },
+   {
+    "n": "Sebastian Rojek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Karol Angielski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 114,
+    "goals": 23
+   },
+   {
+    "n": "Filip Čuić",
+    "nt": "Bośnia",
+    "grp": "ATT",
+    "apps": 10,
+    "goals": 4
+   }
+  ]
+ },
+ {
+  "club": "Radomiak Radom",
+  "id_klub": 328,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Krystian Harciński",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Michał Jerke",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Wiktor Koptas",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Filip Majchrowicz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 90,
+    "goals": 0
+   },
+   {
+    "n": "Jérémy Blasco",
+    "nt": "Francja",
+    "grp": "DEF",
+    "apps": 15,
+    "goals": 1
+   },
+   {
+    "n": "Mateusz Cichocki",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 140,
+    "goals": 1
+   },
+   {
+    "n": "Adrián Diéguez",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 74,
+    "goals": 1
+   },
+   {
+    "n": "Jan Grzesik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 215,
+    "goals": 24
+   },
+   {
+    "n": "Steve Kingué",
+    "nt": "Kamerun",
+    "grp": "DEF",
+    "apps": 39,
+    "goals": 1
+   },
+   {
+    "n": "Zié Ouattara",
+    "nt": "Wybrzeże Kości Słoniowej",
+    "grp": "DEF",
+    "apps": 60,
+    "goals": 5
+   },
+   {
+    "n": "Josh Wilson-Esbrand",
+    "nt": "Anglia",
+    "grp": "DEF",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Roberto Alves",
+    "nt": "Szwajcaria",
+    "grp": "MID",
+    "apps": 93,
+    "goals": 7
+   },
+   {
+    "n": "Ibrahima Camará",
+    "nt": "Gwinea",
+    "grp": "MID",
+    "apps": 23,
+    "goals": 0
+   },
+   {
+    "n": "Chrístos Dónis",
+    "nt": "Grecja",
+    "grp": "MID",
+    "apps": 92,
+    "goals": 1
+   },
+   {
+    "n": "Paulius Golubickas",
+    "nt": "Litwa",
+    "grp": "MID",
+    "apps": 12,
+    "goals": 0
+   },
+   {
+    "n": "Michał Kaput",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 115,
+    "goals": 2
+   },
+   {
+    "n": "Józef Kolasa",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Mikołaj Molendowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Rafał Wolski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 263,
+    "goals": 38
+   },
+   {
+    "n": "Alex Niziołek",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Abdoul Tapsoba",
+    "nt": "Burkina Faso",
+    "grp": "ATT",
+    "apps": 45,
+    "goals": 7
+   },
+   {
+    "n": "Oskar Markiewicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Salifou Soumah",
+    "nt": "Gwinea",
+    "grp": "MID",
+    "apps": 12,
+    "goals": 1
+   },
+   {
+    "n": "Adam Żabicki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   }
+  ]
+ },
+ {
+  "club": "Korona Kielce",
+  "id_klub": 146,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Xavier Dziekoński",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 108,
+    "goals": 0
+   },
+   {
+    "n": "Rafał Mamla",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 17,
+    "goals": 0
+   },
+   {
+    "n": "Michał Mikielewicz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Michał Niedbała",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Jakub Budnicki",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Konrad Ciszek",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 7,
+    "goals": 0
+   },
+   {
+    "n": "Konrad Matuszewski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 134,
+    "goals": 4
+   },
+   {
+    "n": "Nikodem Niski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 19,
+    "goals": 0
+   },
+   {
+    "n": "Marcel Pięczek",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 83,
+    "goals": 4
+   },
+   {
+    "n": "Wiktor Popow",
+    "nt": "Bułgaria",
+    "grp": "DEF",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Pau Resta",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 49,
+    "goals": 6
+   },
+   {
+    "n": "Slobodan Rubežić",
+    "nt": "Czarnogóra",
+    "grp": "DEF",
+    "apps": 12,
+    "goals": 0
+   },
+   {
+    "n": "Bartłomiej Smolarczyk",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 32,
+    "goals": 1
+   },
+   {
+    "n": "Kóstas Sotiríou",
+    "nt": "Cypr",
+    "grp": "DEF",
+    "apps": 39,
+    "goals": 6
+   },
+   {
+    "n": "Hubert Zwoźny",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 46,
+    "goals": 0
+   },
+   {
+    "n": "Dawid Błanik",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 123,
+    "goals": 17
+   },
+   {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 230,
+    "goals": 17
+   },
+   {
+    "n": "Stjepan Davidović",
+    "nt": "Chorwacja",
+    "grp": "MID",
+    "apps": 29,
+    "goals": 2
+   },
+   {
+    "n": "Wiktor Długosz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 113,
+    "goals": 7
+   },
+   {
+    "n": "Wojciech Kamiński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 23,
+    "goals": 0
+   },
+   {
+    "n": "Jakub Kowalski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Kucharczyk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Minuczyc",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 2,
+    "goals": 0
+   },
+   {
+    "n": "Martin Remacle",
+    "nt": "Belgia",
+    "grp": "MID",
+    "apps": 94,
+    "goals": 10
+   },
+   {
+    "n": "Miłosz Strzeboński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 34,
+    "goals": 0
+   },
+   {
+    "n": "Tamar Svetlin",
+    "nt": "Słowenia",
+    "grp": "MID",
+    "apps": 33,
+    "goals": 1
+   },
+   {
+    "n": "Daniel Bąk",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 12,
+    "goals": 0
+   },
+   {
+    "n": "Mateusz Głowiński",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 2,
+    "goals": 0
+   },
+   {
+    "n": "Władimir Nikołow",
+    "nt": "Bułgaria",
+    "grp": "ATT",
+    "apps": 25,
+    "goals": 0
+   },
+   {
+    "n": "Simon Gustafson",
+    "nt": "Szwecja",
+    "grp": "MID",
+    "apps": 14,
+    "goals": 0
+   },
+   {
+    "n": "Adam Hańćko",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Mariusz Stępiński",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 112,
+    "goals": 29
+   }
+  ]
+ },
+ {
+  "club": "Motor Lublin",
+  "id_klub": 226,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Ivan Brkić",
+    "nt": "Chorwacja",
+    "grp": "GK",
+    "apps": 37,
+    "goals": 0
+   },
+   {
+    "n": "Patryk Kukulski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Gašper Tratnik",
+    "nt": "Słowenia",
+    "grp": "GK",
+    "apps": 15,
+    "goals": 0
+   },
+   {
+    "n": "Marek Bartoš",
+    "nt": "Słowacja",
+    "grp": "DEF",
+    "apps": 49,
+    "goals": 2
+   },
+   {
+    "n": "Bright Ede",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 17,
+    "goals": 1
+   },
+   {
+    "n": "Filip Luberecki",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 59,
+    "goals": 0
+   },
+   {
+    "n": "Hervé Matthys",
+    "nt": "Belgia",
+    "grp": "DEF",
+    "apps": 37,
+    "goals": 0
+   },
+   {
+    "n": "Paskal Meyer",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 5,
+    "goals": 0
+   },
+   {
+    "n": "Arkadiusz Murzacz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Arkadiusz Najemski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 44,
+    "goals": 1
+   },
+   {
+    "n": "Krystian Palacz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 25,
+    "goals": 0
+   },
+   {
+    "n": "Paweł Stolarski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 222,
+    "goals": 4
+   },
+   {
+    "n": "Filip Wójcik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 58,
+    "goals": 0
+   },
+   {
+    "n": "Florian Haxha",
+    "nt": "Kosowo",
+    "grp": "MID",
+    "apps": 7,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Karasek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 14,
+    "goals": 1
+   },
+   {
+    "n": "Michał Król",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 60,
+    "goals": 4
+   },
+   {
+    "n": "Franciszek Lewandowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 2,
+    "goals": 0
+   },
+   {
+    "n": "Jakub Łabojko",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 101,
+    "goals": 5
+   },
+   {
+    "n": "Mbaye N'Diaye",
+    "nt": "Senegal",
+    "grp": "MID",
+    "apps": 55,
+    "goals": 12
+   },
+   {
+    "n": "Sergi Samper",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 55,
+    "goals": 0
+   },
+   {
+    "n": "Mathieu Scalet",
+    "nt": "Francja",
+    "grp": "MID",
+    "apps": 62,
+    "goals": 5
+   },
+   {
+    "n": "Christopher Simon",
+    "nt": "Senegal",
+    "grp": "MID",
+    "apps": 22,
+    "goals": 2
+   },
+   {
+    "n": "Kacper Szymanek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Bradly van Hoeven",
+    "nt": "Holandia",
+    "grp": "MID",
+    "apps": 41,
+    "goals": 2
+   },
+   {
+    "n": "Bartosz Wolski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 68,
+    "goals": 8
+   },
+   {
+    "n": "Karol Czubak",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 32,
+    "goals": 18
+   },
+   {
+    "n": "Renat Dadaşov",
+    "nt": "Azerbejdżan",
+    "grp": "ATT",
+    "apps": 33,
+    "goals": 2
+   },
+   {
+    "n": "Kacper Plichta",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Borys Mołdach",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Artiom Akatow",
+    "nt": "Białoruś",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Krystian Brzozowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Thomas Santos",
+    "nt": "Dania",
+    "grp": "DEF",
+    "apps": 7,
+    "goals": 0
+   }
+  ]
+ },
+ {
+  "club": "Cracovia",
+  "id_klub": 51,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Konrad Cymerys",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Konrad Golonka",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Sebastian Madejski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 68,
+    "goals": 0
+   },
+   {
+    "n": "Henrich Ravas",
+    "nt": "Słowacja",
+    "grp": "GK",
+    "apps": 78,
+    "goals": 0
+   },
+   {
+    "n": "Kamil Glik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 78,
+    "goals": 4
+   },
+   {
+    "n": "Gustav Henriksson",
+    "nt": "Szwecja",
+    "grp": "DEF",
+    "apps": 44,
+    "goals": 2
+   },
+   {
+    "n": "Patryk Janasik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 96,
+    "goals": 2
+   },
+   {
+    "n": "Jakub Jugas",
+    "nt": "Czechy",
+    "grp": "DEF",
+    "apps": 81,
+    "goals": 3
+   },
+   {
+    "n": "Otar Kakabadze",
+    "nt": "Gruzja",
+    "grp": "DEF",
+    "apps": 112,
+    "goals": 11
+   },
+   {
+    "n": "Davíð Kristján Ólafsson",
+    "nt": "Islandia",
+    "grp": "DEF",
+    "apps": 49,
+    "goals": 4
+   },
+   {
+    "n": "Mauro Perković",
+    "nt": "Chorwacja",
+    "grp": "DEF",
+    "apps": 35,
+    "goals": 6
+   },
+   {
+    "n": "Dominik Piła",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 76,
+    "goals": 1
+   },
+   {
+    "n": "Boško Šutalo",
+    "nt": "Chorwacja",
+    "grp": "DEF",
+    "apps": 27,
+    "goals": 0
+   },
+   {
+    "n": "Brahim Traoré",
+    "nt": "Francja",
+    "grp": "DEF",
+    "apps": 14,
+    "goals": 0
+   },
+   {
+    "n": "Oskar Wójcik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 32,
+    "goals": 0
+   },
+   {
+    "n": "Amir Al-Ammari",
+    "nt": "Irak",
+    "grp": "MID",
+    "apps": 63,
+    "goals": 2
+   },
+   {
+    "n": "Milan Aleksić",
+    "nt": "Serbia",
+    "grp": "MID",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Jani Atanasov",
+    "nt": "Macedonia Północna",
+    "grp": "MID",
+    "apps": 68,
+    "goals": 8
+   },
+   {
+    "n": "Bartosz Biedrzycki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 26,
+    "goals": 0
+   },
+   {
+    "n": "Fabian Bzdyl",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 14,
+    "goals": 2
+   },
+   {
+    "n": "Ajdin Hasić",
+    "nt": "Bośnia",
+    "grp": "MID",
+    "apps": 56,
+    "goals": 10
+   },
+   {
+    "n": "Dijon Kameri",
+    "nt": "Austria",
+    "grp": "MID",
+    "apps": 22,
+    "goals": 2
+   },
+   {
+    "n": "Mateusz Klich",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 83,
+    "goals": 6
+   },
+   {
+    "n": "Karol Knap",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 112,
+    "goals": 6
+   },
+   {
+    "n": "Mikkel Maigaard",
+    "nt": "Dania",
+    "grp": "MID",
+    "apps": 66,
+    "goals": 7
+   },
+   {
+    "n": "Martin Minczew",
+    "nt": "Bułgaria",
+    "grp": "MID",
+    "apps": 40,
+    "goals": 5
+   },
+   {
+    "n": "Dawid Polak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Mateusz Pomietło",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Mateusz Praszelik",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 70,
+    "goals": 7
+   },
+   {
+    "n": "Michał Rakoczy",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 113,
+    "goals": 18
+   },
+   {
+    "n": "Mateusz Skoczylas",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Gabriel Charpentier",
+    "nt": "Kongo",
+    "grp": "ATT",
+    "apps": 7,
+    "goals": 2
+   },
+   {
+    "n": "Filip Stojilković",
+    "nt": "Szwajcaria",
+    "grp": "ATT",
+    "apps": 18,
+    "goals": 7
+   },
+   {
+    "n": "Kahveh Zahiroleslam",
+    "nt": "USA",
+    "grp": "ATT",
+    "apps": 23,
+    "goals": 3
+   },
+   {
+    "n": "Maxime Dominguez",
+    "nt": "Szwajcaria",
+    "grp": "MID",
+    "apps": 42,
+    "goals": 1
+   },
+   {
+    "n": "Pau Sans",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 14,
+    "goals": 1
+   },
+   {
+    "n": "Beno Selan",
+    "nt": "Słowenia",
+    "grp": "MID",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Mateusz Tabisz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Jean Batoum",
+    "nt": "Kamerun",
+    "grp": "ATT",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Wiktor Bogacz",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 1,
+    "goals": 0
+   }
+  ]
+ },
+ {
+  "club": "Widzew Łódź",
+  "id_klub": 419,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Mikołaj Biegański",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 19,
+    "goals": 0
+   },
+   {
+    "n": "Antoni Błocki",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 93,
+    "goals": 0
+   },
+   {
+    "n": "Veljko Ilić",
+    "nt": "Serbia",
+    "grp": "GK",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Maciej Kikolski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 40,
+    "goals": 0
+   },
+   {
+    "n": "Jan Krzywański",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 2,
+    "goals": 0
+   },
+   {
+    "n": "Stélios Andréou",
+    "nt": "Cypr",
+    "grp": "DEF",
+    "apps": 18,
+    "goals": 0
+   },
+   {
+    "n": "Dion Gallapeni",
+    "nt": "Kosowo",
+    "grp": "DEF",
+    "apps": 20,
+    "goals": 1
+   },
+   {
+    "n": "Samuel Kozlovský",
+    "nt": "Słowacja",
+    "grp": "DEF",
+    "apps": 50,
+    "goals": 1
+   },
+   {
+    "n": "Marcel Krajewski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 50,
+    "goals": 1
+   },
+   {
+    "n": "Peter Therkildsen",
+    "nt": "Dania",
+    "grp": "DEF",
+    "apps": 19,
+    "goals": 1
+   },
+   {
+    "n": "Ricardo Visus",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 19,
+    "goals": 0
+   },
+   {
+    "n": "Polydéfkis Volanákis",
+    "nt": "Grecja",
+    "grp": "DEF",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Mateusz Żyro",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 179,
+    "goals": 6
+   },
+   {
+    "n": "Samuel Akere",
+    "nt": "Nigeria",
+    "grp": "MID",
+    "apps": 15,
+    "goals": 1
+   },
+   {
+    "n": "Fran Álvarez",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 91,
+    "goals": 20
+   },
+   {
+    "n": "Ángel Baena",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 29,
+    "goals": 2
+   },
+   {
+    "n": "Kamil Cybulski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 36,
+    "goals": 1
+   },
+   {
+    "n": "Szymon Czyż",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 84,
+    "goals": 4
+   },
+   {
+    "n": "Mariusz Fornalczyk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 122,
+    "goals": 8
+   },
+   {
+    "n": "Marek Hanousek",
+    "nt": "Czechy",
+    "grp": "MID",
+    "apps": 93,
+    "goals": 2
+   },
+   {
+    "n": "Antoni Klukowski",
+    "nt": "Kanada",
+    "grp": "MID",
+    "apps": 16,
+    "goals": 0
+   },
+   {
+    "n": "Leon Madej",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Kuba Nawrocki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Bartłomiej Pawłowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 268,
+    "goals": 42
+   },
+   {
+    "n": "Lindon Selahi",
+    "nt": "Albania",
+    "grp": "MID",
+    "apps": 24,
+    "goals": 1
+   },
+   {
+    "n": "Juljan Shehu",
+    "nt": "Albania",
+    "grp": "MID",
+    "apps": 96,
+    "goals": 8
+   },
+   {
+    "n": "Tonio Teklić",
+    "nt": "Chorwacja",
+    "grp": "MID",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Kamil Andrzejkiewicz",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Pape Meïssa Ba",
+    "nt": "Senegal",
+    "grp": "ATT",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Sebastian Bergier",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 83,
+    "goals": 23
+   },
+   {
+    "n": "Daniel Gryzio",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Andi Zeqiri",
+    "nt": "Szwajcaria",
+    "grp": "ATT",
+    "apps": 24,
+    "goals": 1
+   },
+   {
+    "n": "Bartłomiej Drągowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 79,
+    "goals": 0
+   },
+   {
+    "n": "Christopher Cheng",
+    "nt": "Norwegia",
+    "grp": "DEF",
+    "apps": 9,
+    "goals": 0
+   },
+   {
+    "n": "Steve Kapuadi",
+    "nt": "Demokratyczna Republika Konga",
+    "grp": "DEF",
+    "apps": 106,
+    "goals": 5
+   },
+   {
+    "n": "Carlos Isaac Muñoz",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 11,
+    "goals": 1
+   },
+   {
+    "n": "Przemysław Wiśniewski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 138,
+    "goals": 2
+   },
+   {
+    "n": "Emil Kornvig",
+    "nt": "Dania",
+    "grp": "MID",
+    "apps": 15,
+    "goals": 2
+   },
+   {
+    "n": "Lukas Lerager",
+    "nt": "Dania",
+    "grp": "MID",
+    "apps": 10,
+    "goals": 1
+   },
+   {
+    "n": "Osman Bukari",
+    "nt": "Ghana",
+    "grp": "ATT",
+    "apps": 8,
+    "goals": 0
+   }
+  ]
+ },
+ {
+  "club": "Piast Gliwice",
+  "id_klub": 273,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "grp": "GK",
+    "apps": 245,
+    "goals": 0
+   },
+   {
+    "n": "Dawid Rychta",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Karol Szymański",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 14,
+    "goals": 0
+   },
+   {
+    "n": "Filip Borowski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 38,
+    "goals": 1
+   },
+   {
+    "n": "Jakub Czerwiński",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 288,
+    "goals": 15
+   },
+   {
+    "n": "Igor Drapiński",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 67,
+    "goals": 2
+   },
+   {
+    "n": "Jakub Lewicki",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 71,
+    "goals": 3
+   },
+   {
+    "n": "Tomasz Mokwa",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 112,
+    "goals": 3
+   },
+   {
+    "n": "Levis Pitan",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 4,
+    "goals": 0
+   },
+   {
+    "n": "Juande Rivas",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 29,
+    "goals": 4
+   },
+   {
+    "n": "Emmanuel Twumasi",
+    "nt": "Ghana",
+    "grp": "DEF",
+    "apps": 27,
+    "goals": 1
+   },
+   {
+    "n": "Quentin Boisgard",
+    "nt": "Francja",
+    "grp": "MID",
+    "apps": 22,
+    "goals": 2
+   },
+   {
+    "n": "Michał Chrapek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 360,
+    "goals": 36
+   },
+   {
+    "n": "Justin Daniel",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Patryk Dziczek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 172,
+    "goals": 19
+   },
+   {
+    "n": "Erik Jirka",
+    "nt": "Słowacja",
+    "grp": "MID",
+    "apps": 63,
+    "goals": 10
+   },
+   {
+    "n": "Mateusz Kopczyński",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Oskar Leśniak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 34,
+    "goals": 0
+   },
+   {
+    "n": "Jason Lokilo",
+    "nt": "Demokratyczna Republika Konga",
+    "grp": "MID",
+    "apps": 46,
+    "goals": 2
+   },
+   {
+    "n": "Kamil Lubowiecki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Szczepan Mucha",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 19,
+    "goals": 0
+   },
+   {
+    "n": "Grzegorz Tomasiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 190,
+    "goals": 17
+   },
+   {
+    "n": "Hugo Vallejo",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 27,
+    "goals": 4
+   },
+   {
+    "n": "Gierman Barkowskij",
+    "nt": "Białoruś",
+    "grp": "ATT",
+    "apps": 46,
+    "goals": 7
+   },
+   {
+    "n": "Adrián Dalmau",
+    "nt": "Hiszpania",
+    "grp": "ATT",
+    "apps": 73,
+    "goals": 17
+   },
+   {
+    "n": "Jakub Grelich",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Dominik Holec",
+    "nt": "Słowacja",
+    "grp": "GK",
+    "apps": 23,
+    "goals": 0
+   },
+   {
+    "n": "Elton Fikaj",
+    "nt": "Albania",
+    "grp": "DEF",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Oliwier Maziarz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Andréas Katsantónis",
+    "nt": "Cypr",
+    "grp": "ATT",
+    "apps": 25,
+    "goals": 2
+   }
+  ]
+ },
+ {
+  "club": "Lechia Gdańsk",
+  "id_klub": 165,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Kacper Gutowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Michał Kaczorowski",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Alex Paulsen",
+    "nt": "Nowa Zelandia",
+    "grp": "GK",
+    "apps": 24,
+    "goals": 0
+   },
+   {
+    "n": "Bohdan Sarnawśkyj",
+    "nt": "Ukraina",
+    "grp": "GK",
+    "apps": 15,
+    "goals": 0
+   },
+   {
+    "n": "Szymon Weirauch",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 37,
+    "goals": 0
+   },
+   {
+    "n": "Bartosz Brzęk",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Maksym Diaczuk",
+    "nt": "Ukraina",
+    "grp": "DEF",
+    "apps": 26,
+    "goals": 1
+   },
+   {
+    "n": "Alvis Jaunzems",
+    "nt": "Łotwa",
+    "grp": "DEF",
+    "apps": 66,
+    "goals": 2
+   },
+   {
+    "n": "Miłosz Kałahur",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 32,
+    "goals": 0
+   },
+   {
+    "n": "Bartłomiej Kłudka",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 96,
+    "goals": 3
+   },
+   {
+    "n": "Elias Olsson",
+    "nt": "Szwecja",
+    "grp": "DEF",
+    "apps": 40,
+    "goals": 1
+   },
+   {
+    "n": "Bujar Pllana",
+    "nt": "Albania",
+    "grp": "DEF",
+    "apps": 44,
+    "goals": 2
+   },
+   {
+    "n": "Matej Rodin",
+    "nt": "Bośnia",
+    "grp": "DEF",
+    "apps": 124,
+    "goals": 5
+   },
+   {
+    "n": "Matúš Vojtko",
+    "nt": "Słowacja",
+    "grp": "DEF",
+    "apps": 31,
+    "goals": 1
+   },
+   {
+    "n": "Mohamed Awadalla",
+    "nt": "Zjednoczone Emiraty Arabskie",
+    "grp": "MID",
+    "apps": 8,
+    "goals": 1
+   },
+   {
+    "n": "Bartosz Borkowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Anton Carenko",
+    "nt": "Ukraina",
+    "grp": "MID",
+    "apps": 36,
+    "goals": 2
+   },
+   {
+    "n": "Aleksandar Ćirković",
+    "nt": "Serbia",
+    "grp": "MID",
+    "apps": 24,
+    "goals": 4
+   },
+   {
+    "n": "Rifet Kapić",
+    "nt": "Bośnia",
+    "grp": "MID",
+    "apps": 64,
+    "goals": 9
+   },
+   {
+    "n": "Adam Kardaś",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Camilo Mena",
+    "nt": "Kolumbia",
+    "grp": "MID",
+    "apps": 63,
+    "goals": 9
+   },
+   {
+    "n": "Tomasz Neugebauer",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 62,
+    "goals": 5
+   },
+   {
+    "n": "Kyryło Paszko",
+    "nt": "Ukraina",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Bartosz Szczepankiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Karl Wendt",
+    "nt": "Szwecja",
+    "grp": "MID",
+    "apps": 13,
+    "goals": 1
+   },
+   {
+    "n": "Tomasz Wójtowicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 72,
+    "goals": 3
+   },
+   {
+    "n": "Iwan Żelizko",
+    "nt": "Ukraina",
+    "grp": "MID",
+    "apps": 55,
+    "goals": 10
+   },
+   {
+    "n": "Tomáš Bobček",
+    "nt": "Słowacja",
+    "grp": "ATT",
+    "apps": 46,
+    "goals": 27
+   },
+   {
+    "n": "Michał Głogowski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 21,
+    "goals": 1
+   },
+   {
+    "n": "Dawid Kurminowski",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 90,
+    "goals": 23
+   },
+   {
+    "n": "Kacper Sezonienko",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 110,
+    "goals": 9
+   },
+   {
+    "n": "Dorian Sinkiewicz",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Bohdan Wjunnyk",
+    "nt": "Ukraina",
+    "grp": "ATT",
+    "apps": 57,
+    "goals": 10
+   },
+   {
+    "n": "Indrit Mavraj",
+    "nt": "Kosowo",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Igor Bambecki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   }
+  ]
+ },
+ {
+  "club": "Arka Gdynia",
+  "id_klub": 7,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Jędrzej Grobelny",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 47,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Krzepisz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Damian Węglarz",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 64,
+    "goals": 0
+   },
+   {
+    "n": "Dawid Abramowicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 153,
+    "goals": 12
+   },
+   {
+    "n": "Julien Célestine",
+    "nt": "Francja",
+    "grp": "DEF",
+    "apps": 8,
+    "goals": 0
+   },
+   {
+    "n": "Dawid Gojny",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 22,
+    "goals": 1
+   },
+   {
+    "n": "Kike Hermoso",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 21,
+    "goals": 1
+   },
+   {
+    "n": "Michał Marcjanik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 120,
+    "goals": 6
+   },
+   {
+    "n": "Marc Navarro",
+    "nt": "Hiszpania",
+    "grp": "DEF",
+    "apps": 28,
+    "goals": 2
+   },
+   {
+    "n": "Przemysław Stolc",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Wołodymyr Wereszczak",
+    "nt": "Ukraina",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Dominick Zator",
+    "nt": "Kanada",
+    "grp": "DEF",
+    "apps": 77,
+    "goals": 1
+   },
+   {
+    "n": "Tornike Gaprindaszwili",
+    "nt": "Gruzja",
+    "grp": "MID",
+    "apps": 44,
+    "goals": 2
+   },
+   {
+    "n": "Kamil Jakubczyk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 31,
+    "goals": 2
+   },
+   {
+    "n": "Sebastian Kerk",
+    "nt": "Niemcy",
+    "grp": "MID",
+    "apps": 69,
+    "goals": 5
+   },
+   {
+    "n": "Dawid Kocyła",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 113,
+    "goals": 12
+   },
+   {
+    "n": "Aurélien Nguiamba",
+    "nt": "Francja",
+    "grp": "MID",
+    "apps": 58,
+    "goals": 0
+   },
+   {
+    "n": "João Oliveira",
+    "nt": "Szwajcaria",
+    "grp": "MID",
+    "apps": 33,
+    "goals": 3
+   },
+   {
+    "n": "Luis Perea",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 19,
+    "goals": 1
+   },
+   {
+    "n": "Zvonimir Petrović",
+    "nt": "Bośnia",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Marcel Predenkiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 12,
+    "goals": 0
+   },
+   {
+    "n": "Adam Ratajczyk",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 62,
+    "goals": 2
+   },
+   {
+    "n": "Alassane Sidibé",
+    "nt": "Wybrzeże Kości Słoniowej",
+    "grp": "MID",
+    "apps": 21,
+    "goals": 0
+   },
+   {
+    "n": "Kacper Skóra",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Patryk Szysz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 123,
+    "goals": 23
+   },
+   {
+    "n": "Hide Vitalucci",
+    "nt": "Japonia",
+    "grp": "MID",
+    "apps": 6,
+    "goals": 0
+   },
+   {
+    "n": "Edu Espiau",
+    "nt": "Hiszpania",
+    "grp": "ATT",
+    "apps": 29,
+    "goals": 6
+   },
+   {
+    "n": "Nazarij Rusyn",
+    "nt": "Ukraina",
+    "grp": "ATT",
+    "apps": 23,
+    "goals": 4
+   },
+   {
+    "n": "Szymon Sobczak",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 14,
+    "goals": 0
+   },
+   {
+    "n": "Andrei Vlad",
+    "nt": "Rumunia",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Serafin Szota",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 96,
+    "goals": 2
+   },
+   {
+    "n": "Wojciech Zacharewicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Olaf Gohlike",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Nikodem Gozdecki",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 1,
+    "goals": 0
+   },
+   {
+    "n": "Oskar Kubiak",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 14,
+    "goals": 3
+   },
+   {
+    "n": "Michał Rzuchowski",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 74,
+    "goals": 2
+   },
+   {
+    "n": "Vladislavs Gutkovskis",
+    "nt": "Łotwa",
+    "grp": "ATT",
+    "apps": 164,
+    "goals": 39
+   }
+  ]
+ },
+ {
+  "club": "Bruk-Bet Termalica Nieciecza",
+  "id_klub": 19729,
+  "season": "2025/26",
+  "players": [
+   {
+    "n": "Adrián Chovan",
+    "nt": "Słowacja",
+    "grp": "GK",
+    "apps": 22,
+    "goals": 0
+   },
+   {
+    "n": "Maciej Janicki",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Miłosz Mleczko",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 13,
+    "goals": 0
+   },
+   {
+    "n": "Eric Topór",
+    "nt": "Polska",
+    "grp": "GK",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Radu Boboc",
+    "nt": "Rumunia",
+    "grp": "DEF",
+    "apps": 27,
+    "goals": 0
+   },
+   {
+    "n": "Damian Hilbrycht",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 33,
+    "goals": 6
+   },
+   {
+    "n": "Gabriel Isik",
+    "nt": "Niemcy",
+    "grp": "DEF",
+    "apps": 29,
+    "goals": 1
+   },
+   {
+    "n": "Arkadiusz Kasperkiewicz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 74,
+    "goals": 4
+   },
+   {
+    "n": "Bartosz Kopacz",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 268,
+    "goals": 12
+   },
+   {
+    "n": "Miłosz Kozik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Lucas Masoero",
+    "nt": "Argentyna",
+    "grp": "DEF",
+    "apps": 19,
+    "goals": 0
+   },
+   {
+    "n": "Noah Mrosek",
+    "nt": "Niemcy",
+    "grp": "DEF",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Artem Putiwcew",
+    "nt": "Ukraina",
+    "grp": "DEF",
+    "apps": 119,
+    "goals": 5
+   },
+   {
+    "n": "Maciej Wolski",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 71,
+    "goals": 1
+   },
+   {
+    "n": "Maciej Ambrosiewicz",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 112,
+    "goals": 1
+   },
+   {
+    "n": "Morgan Faßbender",
+    "nt": "Niemcy",
+    "grp": "MID",
+    "apps": 29,
+    "goals": 3
+   },
+   {
+    "n": "Sergio Guerrero",
+    "nt": "Hiszpania",
+    "grp": "MID",
+    "apps": 28,
+    "goals": 2
+   },
+   {
+    "n": "Wojciech Jakubik",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 23,
+    "goals": 0
+   },
+   {
+    "n": "Vlastimir Jovanović",
+    "nt": "Bośnia",
+    "grp": "MID",
+    "apps": 236,
+    "goals": 12
+   },
+   {
+    "n": "Krzysztof Kubica",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 86,
+    "goals": 14
+   },
+   {
+    "n": "Rafał Kurzawa",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 203,
+    "goals": 12
+   },
+   {
+    "n": "Igor Strzałek",
+    "nt": "Polska",
+    "grp": "MID",
+    "apps": 63,
+    "goals": 2
+   },
+   {
+    "n": "Dominik Biniek",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 10,
+    "goals": 0
+   },
+   {
+    "n": "Diego Deisadze",
+    "nt": "Gruzja",
+    "grp": "ATT",
+    "apps": 3,
+    "goals": 0
+   },
+   {
+    "n": "Jesús Jiménez",
+    "nt": "Hiszpania",
+    "grp": "ATT",
+    "apps": 152,
+    "goals": 42
+   },
+   {
+    "n": "Andrzej Trubeha",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 52,
+    "goals": 3
+   },
+   {
+    "n": "Kamil Zapolnik",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 108,
+    "goals": 14
+   },
+   {
+    "n": "Miłosz Matysik",
+    "nt": "Polska",
+    "grp": "DEF",
+    "apps": 48,
+    "goals": 1
+   },
+   {
+    "n": "Ivan Durdov",
+    "nt": "Chorwacja",
+    "grp": "ATT",
+    "apps": 16,
+    "goals": 3
+   },
+   {
+    "n": "Kacper Surowiec",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   },
+   {
+    "n": "Paweł Surowiec",
+    "nt": "Polska",
+    "grp": "ATT",
+    "apps": 0,
+    "goals": 0
+   }
+  ]
+ }
+]
