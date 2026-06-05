@@ -127,6 +127,54 @@
   .lbRank{color:var(--muted); width:28px}
   .lbName{flex:1; text-align:left; font-weight:700}
   .lbScore{font-weight:900; color:var(--accent)}
+  .lbMeta{font-size:.7rem; color:var(--muted)}
+
+  /* Ekran końcowy: ocena + rozbicie */
+  .ovrRow{display:flex; align-items:center; justify-content:space-between; margin-bottom:10px}
+  .ovrLab{font-size:.72rem; letter-spacing:2px; color:var(--muted)}
+  .ovrBig{font-size:2.4rem; font-weight:900; line-height:1}
+  .brk{display:flex; align-items:center; gap:8px; margin:7px 0}
+  .brk .bl{width:74px; font-size:.78rem; color:var(--muted); flex:none}
+  .brk .bt{width:34px; text-align:right; font-weight:800; flex:none}
+  .brk-bar{flex:1; height:7px; background:#1c2620; border-radius:6px; overflow:hidden}
+  .brk-bar > i{display:block; height:100%; border-radius:6px}
+
+  /* Lista jedenastki */
+  .xirow{display:flex; align-items:center; gap:10px; padding:8px 4px; border-bottom:1px solid var(--line)}
+  .xirow:last-child{border-bottom:none}
+  .xipos{width:34px; text-align:center; font-size:.6rem; font-weight:800; color:#fff;
+    padding:3px 0; border-radius:5px; flex:none}
+  .xiname{flex:1; font-weight:700; font-size:.92rem}
+  .xiclub{font-size:.74rem; color:var(--muted); text-align:right}
+  .xiclub b{color:var(--txt)}
+  .xiclub .ss{color:var(--gold)}
+
+  /* Kursy / wynik */
+  .odds{margin:8px 0}
+  .odds .or{display:flex; justify-content:space-between; font-size:.82rem; margin-bottom:3px}
+  .oddsbar{height:6px; background:#1c2620; border-radius:6px; overflow:hidden; margin-bottom:9px}
+  .oddsbar > i{display:block; height:100%; border-radius:6px}
+  .bigStat{display:flex; justify-content:space-between; align-items:flex-end; margin:6px 0 14px}
+  .bigStat .lab{font-size:.72rem; letter-spacing:1.5px; color:var(--muted)}
+  .bigStat .v{font-size:2rem; font-weight:900; line-height:1}
+  .tiles{display:grid; grid-template-columns:repeat(3,1fr); gap:8px; margin:12px 0}
+  .tile{background:#0c130f; border:1px solid var(--line); border-radius:10px; padding:12px 6px; text-align:center}
+  .tile .tv{font-size:1.5rem; font-weight:900}
+  .tile .tl{font-size:.66rem; color:var(--muted); margin-top:2px}
+  .statusRow{display:flex; gap:8px; margin:12px 0}
+  .statusRow .sb{flex:1; background:#0c130f; border:1px solid var(--line); border-radius:10px; padding:10px; text-align:center}
+  .statusRow .sb .sl{font-size:.62rem; letter-spacing:1px; color:var(--muted)}
+  .statusRow .sb .sv{font-size:1.2rem; font-weight:900}
+  .statusRow .sb.good{border-color:var(--accent)} .statusRow .sb.good .sv{color:var(--accent)}
+  .statusRow .sb.bad{border-color:var(--att)} .statusRow .sb.bad .sv{color:var(--att)}
+  .flavor{background:#0c130f; border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin:12px 0}
+  .flavor .ft{font-weight:800; letter-spacing:.5px; margin-bottom:5px}
+  .flavor .fb{font-size:.86rem; color:var(--muted); line-height:1.45}
+  .simCounter{text-align:center; padding:24px 0}
+  .simCounter .sk{font-size:.8rem; color:var(--muted)}
+  .simCounter .sn{font-size:3rem; font-weight:900; line-height:1; margin:6px 0}
+  .simCounter .wdl{display:flex; justify-content:center; gap:16px; font-weight:900; font-size:1.2rem}
+  .wdl .w{color:var(--accent)} .wdl .d{color:var(--muted)} .wdl .l{color:var(--att)}
   input.name{background:#0c130f; border:1px solid var(--line); color:var(--txt);
     padding:11px 12px; border-radius:9px; font-size:1rem; width:100%}
   .row2{display:flex; gap:8px; margin-top:10px}
@@ -195,25 +243,21 @@
 
   <!-- ===== KONIEC ===== -->
   <section id="screen-end" class="hidden">
-    <div class="center">
-      <div class="logo" style="font-size:1.7rem">Twoja jedenastka 34<span class="d" style="height:.11em"></span>0</div>
-      <div class="scoreBig" id="endScore">—</div>
-      <div class="scoreSub" id="endSub"></div>
-    </div>
     <div class="draftGrid">
-      <div class="leftCol"><div class="panel"><div class="pitch" id="endPitch"></div></div></div>
-      <div class="rightCol">
-        <div class="panel">
-          <h3 class="sec" style="margin-top:0">ZAPISZ WYNIK</h3>
-          <input class="name" id="playerName" placeholder="Twoje imię / ksywka" maxlength="18">
-          <div class="row2">
-            <button class="btn sm gold" id="saveBtn">Zapisz na ranking</button>
-            <button class="btn sm ghost" id="shareBtn">Skopiuj skład</button>
-          </div>
-          <h3 class="sec">RANKING (lokalny)</h3>
-          <ol class="lbList" id="lbList"></ol>
-          <button class="btn ghost" id="replayBtn" style="margin-top:14px">Zagraj ponownie</button>
+      <div class="leftCol">
+        <div class="panel" id="endPitchPanel"><div class="pitch" id="endPitch"></div></div>
+        <div class="panel" id="ratingPanel">
+          <div class="ovrRow"><span class="ovrLab">OCENA OGÓLNA</span><span class="ovrBig" id="endOvr">—</span></div>
+          <div id="breakdown"></div>
         </div>
+      </div>
+      <div class="rightCol">
+        <div class="panel" id="xiPanel">
+          <h3 class="sec" style="margin-top:0">TWOJA JEDENASTKA</h3>
+          <div class="instr" id="xiSub"></div>
+          <div id="xiList"></div>
+        </div>
+        <div class="panel" id="resultPanel"></div>
       </div>
     </div>
   </section>
@@ -514,54 +558,191 @@ function assign(p,slot){
   nextPick();
 }
 
-/* ===== Koniec ===== */
+/* ===== Koniec: ocena, kursy, symulacja ===== */
+const CLUB_ABBR={
+ "Lech Poznań":"LEC","Legia Warszawa":"LEG","Raków Częstochowa":"RAK","Górnik Zabrze":"GÓR",
+ "GKS Katowice":"GKS","Jagiellonia Białystok":"JAG","Zagłębie Lubin":"ZAG","Wisła Płock":"PŁO",
+ "Pogoń Szczecin":"POG","Radomiak Radom":"RAD","Korona Kielce":"KOR","Motor Lublin":"MOT",
+ "Cracovia":"CRA","Widzew Łódź":"WID","Piast Gliwice":"PIA","Lechia Gdańsk":"LGD",
+ "Arka Gdynia":"ARK","Bruk-Bet Termalica Nieciecza":"BBT"};
+const abbr=c=>CLUB_ABBR[c]||c.replace(/[^A-Za-zĄ-ż]/g,"").slice(0,3).toUpperCase();
+const seasonShort=s=>s.replace(/^20/,"");
+
+function avgGroup(g){
+  const r=G.slots.filter(s=>GROUP(s.code)===g).map(s=>getR(s.player));
+  return r.length? r.reduce((a,b)=>a+b,0)/r.length : 70;
+}
+function lineRatings(){return {att:avgGroup("att"),mid:avgGroup("mid"),def:avgGroup("def"),gk:avgGroup("gk")};}
+
+/* matematyka sezonu */
+function erf(x){const t=1/(1+0.3275911*Math.abs(x));
+  const y=1-(((((1.061405429*t-1.453152027)*t)+1.421413741)*t-0.284496736)*t+0.254829592)*t*Math.exp(-x*x);
+  return x>=0?y:-y;}
+const Phi=(x,m,s)=>0.5*(1+erf((x-m)/(s*Math.SQRT2)));
+function poisson(l){let L=Math.exp(-l),k=0,p=1;do{k++;p*=Math.random();}while(p>L);return k-1;}
+function poisProbs(lf,la,max=9){
+  const pf=[],pa=[]; let tf=Math.exp(-lf),ta=Math.exp(-la);
+  for(let k=0;k<=max;k++){pf[k]=tf;pa[k]=ta;tf*=lf/(k+1);ta*=la/(k+1);}
+  let w=0,d=0;
+  for(let a=0;a<=max;a++)for(let b=0;b<=max;b++){const pr=pf[a]*pa[b];
+    if(a>b)w+=pr;else if(a===b)d+=pr;}
+  return {w,d};
+}
+function strengths(){const L=lineRatings();
+  return {atk:0.75*L.att+0.25*L.mid, def:0.58*L.def+0.27*L.gk+0.15*L.mid};}
+const BASE=1.35,K=14,OPP=72;
+const lambdas=(st,opp)=>({lf:BASE*Math.exp((st.atk-opp)/K), la:BASE*Math.exp((opp-st.def)/K)});
+const posFromPts=p=>Math.max(1,Math.min(18,Math.round(1+(78-p)*(17/52))));
+const ORD=["—","Mistrz Polski","Wicemistrz","3.","4.","5.","6.","7.","8.","9.","10.","11.","12.","13.","14.","15.","16.","17.","18."];
+
+function projection(){
+  const st=strengths(), {lf,la}=lambdas(st,OPP), pp=poisProbs(lf,la);
+  const projPts=Math.round(34*(3*pp.w+pp.d)), projPos=posFromPts(projPts);
+  const odds={win:1-Phi(75,projPts,7), top4:1-Phi(59,projPts,7), top6:1-Phi(53,projPts,7),
+              top10:1-Phi(45,projPts,7), releg:Phi(34,projPts,7)};
+  for(const k in odds) odds[k]=Math.max(0.2,Math.min(99.5,odds[k]*100));
+  return {projPts,projPos,odds,st};
+}
+function simulate(st){
+  let W=0,D=0,L=0,gf=0,ga=0;
+  for(let i=0;i<34;i++){
+    const opp=Math.max(62,Math.min(82,OPP+(Math.random()+Math.random()-1)*9));
+    const {lf,la}=lambdas(st,opp), a=poisson(lf), b=poisson(la);
+    gf+=a; ga+=b;
+    if(a>b)W++; else if(a===b)D++; else L++;
+  }
+  return {W,D,L,gf,ga,pts:W*3+D,pos:posFromPts(W*3+D)};
+}
+
 function endGame(){
   const total=G.slots.reduce((s,x)=>s+getR(x.player),0);
-  const ovr=Math.round(total/11);
-  G.score=total; G.ovr=ovr;
-  $("endScore").textContent=ovr;
-  $("endSub").textContent=`Średnia ocena składu · suma ${total} pkt · ${cfg.formation}`;
-  const lc=$("endPitch").closest(".leftCol"); if(lc) lc.style.display="";
-  $("saveBtn").style.display=""; $("shareBtn").style.display="";
+  G.ovr=Math.round(total/11); G.proj=projection(); G.sim=null;
+  renderEnd(); show("screen-end");
+}
+function renderEnd(){
+  $("endPitchPanel").style.display=""; $("ratingPanel").style.display=""; $("xiPanel").style.display="";
   renderPitch($("endPitch"),G.slots,null,null);
+  $("endOvr").textContent=G.ovr;
+  const L=lineRatings();
+  $("breakdown").innerHTML=[["Atak",L.att,"var(--att)"],["Pomoc",L.mid,"var(--mid)"],
+    ["Obrona",L.def,"var(--def)"],["Bramkarz",L.gk,"var(--gk)"]].map(([n,v,c])=>{
+    const w=Math.max(5,Math.min(100,(v-50)*2.2));
+    return `<div class="brk"><span class="bl">${n}</span><div class="brk-bar">
+      <i style="width:${w}%;background:${c}"></i></div><span class="bt">${Math.round(v)}</span></div>`;}).join("");
+  $("xiSub").textContent=`${cfg.formation} · ocena ogólna ${G.ovr}`;
+  $("xiList").innerHTML=G.slots.map(s=>`<div class="xirow">
+      <span class="xipos" style="background:${GCOLOR[GROUP(s.code)]}">${s.code}</span>
+      <span class="xiname">${s.player.n}</span>
+      <span class="xiclub"><b>${abbr(s.club)}</b> <span class="ss">${seasonShort(s.season)}</span></span>
+    </div>`).join("");
+  G.sim ? renderResult() : renderPreSeason();
+}
+function renderPreSeason(){
+  const p=G.proj;
+  const bar=(lab,v,c)=>`<div class="or"><span>${lab}</span><span>${v.toFixed(1)}%</span></div>
+    <div class="oddsbar"><i style="width:${v}%;background:${c}"></i></div>`;
+  $("resultPanel").innerHTML=`
+    <h3 class="sec" style="margin-top:0">KURSY PRZEDSEZONOWE</h3>
+    <div class="bigStat">
+      <div><div class="lab">PRZEWIDYWANE MIEJSCE</div><div class="v">${ORD[p.projPos]}</div></div>
+      <div style="text-align:right"><div class="lab">OCZEKIWANE PKT</div><div class="v" style="color:var(--accent)">${p.projPts}</div></div>
+    </div>
+    <div class="odds">${bar("Mistrzostwo",p.odds.win,"var(--gold)")}${bar("Top 4",p.odds.top4,"var(--mid)")}
+      ${bar("Top 6",p.odds.top6,"var(--def)")}${bar("Top 10",p.odds.top10,"#8b5cf6")}${bar("Spadek",p.odds.releg,"var(--att)")}</div>
+    <button class="btn" id="simBtn">⚽ Symuluj sezon →</button>
+    <button class="btn ghost" id="replayBtn" style="margin-top:8px">Nowy draft</button>`;
+  $("simBtn").onclick=runSim;
+  $("replayBtn").onclick=()=>{ buildConfig(); show("screen-config"); };
+}
+function runSim(){
+  const res=simulate(G.proj.st);
+  $("resultPanel").innerHTML=`<div class="simCounter"><div class="sk">SYMULACJA SEZONU</div>
+    <div class="sn" id="simN">0<span style="font-size:1rem;color:var(--muted)">/34</span></div>
+    <div class="wdl"><span class="w" id="simW">0</span><span class="d" id="simD">0</span><span class="l" id="simL">0</span></div></div>`;
+  const seq=[]; for(let k=0;k<res.W;k++)seq.push("W"); for(let k=0;k<res.D;k++)seq.push("D"); for(let k=0;k<res.L;k++)seq.push("L");
+  for(let k=seq.length-1;k>0;k--){const j=rand(k+1);[seq[k],seq[j]]=[seq[j],seq[k]];}
+  let i=0,w=0,d=0,l=0;
+  const iv=setInterval(()=>{
+    if(i>=34){clearInterval(iv); G.sim=res; renderResult(); return;}
+    const r=seq[i++]; if(r==="W")w++;else if(r==="D")d++;else l++;
+    $("simN").innerHTML=`${i}<span style="font-size:1rem;color:var(--muted)">/34</span>`;
+    $("simW").textContent=w; $("simD").textContent=d; $("simL").textContent=l;
+  },55);
+}
+function flavorText(r,p){
+  if(r.L===0&&r.D===0) return ["34-0. PERFEKCJA.","Niepokonani i bez straty punktu przez cały sezon. To się nie zdarza — przeszłaś do legendy."];
+  if(r.pos===1) return ["MISTRZ POLSKI! 🏆",`${r.pts} pkt i tytuł. Ta jedenastka rozjechała ligę.`];
+  if(r.L===0) return ["SEZON BEZ PORAŻKI",`${r.W}-${r.D}-0 — ani jednej porażki, ale remisy zabrały tytuł. O włos od legendy.`];
+  if(r.pos<p.projPos) return ["PONAD OCZEKIWANIA",`Typowani na ${ORD[p.projPos].toLowerCase()}, a skończyli ${r.pos}. miejsce na ${r.pts} pkt. Nikt się tego nie spodziewał.`];
+  if(r.pos>p.projPos+2) return ["ROZCZAROWANIE",`Miało być ${ORD[p.projPos].toLowerCase()}, jest ${r.pos}. miejsce. Ten skład stać było na więcej.`];
+  if(r.pos>=16) return ["WALKA O UTRZYMANIE",`${r.pts} pkt i ${r.pos}. miejsce — ledwo łapią oddech nad strefą spadkową.`];
+  return ["ZGODNIE Z PLANEM",`${r.pos}. miejsce na ${r.pts} pkt — solidnie, dokładnie tyle, na ile było ich stać.`];
+}
+function renderResult(){
+  const r=G.sim, p=G.proj;
+  const over=r.pos<p.projPos, under=r.pos>p.projPos;
+  const status=over?"PONAD":under?"PONIŻEJ":"ZGODNIE";
+  const [ft,fb]=flavorText(r,p);
+  const tile=(v,l,c)=>`<div class="tile"><div class="tv" style="color:${c||'var(--txt)'}">${v}</div><div class="tl">${l}</div></div>`;
+  $("resultPanel").innerHTML=`
+    <h3 class="sec" style="margin-top:0">WYNIK SEZONU</h3>
+    <div class="statusRow">
+      <div class="sb"><div class="sl">KOŃCOWE</div><div class="sv">${ORD[r.pos]}</div></div>
+      <div class="sb"><div class="sl">PRZEWIDYWANE</div><div class="sv">${ORD[p.projPos]}</div></div>
+      <div class="sb ${over?'good':under?'bad':''}"><div class="sl">STATUS</div><div class="sv">${status}</div></div>
+    </div>
+    <div class="flavor"><div class="ft">${ft}</div><div class="fb">${fb}</div></div>
+    <div class="tiles">
+      ${tile(r.W,"Wygrane","var(--accent)")}${tile(r.D,"Remisy","var(--gold)")}${tile(r.L,"Porażki","var(--att)")}
+      ${tile(r.pts,"Punkty")}${tile(r.gf,"Gole zdob.","var(--accent)")}${tile(r.ga,"Gole strac.","var(--att)")}
+    </div>
+    <h3 class="sec">DODAJ DO RANKINGU</h3>
+    <input class="name" id="playerName" placeholder="Twoja ksywka" maxlength="18">
+    <div class="row2"><button class="btn sm gold" id="saveBtn">Wyślij wynik</button>
+      <button class="btn sm ghost" id="shareBtn">Skopiuj</button></div>
+    <ol class="lbList" id="lbList" style="margin-top:12px"></ol>
+    <button class="btn ghost" id="replayBtn" style="margin-top:12px">Nowy draft</button>`;
+  $("saveBtn").onclick=saveScore; $("shareBtn").onclick=shareSquad;
+  $("replayBtn").onclick=()=>{ buildConfig(); show("screen-config"); };
   renderLeaderboard();
-  show("screen-end");
 }
 
 /* ===== Ranking (localStorage) ===== */
 const LB_KEY="lb-34-0";
 function getLB(){try{return JSON.parse(localStorage.getItem(LB_KEY))||[]}catch(e){return[]}}
-function renderLeaderboard(myEntry){
-  const lb=getLB().sort((a,b)=>b.score-a.score).slice(0,10);
-  const ol=$("lbList"); ol.innerHTML="";
-  if(!lb.length){ ol.innerHTML=`<li><span class="lbName" style="color:var(--muted)">Brak wyników — bądź pierwszy!</span></li>`; }
+function renderLeaderboard(myT){
+  const lb=getLB().sort((a,b)=>b.pts-a.pts||b.ovr-a.ovr).slice(0,12);
+  const ol=$("lbList"); if(!ol) return; ol.innerHTML="";
+  if(!lb.length){ ol.innerHTML=`<li><span class="lbName" style="color:var(--muted)">Brak wyników — bądź pierwszy!</span></li>`; return; }
   lb.forEach((e,i)=>{
-    const li=document.createElement("li");
-    if(myEntry&&e.t===myEntry.t) li.className="me";
-    li.innerHTML=`<span class="lbRank">${i+1}.</span><span class="lbName">${e.name}</span>
-      <span class="lbScore">${e.ovr}</span>`;
+    const li=document.createElement("li"); if(myT&&e.t===myT) li.className="me";
+    li.innerHTML=`<span class="lbRank">${i+1}.</span>
+      <span class="lbName">${e.name}<br><span class="lbMeta">${e.form} · OVR ${e.ovr} · ${e.win||0}% W</span></span>
+      <span class="lbScore">${e.pts}<br><span class="lbMeta" style="color:var(--muted)">pkt</span></span>`;
     ol.appendChild(li);
   });
 }
-$("saveBtn").onclick=()=>{
-  const name=($("playerName").value||"Anonim").trim().slice(0,18);
-  const entry={name,score:G.score,ovr:G.ovr,form:cfg.formation,t:Date.now()};
+function saveScore(){
+  const name=($("playerName").value||"Anonim").trim().slice(0,18), r=G.sim;
+  const entry={name,ovr:G.ovr,pts:r.pts,win:Math.round(r.W/34*100),form:cfg.formation,t:Date.now()};
   const lb=getLB(); lb.push(entry); localStorage.setItem(LB_KEY,JSON.stringify(lb));
-  renderLeaderboard(entry); toast("Zapisano na ranking!");
-};
-$("shareBtn").onclick=()=>{
-  const lines=[`⚽ Moja jedenastka 34-0 (Ekstraklasa) — OVR ${G.ovr} · ${cfg.formation}`,""];
-  G.slots.forEach(s=>lines.push(`${s.code}: ${s.player.n} ${getR(s.player)} (${s.club})`));
-  lines.push("","Zagraj sam → buymeacoffee.com/art_games  #340 #Ekstraklasa");
-  navigator.clipboard.writeText(lines.join("\n")).then(()=>toast("Skopiowano skład do schowka!"));
-};
-$("replayBtn").onclick=()=>{ buildConfig(); show("screen-config"); };
+  renderLeaderboard(entry.t); toast("Wynik zapisany na ranking!");
+}
+function shareSquad(){
+  const r=G.sim;
+  const lines=[`⚽ 34-0 Ekstraklasa — ${ORD[r.pos]} miejsce, ${r.pts} pkt (${r.W}-${r.D}-${r.L}) · OVR ${G.ovr} · ${cfg.formation}`,""];
+  G.slots.forEach(s=>lines.push(`${s.code}: ${s.player.n} (${abbr(s.club)} ${seasonShort(s.season)})`));
+  lines.push("","Zagraj → buymeacoffee.com/art_games  #340 #Ekstraklasa");
+  navigator.clipboard.writeText(lines.join("\n")).then(()=>toast("Skopiowano do schowka!"));
+}
 $("startBtn").onclick=startGame;
-$("lbFooter").onclick=e=>{e.preventDefault(); renderLeaderboard(); show("screen-end");
-  $("endScore").textContent="🏆"; $("endSub").textContent="Najlepsze składy (lokalnie)";
-  $("endPitch").innerHTML="";
-  const lc=$("endPitch").closest(".leftCol"); if(lc) lc.style.display="none";
-  $("saveBtn").style.display="none"; $("shareBtn").style.display="none"; };
+$("lbFooter").onclick=e=>{e.preventDefault();
+  $("endPitchPanel").style.display="none"; $("ratingPanel").style.display="none"; $("xiPanel").style.display="none";
+  $("resultPanel").innerHTML=`<h3 class="sec" style="margin-top:0">🏆 RANKING (lokalny)</h3>
+    <ol class="lbList" id="lbList"></ol>
+    <button class="btn ghost" id="replayBtn" style="margin-top:12px">← Nowy draft</button>`;
+  $("replayBtn").onclick=()=>{ buildConfig(); show("screen-config"); };
+  renderLeaderboard(); show("screen-end"); };
 
 function toast(msg){const t=$("toast"); t.textContent=msg; t.classList.add("show"); setTimeout(()=>t.classList.remove("show"),1800);}
 
