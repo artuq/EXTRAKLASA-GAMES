@@ -101,6 +101,17 @@
   .badges{display:flex; gap:4px; flex-wrap:wrap; justify-content:flex-end}
   .bdg{font-size:.6rem; font-weight:800; color:#06210f; padding:3px 6px; border-radius:5px}
 
+  /* Pasek wyboru pozycji (jak w 38-0) */
+  .posbar{display:flex; flex-wrap:wrap; gap:8px; align-items:center; background:#10231a;
+    border:1px solid var(--accent); border-radius:10px; padding:10px 12px; margin-bottom:12px}
+  .posbar-lab{font-size:.92rem; margin-right:4px}
+  .posbtn{background:var(--def); color:#fff; border:none; font-weight:800;
+    padding:9px 12px; border-radius:8px; cursor:pointer; font-size:.85rem}
+  .posbtn small{opacity:.85; font-weight:700}
+  .posbtn:hover{filter:brightness(1.12)}
+  .posbtn.cancel{background:#2a3a30; color:var(--txt)}
+  .pcard.sel{border-color:var(--accent); box-shadow:0 0 0 1px var(--accent)}
+
   .footer{display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-top:26px}
   .fbtn{border:1px solid var(--line); color:var(--muted); background:transparent; text-decoration:none;
     padding:8px 14px; border-radius:999px; font-size:.82rem; display:inline-flex; gap:6px; align-items:center}
@@ -367,8 +378,16 @@ function renderSpinPanel(){
 }
 function renderChooseSlotFirst(){
   $("actionPanel").innerHTML=`
-    <h3 class="sec" style="margin-top:0">WYBIERZ POZYCJĘ</h3>
-    <p class="instr">Kliknij wolny slot na boisku, który chcesz obsadzić, a potem zakręć o klub.</p>`;
+    <h3 class="sec" style="margin-top:0">WYBIERZ POZYCJĘ DO OBSADZENIA</h3>
+    <p class="instr">Wybierz wolną pozycję, a potem zakręć o klub, który ją obsadzi.</p>
+    <div class="posbar" id="slotBtns"></div>`;
+  const box=$("slotBtns");
+  openSlots().forEach(s=>{
+    const b=document.createElement("button"); b.className="posbtn";
+    b.innerHTML=`${POS_LABEL[s.code]} <small>(${s.code})</small>`;
+    b.onclick=()=>{ G.chosenSlot=s; spinPanelPositionMode(); };
+    box.appendChild(b);
+  });
 }
 function spinPanelPositionMode(){
   G.phase="pre-spin";
@@ -400,17 +419,24 @@ function doSpin(isReroll){
   if(isReroll){ if(G.rerolls<=0) return; G.rerolls--; updateHud(); }
   const final=pickFinalSquad();
   const btn=$("spinBtn"); if(btn) btn.disabled=true;
-  const reels=document.querySelectorAll(".reel"); reels.forEach(r=>r.classList.add("spinning"));
-  let t=0; const total=15;
-  const iv=setInterval(()=>{
-    const s=SQUADS[rand(SQUADS.length)];
-    $("reelClub").textContent=s.club; $("reelSeason").textContent=s.season; t++;
-    if(t>=total){ clearInterval(iv);
+  const reels=document.querySelectorAll(".reel");
+  const fast=14, slow=8;            // szybkie obroty + zwalniająca końcówka
+  let t=0, delay=45;
+  function tick(){
+    if(t < fast+slow){
+      const s = t < fast+slow-1 ? SQUADS[rand(SQUADS.length)] : final;
+      $("reelClub").textContent=s.club; $("reelSeason").textContent=s.season;
+      reels.forEach(r=>r.classList.toggle("spinning", t < fast));   // blur tylko gdy szybko
+      t++;
+      if(t > fast) delay += 38;      // zwalniaj na końcówce
+      setTimeout(tick, delay);
+    } else {
       $("reelClub").textContent=final.club; $("reelSeason").textContent=final.season;
       reels.forEach(r=>r.classList.remove("spinning"));
       G.spunSquad=final; revealPlayers();
     }
-  },70);
+  }
+  tick();
 }
 
 /* ===== Lista zawodników ===== */
@@ -429,7 +455,7 @@ function revealPlayers(){
     ? `<button class="btn sm ghost" id="rerollBtn">🔄 Reroll (${G.rerolls})</button>` : "";
   const head = cfg.mode==="position"
     ? `Obsadzasz <b>${POS_LABEL[G.chosenSlot.code]}</b> — wybierz pasującego zawodnika.`
-    : `Wybierz zawodnika, potem wskaż wolną pozycję na boisku.`;
+    : `Wybierz zawodnika, a potem pozycję z paska.`;
 
   $("actionPanel").innerHTML=`
     <div style="display:flex;justify-content:space-between;align-items:center">
@@ -437,6 +463,7 @@ function revealPlayers(){
     <p class="instr"><span style="color:${sq.color};font-weight:800">${sq.club}</span>
        <span style="color:var(--gold);font-weight:800"> ${sq.season}</span></p>
     <p class="instr">${head}</p>
+    <div class="posbar hidden" id="posBar"></div>
     <div class="plist" id="plist"></div>
     ${anyUsable?"":`<p class="instr" style="color:var(--att)">Brak pasujących zawodników do wolnych pozycji — zakręć ponownie.</p>
        <button class="btn" id="freeReroll">🎰 Zakręć ponownie (gratis)</button>`}`;
@@ -453,22 +480,33 @@ function revealPlayers(){
       <div class="rbox" style="background:${GCOLOR[g]}">${getR(p)}</div>
       <div class="pinfo"><div class="pn">${p.n}</div><div class="pnat">${p.nt}</div></div>
       <div class="badges">${p.p.map(c=>`<span class="bdg" style="background:${GCOLOR[GROUP(c)]}">${c}</span>`).join("")}</div>`;
-    if(ok) card.onclick=()=>choosePlayer(p);
+    if(ok) card.onclick=()=>choosePlayer(p, card);
     list.appendChild(card);
   });
 }
-function choosePlayer(p){
+function choosePlayer(p, cardEl){
   if(cfg.mode==="position"){ assign(p, G.chosenSlot); return; }
-  G.chosenPlayer=p;
   const elig=openSlots().filter(s=>p.p.includes(s.code));
   if(elig.length===1){ assign(p, elig[0]); return; }
-  G.phase="choose-slot";
-  $("actionPanel").innerHTML=`
-    <h3 class="sec" style="margin-top:0">WYBIERZ POZYCJĘ</h3>
-    <p class="instr">Gdzie ustawić: <b>${p.n}</b> (${getR(p)})? Kliknij podświetlony slot na boisku.</p>
-    <button class="btn ghost sm" id="backBtn">← Wróć do listy</button>`;
-  $("backBtn").onclick=()=>revealPlayers();
-  updateHud();
+  G.chosenPlayer=p;
+  // podświetl wybraną kartę
+  document.querySelectorAll(".pcard").forEach(c=>c.classList.remove("sel"));
+  if(cardEl) cardEl.classList.add("sel");
+  // pasek z przyciskami pozycji
+  const bar=$("posBar"); bar.classList.remove("hidden"); bar.innerHTML="";
+  const lab=document.createElement("span"); lab.className="posbar-lab";
+  lab.innerHTML=`Ustaw <b>${p.n}</b> na:`; bar.appendChild(lab);
+  elig.forEach(s=>{
+    const b=document.createElement("button"); b.className="posbtn";
+    b.innerHTML=`${POS_LABEL[s.code]} <small>(${s.code})</small>`;
+    b.onclick=()=>assign(p, s); bar.appendChild(b);
+  });
+  const cancel=document.createElement("button"); cancel.className="posbtn cancel";
+  cancel.textContent="Anuluj";
+  cancel.onclick=()=>{ bar.classList.add("hidden"); bar.innerHTML="";
+    document.querySelectorAll(".pcard").forEach(c=>c.classList.remove("sel")); G.chosenPlayer=null; };
+  bar.appendChild(cancel);
+  bar.scrollIntoView({behavior:"smooth", block:"nearest"});
 }
 function assign(p,slot){
   slot.player=p; slot.club=G.spunSquad.club; slot.color=G.spunSquad.color; slot.season=G.spunSquad.season;
@@ -483,6 +521,8 @@ function endGame(){
   G.score=total; G.ovr=ovr;
   $("endScore").textContent=ovr;
   $("endSub").textContent=`Średnia ocena składu · suma ${total} pkt · ${cfg.formation}`;
+  const lc=$("endPitch").closest(".leftCol"); if(lc) lc.style.display="";
+  $("saveBtn").style.display=""; $("shareBtn").style.display="";
   renderPitch($("endPitch"),G.slots,null,null);
   renderLeaderboard();
   show("screen-end");
@@ -519,7 +559,9 @@ $("replayBtn").onclick=()=>{ buildConfig(); show("screen-config"); };
 $("startBtn").onclick=startGame;
 $("lbFooter").onclick=e=>{e.preventDefault(); renderLeaderboard(); show("screen-end");
   $("endScore").textContent="🏆"; $("endSub").textContent="Najlepsze składy (lokalnie)";
-  $("endPitch").innerHTML=""; };
+  $("endPitch").innerHTML="";
+  const lc=$("endPitch").closest(".leftCol"); if(lc) lc.style.display="none";
+  $("saveBtn").style.display="none"; $("shareBtn").style.display="none"; };
 
 function toast(msg){const t=$("toast"); t.textContent=msg; t.classList.add("show"); setTimeout(()=>t.classList.remove("show"),1800);}
 
