@@ -57,6 +57,7 @@
   .pitch::before{content:""; position:absolute; left:6%; right:6%; top:50%; height:2px; background:rgba(255,255,255,.18)}
   .pitch::after{content:""; position:absolute; left:50%; top:50%; width:74px; height:74px;
     transform:translate(-50%,-50%); border:2px solid rgba(255,255,255,.18); border-radius:50%}
+  #configPitch{max-width:270px; margin:0 auto; aspect-ratio:3/4}
   .prow{display:flex; justify-content:space-evenly; align-items:center; flex:1; position:relative; z-index:1}
   .slot{width:60px; text-align:center; font-size:.6rem; line-height:1.1; color:#eafff0; text-shadow:0 1px 2px #0008}
   .dot{width:34px; height:34px; border-radius:50%; margin:0 auto 3px; background:#0d1a12;
@@ -273,13 +274,14 @@
 <div class="toast" id="toast"></div>
 
 <script src="data/ekstraklasa.js"></script>
+    <script src="data/legendy.js"></script>
 <script>
 /* =======================================================================
    BAZA: kluby × sezony. Każdy zawodnik: n=nazwisko, nt=narodowość,
    r=ocena (sezon), p=pozycje, pr=ocena "prime" (opcjonalnie)
    Kody pozycji: GK RB LB CB CDM CM CAM RM LM RW LW ST
 ======================================================================= */
-const SQUADS = window.EKSTRAKLASA_SQUADS || [];
+const SQUADS = (window.EKSTRAKLASA_SQUADS||[]).concat(window.LEGENDY_SQUADS||[]);
 
 /* ===== Formacje (od ataku u góry do bramki na dole) ===== */
 const FORMATIONS = {
@@ -377,7 +379,7 @@ const lastName=n=>{const a=n.split(" ");return a.length>1?a[0][0]+". "+a.slice(1
 /* ===== Start gry ===== */
 function startGame(){
   G={slots:slotsFor(cfg.formation), rerolls:DIFF[cfg.diff].rerolls, picks:0,
-     phase:null, spunSquad:null, chosenPlayer:null, chosenSlot:null};
+     phase:null, spunSquad:null, chosenPlayer:null, chosenSlot:null, used:new Set()};
   $("dFormation").textContent=cfg.formation;
   show("screen-draft");
   nextPick();
@@ -451,11 +453,12 @@ function spinPanelPositionMode(){
 /* ===== Losowanie ===== */
 function pickFinalSquad(){
   let pool;
+  const free=p=>!G.used.has(p.n);
   if(cfg.mode==="position"){
-    pool=SQUADS.filter(sq=>sq.players.some(p=>p.p.includes(G.chosenSlot.code)));
+    pool=SQUADS.filter(sq=>sq.players.some(p=>free(p)&&p.p.includes(G.chosenSlot.code)));
   } else {
     const open=openSlots();
-    pool=SQUADS.filter(sq=>sq.players.some(p=>open.some(s=>p.p.includes(s.code))));
+    pool=SQUADS.filter(sq=>sq.players.some(p=>free(p)&&open.some(s=>p.p.includes(s.code))));
   }
   if(!pool.length) pool=SQUADS;
   return pool[rand(pool.length)];
@@ -490,9 +493,9 @@ function revealPlayers(){
   const sq=G.spunSquad;
   const open=openSlots();
   // które karty są aktywne?
-  const usable=p=> cfg.mode==="position"
+  const usable=p=> !G.used.has(p.n) && (cfg.mode==="position"
       ? p.p.includes(G.chosenSlot.code)
-      : open.some(s=>p.p.includes(s.code));
+      : open.some(s=>p.p.includes(s.code)));
   const players=[...sq.players].sort((a,b)=>getR(b)-getR(a));
   const anyUsable=players.some(usable);
 
@@ -555,6 +558,7 @@ function choosePlayer(p, cardEl){
 }
 function assign(p,slot){
   slot.player=p; slot.club=G.spunSquad.club; slot.color=G.spunSquad.color; slot.season=G.spunSquad.season;
+  G.used.add(p.n);            // blokada powtórek: ten sam zawodnik (nawet z innego sezonu) już niedostępny
   G.picks++; buzz();
   nextPick();
 }
