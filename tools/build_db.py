@@ -32,6 +32,10 @@ def rate(p):
     elif g == "DEF": r += min(goals // 12, 2)     # obrońca: rzadkie gole = jakość
     return max(66, min(86, r))
 
+def prime(r):
+    """Ocena 'życiowej formy' — estymacja: lepsi rosną mocniej. Do doszlifowania ręcznie."""
+    return max(r, min(99, round(r + 2 + (r - 70) * 0.3)))
+
 def convert(raw):
     out = []
     for c in raw:
@@ -45,14 +49,16 @@ def convert(raw):
         if not any(x["grp"] == "GK" for x in keep):
             gk = next((x for x in players if x["grp"] == "GK"), None)
             if gk: keep[-1] = gk
-        cards = [{"n": x["n"], "nt": x["nt"], "r": x["_r"], "p": POS[x["grp"]]} for x in keep]
+        cards = [{"n": x["n"], "nt": x["nt"], "r": x["_r"], "pr": prime(x["_r"]),
+                  "p": POS[x["grp"]]} for x in keep]
         out.append({"club": c["club"], "season": c["season"],
                     "color": COLORS.get(c["club"], "#888888"), "players": cards})
     return out
 
 if __name__ == "__main__":
     here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    raw = json.load(open(os.path.join(here, "data/raw_2025_26.json"), encoding="utf-8"))
+    src = "data/raw_all.json" if os.path.exists(os.path.join(here, "data/raw_all.json")) else "data/raw_2025_26.json"
+    raw = json.load(open(os.path.join(here, src), encoding="utf-8"))
     db = convert(raw)
     js = "// AUTO-GENEROWANE z 90minut przez tools/build_db.py — nie edytuj ręcznie.\n"
     js += "window.EKSTRAKLASA_SQUADS = " + json.dumps(db, ensure_ascii=False, indent=1) + ";\n"

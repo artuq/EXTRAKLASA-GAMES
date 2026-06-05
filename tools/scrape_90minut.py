@@ -16,10 +16,17 @@ GRP = {"bramkarze": "GK", "obrońcy": "DEF", "pomocnicy": "MID", "napastnicy": "
 def season_id(start_year: int) -> int:
     return 59 + 2 * (start_year - 2001)
 
-def fetch(url: str) -> str:
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    raw = urllib.request.urlopen(req, timeout=25).read()
-    return raw.decode("iso-8859-2", "replace")
+def fetch(url: str, tries: int = 3) -> str:
+    import time as _t
+    last = None
+    for i in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            raw = urllib.request.urlopen(req, timeout=35).read()
+            return raw.decode("iso-8859-2", "replace")
+        except Exception as e:
+            last = e; _t.sleep(1.5 * (i + 1))
+    raise last
 
 ROW = re.compile(
     r'<a href="/kariera\.php\?id=\d+"[^>]*title="([^"]+)"[^>]*>.*?'      # 1: nazwisko
@@ -54,11 +61,11 @@ def parse(htmltxt: str):
             })
     return season, players
 
-def scrape(id_klub: int, start_year: int):
+def scrape(id_klub: int, start_year: int, rounds=(1, 0)):
     sid = season_id(start_year)
     merged = {}
     season_label = f"{start_year}/{str(start_year+1)[2:]}"
-    for jesien in (1, 0):
+    for jesien in rounds:
         url = f"http://www.90minut.pl/kadra.php?id_klub={id_klub}&id_sezon={sid}&jesien={jesien}"
         try:
             season, players = parse(fetch(url))

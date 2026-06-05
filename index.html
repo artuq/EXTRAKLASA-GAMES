@@ -307,6 +307,7 @@ const GCOLOR={gk:"var(--gk)",def:"var(--def)",mid:"var(--mid)",att:"var(--att)"}
 let cfg={formation:"4-3-3",diff:"Normal",mode:"squad",ratings:"career"};
 let G=null; // game state
 const rand=n=>Math.floor(Math.random()*n);
+const buzz=(ms=12)=>{try{navigator.vibrate&&navigator.vibrate(ms);}catch(e){}};
 const getR=p=>cfg.ratings==="prime"?(p.pr||Math.min(99,p.r+2)):p.r;
 const $=id=>document.getElementById(id);
 const show=id=>{["screen-config","screen-draft","screen-end"].forEach(s=>$(s).classList.add("hidden"));$(id).classList.remove("hidden");window.scrollTo(0,0);};
@@ -554,7 +555,7 @@ function choosePlayer(p, cardEl){
 }
 function assign(p,slot){
   slot.player=p; slot.club=G.spunSquad.club; slot.color=G.spunSquad.color; slot.season=G.spunSquad.season;
-  G.picks++;
+  G.picks++; buzz();
   nextPick();
 }
 
@@ -663,20 +664,26 @@ function runSim(){
   for(let k=seq.length-1;k>0;k--){const j=rand(k+1);[seq[k],seq[j]]=[seq[j],seq[k]];}
   let i=0,w=0,d=0,l=0;
   const iv=setInterval(()=>{
-    if(i>=34){clearInterval(iv); G.sim=res; renderResult(); return;}
+    if(i>=34){clearInterval(iv); buzz(30); G.sim=res; renderResult(); return;}
     const r=seq[i++]; if(r==="W")w++;else if(r==="D")d++;else l++;
     $("simN").innerHTML=`${i}<span style="font-size:1rem;color:var(--muted)">/34</span>`;
     $("simW").textContent=w; $("simD").textContent=d; $("simL").textContent=l;
   },55);
 }
+function keyMen(){
+  const top=g=>{const a=G.slots.filter(s=>GROUP(s.code)===g).sort((x,y)=>getR(y.player)-getR(x.player))[0];
+    return a? a.player.n.split(" ").slice(-1)[0] : "";};
+  return {att: top("att")||top("mid"), def: top("def")||top("gk")};
+}
 function flavorText(r,p){
-  if(r.L===0&&r.D===0) return ["34-0. PERFEKCJA.","Niepokonani i bez straty punktu przez cały sezon. To się nie zdarza — przeszłaś do legendy."];
-  if(r.pos===1) return ["MISTRZ POLSKI! 🏆",`${r.pts} pkt i tytuł. Ta jedenastka rozjechała ligę.`];
-  if(r.L===0) return ["SEZON BEZ PORAŻKI",`${r.W}-${r.D}-0 — ani jednej porażki, ale remisy zabrały tytuł. O włos od legendy.`];
-  if(r.pos<p.projPos) return ["PONAD OCZEKIWANIA",`Typowani na ${ORD[p.projPos].toLowerCase()}, a skończyli ${r.pos}. miejsce na ${r.pts} pkt. Nikt się tego nie spodziewał.`];
-  if(r.pos>p.projPos+2) return ["ROZCZAROWANIE",`Miało być ${ORD[p.projPos].toLowerCase()}, jest ${r.pos}. miejsce. Ten skład stać było na więcej.`];
-  if(r.pos>=16) return ["WALKA O UTRZYMANIE",`${r.pts} pkt i ${r.pos}. miejsce — ledwo łapią oddech nad strefą spadkową.`];
-  return ["ZGODNIE Z PLANEM",`${r.pos}. miejsce na ${r.pts} pkt — solidnie, dokładnie tyle, na ile było ich stać.`];
+  const k=keyMen();
+  if(r.L===0&&r.D===0) return ["34-0. PERFEKCJA.",`Niepokonani i bez straty punktu przez cały sezon. ${k.def} zaryglował obronę, ${k.att} rozstrzelał ligę. Legenda.`];
+  if(r.pos===1) return ["MISTRZ POLSKI! 🏆",`${r.pts} pkt i tytuł. ${k.att} ciągnął atak, a ${k.def} trzymał tyły — ta jedenastka rozjechała ligę.`];
+  if(r.L===0) return ["SEZON BEZ PORAŻKI",`${r.W}-${r.D}-0 — ani jednej porażki, ale remisy zabrały tytuł. ${k.def} murował bramkę do końca.`];
+  if(r.pos<p.projPos) return ["PONAD OCZEKIWANIA",`Typowani na ${ORD[p.projPos].toLowerCase()}, a skończyli ${r.pos}. miejsce na ${r.pts} pkt. ${k.def} dźwigał obronę, ${k.att} dorzucał gole — nikt się tego nie spodziewał.`];
+  if(r.pos>p.projPos+2) return ["ROZCZAROWANIE",`Miało być ${ORD[p.projPos].toLowerCase()}, jest ${r.pos}. miejsce. Nawet ${k.att} nie uratował tego sezonu — stać ich było na więcej.`];
+  if(r.pos>=16) return ["WALKA O UTRZYMANIE",`${r.pts} pkt i ${r.pos}. miejsce. ${k.def} ratował co mógł, ale ta jedenastka ledwo łapie oddech nad strefą spadkową.`];
+  return ["ZGODNIE Z PLANEM",`${r.pos}. miejsce na ${r.pts} pkt. ${k.att} z przodu, ${k.def} z tyłu — solidnie, dokładnie tyle, na ile było ich stać.`];
 }
 function renderResult(){
   const r=G.sim, p=G.proj;
