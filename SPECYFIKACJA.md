@@ -82,6 +82,24 @@ bo draftuje się całą jedenastkę z wylosowanej drużyny, a nie 1 z 3 napastni
   z reputacji/statystyk (spójna skala). Oceny traktujemy jako dane referencyjne;
   NIE używamy herbów/grafik z gier.
 
+### ⭐ Ujednolicona skala ocen (jedna miara dla WSZYSTKICH epok)
+
+Cel: `78` znaczy to samo w 1993 i w 2023 — kotwicą jest **klasa i rola zawodnika**, nie rok.
+
+| OVR | Klasa (ta sama w każdej epoce) | Przykłady |
+|---|---|---|
+| 88–92 | Legenda światowa / czołowy reprezentant | Lewandowski (prime), Lubański (prime) |
+| 82–87 | Gwiazda ligi, kluczowy reprezentant | Żurawski, Citko, Radović (prime) |
+| 77–81 | Bardzo dobry ligowiec, filar mistrza | Štilić, Ivi López, Mila |
+| 72–76 | Solidny pierwszoligowiec | trzon składów mistrzowskich |
+| 66–71 | Rotacyjny / młody talent / weteran | rezerwowi, juniorzy |
+
+**Metodyka (obowiązuje całą bazę):**
+1. **Era 2009–2012** → kotwiczymy w realnych ocenach FIFA 09–12 (jedyne lata z licencją Ekstraklasy).
+2. **Pozostałe ery** → ta sama skala wg: pozycji w reprezentacji, transferów zagranicznych, tytułów/statystyk z 90minut.
+3. **Spójność pionowa** — każdy mistrz ma podobny rozkład: ~1 gwiazda 80+, kilku po 75, reszta 72–74,
+   żeby składy z różnych dekad były porównywalne na kole i w wyniku.
+
 ---
 
 ## 6. (Opcja) Symulacja sezonu „34-0" — rozszerzenie ponad 38-0
