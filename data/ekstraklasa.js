@@ -570,8 +570,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jesús Imaz",
     "nt": "Hiszpania",
-    "r": 75,
-    "pr": 79,
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -849,9 +849,22 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#b3132a",
   "players": [
    {
-    "n": "Zoran Arsenić",
+    "n": "Ivi López",
+    "nt": "Hiszpania",
+    "r": 81,
+    "pr": 83,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Fran Tudor",
     "nt": "Chorwacja",
-    "r": 74,
+    "r": 76,
     "pr": 78,
     "p": [
      "CB",
@@ -860,7 +873,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Fran Tudor",
+    "n": "Zoran Arsenić",
     "nt": "Chorwacja",
     "r": 74,
     "pr": 78,
@@ -950,19 +963,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Ivi López",
-    "nt": "Hiszpania",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -1413,6 +1413,17 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#0f7a36",
   "players": [
    {
+    "n": "Marc Gual",
+    "nt": "Hiszpania",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Artur Jędrzejczyk",
     "nt": "Polska",
     "r": 75,
@@ -1656,17 +1667,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Marc Gual",
-    "nt": "Hiszpania",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -2761,6 +2761,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#c8102e",
   "players": [
    {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Konrad Matuszewski",
     "nt": "Polska",
     "r": 72,
@@ -2928,19 +2941,6 @@ window.EKSTRAKLASA_SQUADS = [
     "pr": 75,
     "p": [
      "GK"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -5019,6 +5019,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1f6fd6",
   "players": [
    {
+    "n": "Kristoffer Velde",
+    "nt": "Norwegia",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Mikael Ishak",
     "nt": "Szwecja",
     "r": 77,
@@ -5258,19 +5271,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kristoffer Velde",
-    "nt": "Norwegia",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Antoni Kozubal",
     "nt": "Polska",
     "r": 68,
@@ -5303,6 +5303,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2024/25",
   "color": "#b3132a",
   "players": [
+   {
+    "n": "Ivi López",
+    "nt": "Hiszpania",
+    "r": 81,
+    "pr": 83,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Dušan Kuciak",
     "nt": "Słowacja",
@@ -5421,6 +5434,17 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "John Yeboah",
+    "nt": "Ekwador",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Kristoffer Klaesson",
     "nt": "Norwegia",
     "r": 77,
@@ -5438,19 +5462,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Ivi López",
-    "nt": "Hiszpania",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -5567,19 +5578,6 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
-   },
-   {
-    "n": "Erick Otieno",
-    "nt": "Kenia",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
    }
   ]
  },
@@ -5591,8 +5589,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jesús Imaz",
     "nt": "Hiszpania",
-    "r": 76,
-    "pr": 78,
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -6145,6 +6143,17 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#0f7a36",
   "players": [
    {
+    "n": "Marc Gual",
+    "nt": "Hiszpania",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Artur Jędrzejczyk",
     "nt": "Polska",
     "r": 73,
@@ -6177,17 +6186,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marc Gual",
-    "nt": "Hiszpania",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -7550,6 +7548,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#2348c4",
   "players": [
    {
+    "n": "Damian Kądzior",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Jakub Czerwiński",
     "nt": "Polska",
     "r": 75,
@@ -7791,19 +7802,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Damian Kądzior",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -9508,10 +9506,10 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Petr Schwarz",
-    "nt": "Czechy",
-    "r": 70,
-    "pr": 74,
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
     "p": [
      "CDM",
      "CM",
@@ -9521,10 +9519,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
+    "n": "Petr Schwarz",
+    "nt": "Czechy",
+    "r": 70,
+    "pr": 74,
     "p": [
      "CDM",
      "CM",
@@ -10086,8 +10084,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jesús Imaz",
     "nt": "Hiszpania",
-    "r": 75,
-    "pr": 79,
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -10380,8 +10378,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Erik Expósito",
     "nt": "Hiszpania",
-    "r": 77,
-    "pr": 79,
+    "r": 79,
+    "pr": 81,
     "p": [
      "ST",
      "LW",
@@ -10642,6 +10640,17 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#0f7a36",
   "players": [
    {
+    "n": "Marc Gual",
+    "nt": "Hiszpania",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Artur Jędrzejczyk",
     "nt": "Polska",
     "r": 75,
@@ -10708,17 +10717,6 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Tomáš Pekhart",
     "nt": "Czechy",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
-    "n": "Marc Gual",
-    "nt": "Hiszpania",
     "r": 72,
     "pr": 76,
     "p": [
@@ -11200,6 +11198,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1f6fd6",
   "players": [
    {
+    "n": "Kristoffer Velde",
+    "nt": "Norwegia",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Alan Czerwiński",
     "nt": "Polska",
     "r": 74,
@@ -11359,19 +11370,6 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Filip Marchwiński",
     "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Kristoffer Velde",
-    "nt": "Norwegia",
     "r": 71,
     "pr": 75,
     "p": [
@@ -11752,10 +11750,34 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#b3132a",
   "players": [
    {
-    "n": "Zoran Arsenić",
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "John Yeboah",
+    "nt": "Ekwador",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Fran Tudor",
     "nt": "Chorwacja",
-    "r": 73,
-    "pr": 77,
+    "r": 76,
+    "pr": 78,
     "p": [
      "CB",
      "LB",
@@ -11763,7 +11785,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Fran Tudor",
+    "n": "Zoran Arsenić",
     "nt": "Chorwacja",
     "r": 73,
     "pr": 77,
@@ -11948,19 +11970,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Fabian Piasecki",
     "nt": "Polska",
     "r": 69,
@@ -11999,19 +12008,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Ben Lederman",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Dawid Drachal",
     "nt": "Polska",
     "r": 68,
     "pr": 72,
@@ -12599,6 +12595,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#2348c4",
   "players": [
    {
+    "n": "Damian Kądzior",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Jakub Czerwiński",
     "nt": "Polska",
     "r": 76,
@@ -12799,19 +12808,6 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Tom Hateley",
     "nt": "Anglia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Damian Kądzior",
-    "nt": "Polska",
     "r": 69,
     "pr": 73,
     "p": [
@@ -15068,6 +15064,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#b3132a",
   "players": [
    {
+    "n": "Ivi López",
+    "nt": "Hiszpania",
+    "r": 81,
+    "pr": 83,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Zoran Arsenić",
     "nt": "Chorwacja",
     "r": 79,
@@ -15127,6 +15136,19 @@ window.EKSTRAKLASA_SQUADS = [
     "pr": 80,
     "p": [
      "GK"
+    ]
+   },
+   {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
@@ -15216,19 +15238,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ivi López",
-    "nt": "Hiszpania",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Mateusz Wdowiak",
     "nt": "Polska",
     "r": 72,
@@ -15274,19 +15283,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -15632,6 +15628,32 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1f6fd6",
   "players": [
    {
+    "n": "Michał Skóraś",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Kristoffer Velde",
+    "nt": "Norwegia",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Alan Czerwiński",
     "nt": "Polska",
     "r": 78,
@@ -15789,34 +15811,8 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Skóraś",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Filip Marchwiński",
     "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Kristoffer Velde",
-    "nt": "Norwegia",
     "r": 71,
     "pr": 75,
     "p": [
@@ -16216,6 +16212,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Damian Kądzior",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Jakub Szmatuła",
     "nt": "Polska",
     "r": 76,
@@ -16393,19 +16402,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Patryk Dziczek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Damian Kądzior",
     "nt": "Polska",
     "r": 69,
     "pr": 73,
@@ -18700,8 +18696,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jesús Imaz",
     "nt": "Hiszpania",
-    "r": 75,
-    "pr": 79,
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -18713,8 +18709,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Marc Gual",
     "nt": "Hiszpania",
-    "r": 75,
-    "pr": 79,
+    "r": 78,
+    "pr": 80,
     "p": [
      "ST",
      "LW",
@@ -18973,21 +18969,10 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Martin Konczkowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "CB",
-     "LB",
-     "RB"
-    ]
-   },
-   {
     "n": "Erik Expósito",
     "nt": "Hiszpania",
-    "r": 71,
-    "pr": 75,
+    "r": 79,
+    "pr": 81,
     "p": [
      "ST",
      "LW",
@@ -18997,12 +18982,23 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "John Yeboah",
     "nt": "Ekwador",
-    "r": 71,
-    "pr": 75,
+    "r": 77,
+    "pr": 79,
     "p": [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Martin Konczkowski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    },
    {
@@ -20110,6 +20106,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michał Skóraś",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Antonio Milić",
     "nt": "Chorwacja",
     "r": 78,
@@ -20273,19 +20282,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Skóraś",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Nika Kwekweskiri",
     "nt": "Gruzja",
     "r": 70,
@@ -20382,6 +20378,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#b3132a",
   "players": [
    {
+    "n": "Ivi López",
+    "nt": "Hiszpania",
+    "r": 81,
+    "pr": 83,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Zoran Arsenić",
     "nt": "Chorwacja",
     "r": 78,
@@ -20412,6 +20421,19 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
@@ -20497,19 +20519,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ivi López",
-    "nt": "Hiszpania",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Mateusz Wdowiak",
     "nt": "Polska",
     "r": 74,
@@ -20531,19 +20540,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -21237,6 +21233,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#2348c4",
   "players": [
    {
+    "n": "Damian Kądzior",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Martin Konczkowski",
     "nt": "Polska",
     "r": 76,
@@ -21401,19 +21410,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Tomasz Jodłowiec",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Damian Kądzior",
     "nt": "Polska",
     "r": 70,
     "pr": 74,
@@ -23155,8 +23151,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jesús Imaz",
     "nt": "Hiszpania",
-    "r": 73,
-    "pr": 77,
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -24016,8 +24012,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Erik Expósito",
     "nt": "Hiszpania",
-    "r": 73,
-    "pr": 77,
+    "r": 79,
+    "pr": 81,
     "p": [
      "ST",
      "LW",
@@ -25433,6 +25429,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#b3132a",
   "players": [
    {
+    "n": "Ivi López",
+    "nt": "Hiszpania",
+    "r": 81,
+    "pr": 83,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Patryk Kun",
     "nt": "Polska",
     "r": 79,
@@ -25463,6 +25472,19 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
@@ -25556,32 +25578,6 @@ window.EKSTRAKLASA_SQUADS = [
     "pr": 79,
     "p": [
      "GK"
-    ]
-   },
-   {
-    "n": "Ivi López",
-    "nt": "Hiszpania",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -25995,6 +25991,17 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Erik Expósito",
+    "nt": "Hiszpania",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Piotr Celeban",
     "nt": "Polska",
     "r": 76,
@@ -26191,17 +26198,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Erik Expósito",
-    "nt": "Hiszpania",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -27392,8 +27388,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jesús Imaz",
     "nt": "Hiszpania",
-    "r": 73,
-    "pr": 77,
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -27952,6 +27948,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1f6fd6",
   "players": [
    {
+    "n": "Michał Skóraś",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Mikael Ishak",
     "nt": "Szwecja",
     "r": 73,
@@ -28165,19 +28174,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michał Skóraś",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -30760,6 +30756,17 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Erik Expósito",
+    "nt": "Hiszpania",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Róbert Pich",
     "nt": "Słowacja",
     "r": 73,
@@ -30783,17 +30790,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Erik Expósito",
-    "nt": "Hiszpania",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -31635,8 +31631,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jesús Imaz",
     "nt": "Hiszpania",
-    "r": 73,
-    "pr": 77,
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -32201,6 +32197,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#b3132a",
   "players": [
    {
+    "n": "Michał Skóraś",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Petr Schwarz",
     "nt": "Czechy",
     "r": 71,
@@ -32305,19 +32314,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Miłosz Szczepański",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Michał Skóraś",
     "nt": "Polska",
     "r": 68,
     "pr": 72,
@@ -33630,6 +33626,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#c8102e",
   "players": [
    {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Michal Papadopulos",
     "nt": "Czechy",
     "r": 70,
@@ -33649,19 +33658,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -36502,8 +36498,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jesús Imaz",
     "nt": "Hiszpania",
-    "r": 75,
-    "pr": 79,
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -36789,6 +36785,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#c8102e",
   "players": [
    {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Elia Soriano",
     "nt": "Niemcy",
     "r": 73,
@@ -36821,19 +36830,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -39645,6 +39641,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1452a8",
   "players": [
    {
+    "n": "Damian Kądzior",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Igor Angulo",
     "nt": "Hiszpania",
     "r": 77,
@@ -39653,19 +39662,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Damian Kądzior",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -40217,10 +40213,10 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Rafał Boguski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
+    "n": "Jesús Imaz",
+    "nt": "Hiszpania",
+    "r": 80,
+    "pr": 82,
     "p": [
      "CDM",
      "CM",
@@ -40230,8 +40226,8 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jesús Imaz",
-    "nt": "Hiszpania",
+    "n": "Rafał Boguski",
+    "nt": "Polska",
     "r": 72,
     "pr": 76,
     "p": [
@@ -40793,6 +40789,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#c8102e",
   "players": [
    {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Jacek Kiełb",
     "nt": "Polska",
     "r": 71,
@@ -40818,19 +40827,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Mateusz Możdżeń",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
     "nt": "Polska",
     "r": 70,
     "pr": 74,
@@ -44524,6 +44520,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#c8102e",
   "players": [
    {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Jacek Kiełb",
     "nt": "Polska",
     "r": 73,
@@ -44569,19 +44578,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -51063,6 +51059,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#c8102e",
   "players": [
    {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Airam Cabrera",
     "nt": "Hiszpania",
     "r": 74,
@@ -51100,19 +51109,6 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Vlastimir Jovanović",
     "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
     "r": 69,
     "pr": 73,
     "p": [
@@ -53061,6 +53057,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#f2b705",
   "players": [
    {
+    "n": "Damian Kądzior",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Patryk Tuszyński",
     "nt": "Polska",
     "r": 76,
@@ -53163,19 +53172,6 @@ window.EKSTRAKLASA_SQUADS = [
     "nt": "Gruzja",
     "r": 69,
     "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Damian Kądzior",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
     "p": [
      "CDM",
      "CM",
@@ -55365,6 +55361,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#c8102e",
   "players": [
    {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Jacek Kiełb",
     "nt": "Polska",
     "r": 73,
@@ -55424,19 +55433,6 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Vlastimir Jovanović",
     "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
     "r": 69,
     "pr": 73,
     "p": [
@@ -60482,6 +60478,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#c8102e",
   "players": [
    {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Jacek Kiełb",
     "nt": "Polska",
     "r": 72,
@@ -60567,19 +60576,6 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Vlastimir Jovanović",
     "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
     "r": 69,
     "pr": 73,
     "p": [
@@ -64167,6 +64163,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#f2b705",
   "players": [
    {
+    "n": "Damian Kądzior",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Tomasz Frankowski",
     "nt": "Polska",
     "r": 73,
@@ -64318,19 +64327,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Damian Kądzior",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Tomasz Zahorski",
     "nt": "Polska",
     "r": 68,
@@ -64451,6 +64447,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2012/13",
   "color": "#c8102e",
   "players": [
+   {
+    "n": "Marcin Cebula",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Maciej Korzym",
     "nt": "Polska",
@@ -64613,19 +64622,6 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Aleksandar Vuković",
     "nt": "Serbia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Marcin Cebula",
-    "nt": "Polska",
     "r": 69,
     "pr": 73,
     "p": [

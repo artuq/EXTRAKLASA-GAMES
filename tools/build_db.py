@@ -24,6 +24,16 @@ MAX_PER_SQUAD = 24   # przytnij do trzonu, żeby koło/listy były grywalne
 
 BASE_G = {"GK":67, "DEF":67, "MID":67, "ATT":67}
 
+# Ręczne overridey: rozpoznawalne gwiazdy, których heurystyka (gole/defensywa)
+# nie wychwytuje — głównie twórczy pomocnicy i skrzydłowi. Wartość = "podłoga"
+# oceny (jeśli automat dał mniej, podbijamy do tej liczby). Łatwo rozszerzać.
+STAR_FLOOR = {
+ "Josué": 82, "Ivi López": 81, "Jesús Imaz": 80, "Kristoffer Velde": 79,
+ "Michał Skóraś": 79, "Erik Expósito": 79, "Marc Gual": 78, "Damian Kądzior": 77,
+ "Ruben Vinagre": 77, "Fran Tudor": 76, "Giannis Papanikolaou": 76,
+ "Marcin Cebula": 77, "John Yeboah": 77, "Antonio Colak": 78, "Carlitos": 78,
+}
+
 def rate(p, sgoals, team):
     """OVR w skali 'FC-realnej' (62-84). Baza ligowa + MAŁY modyfikator za
     realne staty z DANEGO sezonu: ligowy król strzelców ~77-78, trzon ~68-70,
@@ -55,8 +65,9 @@ def convert(raw, scorers, tables):
         players = []
         for p in c["players"]:
             g = sg.get(p["n"], 0)                      # gole w TYM sezonie (0 jeśli nie strzelał)
+            ovr = min(88, max(rate(p, g, team), STAR_FLOOR.get(p["n"], 0)))  # heurystyka + override gwiazd
             players.append({"n": p["n"], "nt": p["nt"], "grp": p["grp"],
-                            "apps": p["apps"], "_r": rate(p, g, team)})
+                            "apps": p["apps"], "_r": ovr})
         # sortuj wg oceny potem doświadczenia, przytnij, ale zachowaj min. 1 GK
         players.sort(key=lambda x: (x["_r"], x["apps"]), reverse=True)
         keep = players[:MAX_PER_SQUAD]

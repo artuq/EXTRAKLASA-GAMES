@@ -31,7 +31,7 @@ window.LEGENDY_SQUADS = [
    {n:"Andriy Mykhalchuk",nt:"Ukraina",r:72,pr:74,p:["RB","RM"]},
    {n:"Radosław Michalski",nt:"Polska",r:75,pr:77,p:["CDM","CM"]},
    {n:"Mirosław Szymkowiak",nt:"Polska",r:73,pr:80,p:["CM","CAM"]},
-   {n:"Marek Citko",nt:"Polska",r:79,pr:83,p:["RW","CAM","RM"]},
+   {n:"Marek Citko",nt:"Polska",r:82,pr:85,p:["RW","CAM","RM"]},
    {n:"Rafał Siadaczka",nt:"Polska",r:72,pr:74,p:["RM","RW"]},
    {n:"Andrzej Kobylański",nt:"Polska",r:72,pr:75,p:["LM","LW"]},
    {n:"Alexandru Curtianu",nt:"Mołdawia",r:72,pr:74,p:["CAM","CM"]},
