@@ -22,26 +22,26 @@ POS = {"GK":["GK"], "DEF":["CB","LB","RB"], "MID":["CDM","CM","CAM","LM","RM"],
        "ATT":["ST","LW","RW"]}
 MAX_PER_SQUAD = 24   # przytnij do trzonu, żeby koło/listy były grywalne
 
-BASE_G = {"GK":72, "DEF":72, "MID":71, "ATT":71}
+BASE_G = {"GK":70, "DEF":70, "MID":70, "ATT":70}
 
 def rate(p, sgoals, team):
-    """Estymacja OVR (66-91) wg sygnałów z DANEGO sezonu:
-    - napastnik/pomocnik: gole sezonowe,
-    - obrońca/bramkarz: defensywa drużyny (stracone bramki/mecz) + miejsce w tabeli."""
+    """OVR (64-88) — znerfowane. Sygnały z DANEGO sezonu, ale mniejsze bonusy
+    i niższy sufit: ligowa gwiazda ~84-86, dobry BR/obrońca ~80, trzon ~70-72.
+    Skala 88-92 zostaje zarezerwowana dla legend."""
     g = p["grp"]; apps = p["apps"]
     r = BASE_G[g]
-    r += min(apps // 70, 4)                             # doświadczenie (mały bonus)
+    r += min(apps // 80, 3)                             # doświadczenie (mały bonus)
     if g in ("GK", "DEF"):
         if team:
             gapg = team["ga"] / max(1, team["gp"])
-            r += max(0, min(9, round((1.6 - gapg) * 12)))      # jakość defensywy zespołu
-            r += max(0, min(3, round((9 - team["pos"]) / 3)))  # ogólna klasa zespołu
+            r += max(0, min(7, round((1.55 - gapg) * 10)))     # jakość defensywy
+            r += max(0, min(2, round((8 - team["pos"]) / 4)))  # klasa zespołu
     elif g == "ATT":
-        r += min(round(sgoals * 0.9), 16)              # napastnik: gole w TYM sezonie
+        r += min(round(sgoals * 0.7), 13)              # ~20 goli -> +13
     elif g == "MID":
-        r += min(round(sgoals * 0.8), 11)              # strzelający pomocnik
-        if team: r += max(0, min(2, round((6 - team["pos"]) / 3)))
-    return max(66, min(91, r))
+        r += min(round(sgoals * 0.6), 8)               # strzelający pomocnik
+        if team and team["pos"] <= 3: r += 1
+    return max(64, min(88, r))
 
 def prime(r):
     """Ocena 'życiowej formy' — łagodny bonus; młodsi/słabsi mają więcej miejsca na wzrost."""

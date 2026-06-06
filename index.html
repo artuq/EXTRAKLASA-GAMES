@@ -137,6 +137,7 @@
   .lbRank{color:var(--muted); width:28px}
   .lbName{flex:1; text-align:left; font-weight:700}
   .lbScore{font-weight:900; color:var(--accent)}
+  .nameHint{color:var(--att); font-size:.78rem; margin:6px 2px 0; min-height:1em}
   .lbMeta{font-size:.7rem; color:var(--muted)}
 
   /* Ekran końcowy: ocena + rozbicie */
@@ -733,18 +734,44 @@ function renderResult(){
     </div>
     <h3 class="sec">DODAJ DO RANKINGU</h3>
     <input class="name" id="playerName" placeholder="Twoja ksywka" maxlength="18">
+    <div id="nameHint" class="nameHint"></div>
     <div class="row2"><button class="btn sm gold" id="saveBtn">Wyślij wynik</button>
       <button class="btn sm ghost" id="shareBtn">Skopiuj</button></div>
     <ol class="lbList" id="lbList" style="margin-top:12px"></ol>
     <button class="btn ghost" id="replayBtn" style="margin-top:12px">Nowy draft</button>`;
   $("saveBtn").onclick=saveScore; $("shareBtn").onclick=shareSquad;
   $("replayBtn").onclick=()=>{ buildConfig(); show("screen-config"); };
+  wireNameFilter();
   renderLeaderboard();
+}
+function wireNameFilter(){
+  const inp=$("playerName"), btn=$("saveBtn"), hint=$("nameHint");
+  if(!inp) return;
+  const check=()=>{
+    const bad=nameIsBad(inp.value);
+    inp.style.borderColor = bad ? "var(--att)" : "";
+    hint.textContent = bad ? "⚠ Ta ksywka zawiera niedozwolone słowo — zmień ją." : "";
+    if(btn){ btn.disabled=bad; btn.style.opacity=bad?0.5:""; }
+  };
+  inp.addEventListener("input", check);
 }
 
 /* ===== Ranking: globalny (Supabase) z fallbackiem na localStorage ===== */
 const LB_KEY="lb-34-0";
 const SB_ON=()=> !!(window.SB_URL && window.SB_KEY);
+/* Filtr ksywek: rdzenie wulgaryzmów/obelg (PL+EN). Czyste znaki zostaja,
+   trafione fragmenty zamieniane na gwiazdki. Dziala przy wysylce i wyswietlaniu. */
+const BAD_STEMS=["kurw","chuj","huj","pierdol","pierdz","jeba","jebi","jebn","jebac","wjeb","zajeb",
+ "wypierd","spierd","rozpierd","pojeb","zjeb","najeb","pizd","cipa","kutas","skurw","cwel","cipk",
+ "dziwk","szmat","pedal","ciota","debil","kretyn","downie","oszo","gowno","gnoj","suka","szuja",
+ "fuck","shit","bitch","cunt","asshole","dick","nigg","fagg","retard","whore","slut","bastard","pussy"];
+function _flat(s){return (s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")
+  .replace(/[^a-z0-9]/g,"");}
+function nameIsBad(name){const f=_flat(name); return BAD_STEMS.some(b=>f.includes(b));}
+function cleanName(name){
+  if(!name) return "Anonim";
+  return nameIsBad(name) ? "Gracz_"+(100+Math.floor(Math.random()*900)) : name;
+}
 function localLB(){try{return JSON.parse(localStorage.getItem(LB_KEY))||[]}catch(e){return[]}}
 function renderRows(lb, myT){
   const ol=$("lbList"); if(!ol) return;
@@ -754,7 +781,7 @@ function renderRows(lb, myT){
   lb.forEach((e,i)=>{
     const li=document.createElement("li"); if(myT&&e.t&&e.t===myT) li.className="me";
     li.innerHTML=`<span class="lbRank">${i+1}.</span>
-      <span class="lbName">${e.name||"Anonim"}<br><span class="lbMeta">${e.form||""} · OVR ${e.ovr} · ${e.win||0}% W</span></span>
+      <span class="lbName">${cleanName(e.name)}<br><span class="lbMeta">${e.form||""} · OVR ${e.ovr} · ${e.win||0}% W</span></span>
       <span class="lbScore">${e.pts}<br><span class="lbMeta" style="color:var(--muted)">pkt</span></span>`;
     ol.appendChild(li);
   });
@@ -771,7 +798,7 @@ async function renderLeaderboard(myT){
   }catch(e){ renderRows(localLB(), myT); }
 }
 async function saveScore(){
-  const name=($("playerName").value||"Anonim").trim().slice(0,18), r=G.sim;
+  const name=cleanName(($("playerName").value||"Anonim").trim().slice(0,18)), r=G.sim;
   const entry={name,ovr:G.ovr,pts:r.pts,win:Math.round(r.W/34*100),form:cfg.formation,t:Date.now()};
   const lb=localLB(); lb.push(entry); localStorage.setItem(LB_KEY,JSON.stringify(lb)); // zawsze kopia lokalna
   if(SB_ON()){
