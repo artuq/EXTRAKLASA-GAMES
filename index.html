@@ -125,7 +125,15 @@
   .footer{display:flex; gap:8px; justify-content:center; flex-wrap:wrap; margin-top:26px}
   .fbtn{border:1px solid var(--line); color:var(--muted); background:transparent; text-decoration:none;
     padding:8px 14px; border-radius:999px; font-size:.82rem; display:inline-flex; gap:6px; align-items:center}
-  .fbtn.coffee{border-color:var(--gold); color:var(--gold)}
+  .fbtn.coffee{background:var(--gold); border-color:var(--gold); color:#241a05; font-weight:800}
+  .fbtn.coffee:hover{filter:brightness(1.08)}
+  .coffeeCta{display:flex; align-items:center; gap:12px; text-decoration:none;
+    background:linear-gradient(90deg,#2a2208,#1a1606); border:1px solid var(--gold);
+    border-radius:12px; padding:14px 16px; margin:14px 0; transition:.15s}
+  .coffeeCta:hover{filter:brightness(1.12); transform:translateY(-1px)}
+  .coffeeCta .cup{font-size:1.6rem; flex:none}
+  .coffeeCta .ct{font-weight:800; color:var(--gold)}
+  .coffeeCta .cs{font-size:.8rem; color:var(--muted); margin-top:2px}
   .credit{text-align:center; color:#465249; font-size:.74rem; margin-top:12px}
 
   /* End */
@@ -732,6 +740,11 @@ function renderResult(){
       ${tile(r.W,"Wygrane","var(--accent)")}${tile(r.D,"Remisy","var(--gold)")}${tile(r.L,"Porażki","var(--att)")}
       ${tile(r.pts,"Punkty")}${tile(r.gf,"Gole zdob.","var(--accent)")}${tile(r.ga,"Gole strac.","var(--att)")}
     </div>
+    <a class="coffeeCta" href="https://buymeacoffee.com/art_games" target="_blank" rel="noopener">
+      <span class="cup">☕</span>
+      <span><span class="ct">Lubisz 34-0? Postaw mi kawę</span>
+      <span class="cs">To projekt jednoosobowy — każda kawa pomaga dodawać nowe sezony i funkcje.</span></span>
+    </a>
     <h3 class="sec">DODAJ DO RANKINGU</h3>
     <input class="name" id="playerName" placeholder="Twoja ksywka" maxlength="18">
     <div id="nameHint" class="nameHint"></div>
