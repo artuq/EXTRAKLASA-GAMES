@@ -47,7 +47,7 @@ window.LEGENDY_SQUADS = [
    {n:"Tomasz Jarzębowski",nt:"Polska",r:71,pr:73,p:["LB","LM"]},
    {n:"Radosław Sobolewski",nt:"Polska",r:76,pr:78,p:["CM","CDM"]},
    {n:"Łukasz Garguła",nt:"Polska",r:73,pr:76,p:["CM","CAM"]},
-   {n:"Kamil Kosowski",nt:"Polska",r:77,pr:79,p:["RM","RW","LM"]},
+   {n:"Kamil Kosowski",nt:"Polska",r:78,pr:80,p:["RM","RW","LM"]},
    {n:"Mauro Cantoro",nt:"Argentyna",r:75,pr:77,p:["CAM","RW"]},
    {n:"Marcin Kuźba",nt:"Polska",r:73,pr:75,p:["ST"]},
    {n:"Maciej Żurawski",nt:"Polska",r:81,pr:84,p:["ST"]},

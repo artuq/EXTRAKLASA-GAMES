@@ -499,22 +499,28 @@ function pickFinalSquad(){
   return pool[rand(pool.length)];
 }
 function doSpin(isReroll){
-  if(isReroll){ if(G.rerolls<=0) return; G.rerolls--; updateHud(); }
+  if(isReroll){
+    if(G.rerolls<=0) return;
+    G.rerolls--; updateHud();
+    // widok listy zastąpił panel z bębnami — przywróć go, inaczej animacja by się wysypała
+    cfg.mode==="position" ? spinPanelPositionMode() : renderSpinPanel();
+  }
   const final=pickFinalSquad();
   const btn=$("spinBtn"); if(btn) btn.disabled=true;
   const reels=document.querySelectorAll(".reel");
+  const setReel=(club,seas)=>{const a=$("reelClub"),b=$("reelSeason"); if(a)a.textContent=club; if(b)b.textContent=seas;};
   const fast=14, slow=8;            // szybkie obroty + zwalniająca końcówka
   let t=0, delay=45;
   function tick(){
     if(t < fast+slow){
       const s = t < fast+slow-1 ? SQUADS[rand(SQUADS.length)] : final;
-      $("reelClub").textContent=s.club; $("reelSeason").textContent=s.season;
+      setReel(s.club, s.season);
       reels.forEach(r=>r.classList.toggle("spinning", t < fast));   // blur tylko gdy szybko
       t++;
       if(t > fast) delay += 38;      // zwalniaj na końcówce
       setTimeout(tick, delay);
     } else {
-      $("reelClub").textContent=final.club; $("reelSeason").textContent=final.season;
+      setReel(final.club, final.season);
       reels.forEach(r=>r.classList.remove("spinning"));
       G.spunSquad=final; revealPlayers();
     }

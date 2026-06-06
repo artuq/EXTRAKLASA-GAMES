@@ -28,15 +28,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Mrozek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Skrzypczak",
     "nt": "Polska",
     "r": 72,
@@ -127,15 +118,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Bąkowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Hubert Janyszka",
     "nt": "Polska",
     "r": 71,
@@ -144,15 +126,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mateusz Pruchniewski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -177,6 +150,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bartosz Mrozek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -242,6 +224,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Bąkowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Pruchniewski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -333,15 +333,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Loska",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michal Sáček",
     "nt": "Czechy",
     "r": 74,
@@ -361,15 +352,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marcel Łubik",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -395,24 +377,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Antoni Bałabuch",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Piotr Pietryga",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radosław Szafrański",
     "nt": "Polska",
     "r": 74,
@@ -434,6 +398,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Tomasz Loska",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcel Łubik",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Antoni Bałabuch",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Piotr Pietryga",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -638,15 +638,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Abramowicz",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dušan Stojinović",
     "nt": "Słowenia",
     "r": 72,
@@ -691,42 +682,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Żynel",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Miłosz Piekutowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Adrian Damasiewicz",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Rabiczko",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Krasiewicz",
     "nt": "Polska",
     "r": 72,
@@ -735,6 +690,51 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Sławomir Abramowicz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartłomiej Żynel",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Miłosz Piekutowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Adrian Damasiewicz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Rabiczko",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -862,9 +862,9 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Fran Tudor",
+    "n": "Zoran Arsenić",
     "nt": "Chorwacja",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "CB",
@@ -873,7 +873,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zoran Arsenić",
+    "n": "Fran Tudor",
     "nt": "Chorwacja",
     "r": 74,
     "pr": 78,
@@ -928,33 +928,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Trelowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Oliwier Zych",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Mądrzyk",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Apóstolos Konstantópoulos",
     "nt": "Grecja",
     "r": 72,
@@ -977,6 +950,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Kacper Trelowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Lamine Diaby-Fadiga",
     "nt": "Gwinea",
     "r": 70,
@@ -985,6 +967,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Oliwier Zych",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Mądrzyk",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -1171,15 +1171,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Wasielewski",
     "nt": "Polska",
     "r": 71,
@@ -1210,15 +1201,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Rafał Strączek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -1301,15 +1283,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Patryk Szczuka",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Trepka",
     "nt": "Polska",
     "r": 70,
@@ -1329,6 +1302,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -1395,6 +1377,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Rafał Strączek",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Patryk Szczuka",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Aleksander Buksa",
     "nt": "Polska",
     "r": 67,
@@ -1457,15 +1457,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Tobiasz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Arkadiusz Reca",
     "nt": "Polska",
     "r": 72,
@@ -1496,15 +1487,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Gabriel Kobylak",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -1541,19 +1523,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Banasik",
+    "n": "Kacper Tobiasz",
     "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcel Mendes-Dudziński",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
+    "r": 71,
+    "pr": 75,
     "p": [
      "GK"
     ]
@@ -1593,6 +1566,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Gabriel Kobylak",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Banasik",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcel Mendes-Dudziński",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -1701,24 +1701,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Aleks Ławniczak",
     "nt": "Polska",
     "r": 73,
@@ -1763,10 +1745,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Gikiewicz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 72,
+    "pr": 76,
     "p": [
      "GK"
     ]
@@ -1816,15 +1798,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Matysek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Sochań",
     "nt": "Polska",
     "r": 72,
@@ -1849,6 +1822,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Damian Dąbrowski",
     "nt": "Polska",
     "r": 70,
@@ -1870,6 +1861,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Adam Matysek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -1980,15 +1980,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Leszczyński",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Sekulski",
     "nt": "Polska",
     "r": 72,
@@ -2088,33 +2079,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Burek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Oskar Klat",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Stanisław Pruszkowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Lejman",
     "nt": "Polska",
     "r": 72,
@@ -2134,6 +2098,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Rafał Leszczyński",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Burek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Oskar Klat",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Stanisław Pruszkowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -2281,15 +2281,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Leonárdo Koútris",
     "nt": "Grecja",
     "r": 69,
@@ -2309,15 +2300,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Valentin Cojocaru",
-    "nt": "Rumunia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -2450,42 +2432,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kuba Bochniarz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maciej Kowal",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Łęgowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Alex Peškovič",
-    "nt": "Słowacja",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Jakubowski",
     "nt": "Polska",
     "r": 68,
@@ -2505,6 +2451,72 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Krzysztof Kamiński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Valentin Cojocaru",
+    "nt": "Rumunia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kacper Smoliński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jan Biegański",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Kacper Kostorz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Patryk Paryzek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -2600,15 +2612,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Majchrowicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrián Diéguez",
     "nt": "Hiszpania",
     "r": 67,
@@ -2690,33 +2693,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wiktor Koptas",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Krystian Harciński",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michał Jerke",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Józef Kolasa",
     "nt": "Polska",
     "r": 67,
@@ -2751,6 +2727,42 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Filip Majchrowicz",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wiktor Koptas",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krystian Harciński",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Jerke",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -2795,15 +2807,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Xavier Dziekoński",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -2873,15 +2876,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Mamla",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Slobodan Rubežić",
     "nt": "Czarnogóra",
     "r": 71,
@@ -2926,19 +2920,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Mikielewicz",
+    "n": "Xavier Dziekoński",
     "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michał Niedbała",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
+    "r": 70,
+    "pr": 74,
     "p": [
      "GK"
     ]
@@ -2967,6 +2952,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Rafał Mamla",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Mikielewicz",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Niedbała",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -3197,15 +3209,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ivan Brkić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Hervé Matthys",
     "nt": "Belgia",
     "r": 67,
@@ -3263,15 +3266,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Gašper Tratnik",
-    "nt": "Słowenia",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kacper Karasek",
     "nt": "Polska",
     "r": 67,
@@ -3320,6 +3314,26 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Arkadiusz Murzacz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Ivan Brkić",
+    "nt": "Chorwacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -3362,15 +3376,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Henrich Ravas",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Glik",
     "nt": "Polska",
     "r": 70,
@@ -3390,15 +3395,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Madejski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -3492,24 +3488,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Konrad Cymerys",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Konrad Golonka",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Martin Minczew",
     "nt": "Bułgaria",
     "r": 69,
@@ -3549,6 +3527,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Henrich Ravas",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mateusz Praszelik",
     "nt": "Polska",
     "r": 68,
@@ -3559,6 +3546,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Sebastian Madejski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -3595,6 +3591,24 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Konrad Cymerys",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Konrad Golonka",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -3623,15 +3637,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Rafał Gikiewicz",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -3670,15 +3675,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Kikolski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dion Gallapeni",
     "nt": "Kosowo",
     "r": 71,
@@ -3687,15 +3683,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mikołaj Biegański",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -3732,15 +3719,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Veljko Ilić",
-    "nt": "Serbia",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Polydéfkis Volanákis",
     "nt": "Grecja",
     "r": 71,
@@ -3749,24 +3727,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jan Krzywański",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Antoni Błocki",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -3783,6 +3743,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Bartłomiej Pawłowski",
     "nt": "Polska",
     "r": 69,
@@ -3793,6 +3762,51 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Maciej Kikolski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mikołaj Biegański",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Veljko Ilić",
+    "nt": "Serbia",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jan Krzywański",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Antoni Błocki",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -3905,15 +3919,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "František Plach",
-    "nt": "Słowacja",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Dziczek",
     "nt": "Polska",
     "r": 70,
@@ -3935,6 +3940,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -4043,15 +4057,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Szymański",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Levis Pitan",
     "nt": "Polska",
     "r": 69,
@@ -4060,15 +4065,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dawid Rychta",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -4135,6 +4131,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Karol Szymański",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mateusz Kopczyński",
     "nt": "Polska",
     "r": 67,
@@ -4145,6 +4150,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dawid Rychta",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -4345,15 +4359,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Szymon Weirauch",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Anton Carenko",
     "nt": "Ukraina",
     "r": 67,
@@ -4400,15 +4405,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Alex Paulsen",
-    "nt": "Nowa Zelandia",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Głogowski",
     "nt": "Polska",
     "r": 67,
@@ -4417,15 +4413,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Bohdan Sarnawśkyj",
-    "nt": "Ukraina",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -4439,6 +4426,41 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mohamed Awadalla",
+    "nt": "Zjednoczone Emiraty Arabskie",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Adam Kardaś",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Szymon Weirauch",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -4556,15 +4578,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Damian Węglarz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adam Ratajczyk",
     "nt": "Polska",
     "r": 67,
@@ -4588,15 +4601,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jędrzej Grobelny",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -4728,6 +4732,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Hide Vitalucci",
+    "nt": "Japonia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Damian Węglarz",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -4952,15 +4978,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adrián Chovan",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Lucas Masoero",
     "nt": "Argentyna",
     "r": 67,
@@ -4969,15 +4986,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Miłosz Mleczko",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -5003,10 +5011,32 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Janicki",
+    "n": "Miłosz Kozik",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Noah Mrosek",
+    "nt": "Niemcy",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Adrián Chovan",
+    "nt": "Słowacja",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -5054,15 +5084,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Mrozek",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Salamon",
     "nt": "Polska",
     "r": 76,
@@ -5082,15 +5103,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Filip Bednarek",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -5149,15 +5161,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Mędrala",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Wichtowski",
     "nt": "Polska",
     "r": 76,
@@ -5166,6 +5169,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Bartosz Mrozek",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Filip Bednarek",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Mędrala",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -5317,15 +5347,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 80,
-    "pr": 82,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Zoran Arsenić",
     "nt": "Chorwacja",
     "r": 79,
@@ -5345,6 +5366,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -5425,15 +5455,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Trelowski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "John Yeboah",
     "nt": "Ekwador",
     "r": 77,
@@ -5445,9 +5466,18 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Kacper Trelowski",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Kristoffer Klaesson",
     "nt": "Norwegia",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
@@ -5681,15 +5711,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Abramowicz",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dušan Stojinović",
     "nt": "Słowenia",
     "r": 71,
@@ -5731,42 +5752,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartłomiej Żynel",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Miłosz Piekutowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maksymilian Stryjek",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Suchocki",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -5820,6 +5805,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Sławomir Abramowicz",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Miki Villar",
     "nt": "Hiszpania",
     "r": 69,
@@ -5830,6 +5824,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bartłomiej Żynel",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Miłosz Piekutowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maksymilian Stryjek",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Suchocki",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -5886,15 +5916,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Malec",
     "nt": "Polska",
     "r": 73,
@@ -5925,15 +5946,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Valentin Cojocaru",
-    "nt": "Rumunia",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -5994,28 +6006,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kuba Bochniarz",
+    "n": "Krzysztof Kamiński",
     "nt": "Polska",
-    "r": 72,
-    "pr": 76,
+    "r": 71,
+    "pr": 75,
     "p": [
      "GK"
     ]
    },
    {
-    "n": "Maciej Kowal",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Łęgowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
+    "n": "Valentin Cojocaru",
+    "nt": "Rumunia",
+    "r": 71,
+    "pr": 75,
     "p": [
      "GK"
     ]
@@ -6044,6 +6047,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Kuba Bochniarz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Kowal",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Łęgowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -6200,15 +6230,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Tobiasz",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Wszołek",
     "nt": "Polska",
     "r": 70,
@@ -6243,15 +6264,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Gabriel Kobylak",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -6310,33 +6322,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Banasik",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcel Mendes-Dudziński",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Zieliński",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kacper Chodyna",
     "nt": "Polska",
     "r": 69,
@@ -6347,6 +6332,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Kacper Tobiasz",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -6374,6 +6368,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Gabriel Kobylak",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Wojciech Urbański",
     "nt": "Polska",
     "r": 68,
@@ -6395,6 +6398,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Wojciech Banasik",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcel Mendes-Dudziński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Zieliński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -6612,15 +6642,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Henrich Ravas",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Glik",
     "nt": "Polska",
     "r": 67,
@@ -6629,15 +6650,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Madejski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -6695,6 +6707,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Bartosz Biedrzycki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Henrich Ravas",
+    "nt": "Słowacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -6921,15 +6955,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ivan Brkić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kacper Śpiewak",
     "nt": "Polska",
     "r": 67,
@@ -6952,24 +6977,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Budziłek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kacper Rosa",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kacper Wełniak",
     "nt": "Polska",
     "r": 67,
@@ -6978,6 +6985,41 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Marcel Gąsior",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Rafał Król",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Ivan Brkić",
+    "nt": "Chorwacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -7031,15 +7073,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -7115,15 +7148,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Strączek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Borja Galán",
     "nt": "Hiszpania",
     "r": 69,
@@ -7179,15 +7203,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Patryk Szczuka",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Trepka",
     "nt": "Polska",
     "r": 69,
@@ -7209,6 +7224,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -7249,7 +7273,29 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Rafał Strączek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Adrian Danek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Antczak",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -7335,15 +7381,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Majchrowicz",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Rasak",
     "nt": "Polska",
     "r": 71,
@@ -7354,15 +7391,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Szromnik",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -7388,24 +7416,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Jeleń",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kamil Soberka",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Lukas Podolski",
     "nt": "Niemcy",
     "r": 70,
@@ -7414,6 +7424,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Filip Majchrowicz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Szromnik",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -7427,6 +7455,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Jeleń",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kamil Soberka",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -7572,15 +7618,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "František Plach",
-    "nt": "Słowacja",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Arkadiusz Pyrka",
     "nt": "Polska",
     "r": 73,
@@ -7638,6 +7675,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Lewicki",
     "nt": "Polska",
     "r": 72,
@@ -7682,15 +7728,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Szymański",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Levis Pitan",
     "nt": "Polska",
     "r": 72,
@@ -7713,24 +7750,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Jelonek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dawid Rychta",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Rosołek",
     "nt": "Polska",
     "r": 70,
@@ -7739,6 +7758,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Karol Szymański",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartłomiej Jelonek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dawid Rychta",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -7884,15 +7930,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Xavier Dziekoński",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Miłosz Trojak",
     "nt": "Polska",
     "r": 70,
@@ -7994,24 +8031,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Mamla",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcel Zapytowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Igor Kośmicki",
     "nt": "Polska",
     "r": 69,
@@ -8020,6 +8039,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Xavier Dziekoński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -8098,6 +8126,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Danny Trejo",
+    "nt": "Meksyk",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Rafał Mamla",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -8215,15 +8265,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Kikolski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radosław Cielemęcki",
     "nt": "Polska",
     "r": 67,
@@ -8272,15 +8313,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wiktor Koptas",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Snopczyński",
     "nt": "Polska",
     "r": 67,
@@ -8304,15 +8336,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Krystian Harciński",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -8350,6 +8373,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Maciej Kikolski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wiktor Koptas",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krystian Harciński",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -8434,15 +8484,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Gikiewicz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Sypek",
     "nt": "Polska",
     "r": 69,
@@ -8504,15 +8545,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mikołaj Biegański",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Lirim Kastrati",
     "nt": "Kosowo",
     "r": 68,
@@ -8546,15 +8578,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jan Krzywański",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Grzejszczak",
     "nt": "Polska",
     "r": 68,
@@ -8563,6 +8586,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -8629,6 +8661,30 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Noah Diliberto",
     "nt": "Francja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Daniel Gryzio",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Kajetan Radomski",
+    "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
@@ -8817,15 +8873,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Szymon Weirauch",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Serhij Bułeca",
     "nt": "Ukraina",
     "r": 67,
@@ -8847,15 +8894,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bohdan Sarnawśkyj",
-    "nt": "Ukraina",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -8929,6 +8967,26 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Marcel Bajko",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Szymon Weirauch",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -8999,15 +9057,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Kurminowski",
     "nt": "Polska",
     "r": 70,
@@ -9029,15 +9078,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -9098,6 +9138,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tomasz Makowski",
     "nt": "Polska",
     "r": 68,
@@ -9146,19 +9195,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Matys",
+    "n": "Dominik Hładun",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Adam Matysek",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -9211,6 +9251,30 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Jakub Kolan",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Patryk Kusztal",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -9426,33 +9490,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Kochalski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Konrad Jałocha",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Mądrzyk",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marvin Senger",
     "nt": "Niemcy",
     "r": 67,
@@ -9496,6 +9533,39 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Pétros Bangaliánis",
+    "nt": "Grecja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Alex Cetnar",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Kochalski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -9562,15 +9632,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Rafał Leszczyński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -9645,15 +9706,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Tomasz Loska",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -9781,6 +9833,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Simeon Petrow",
+    "nt": "Bułgaria",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Rafał Leszczyński",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -9983,15 +10055,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kewin Komar",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Hubert Tomalski",
     "nt": "Polska",
     "r": 67,
@@ -10066,10 +10129,23 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Perchel",
+    "n": "Igor Pieprzyca",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Kewin Komar",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -10114,15 +10190,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Zlatan Alomerović",
-    "nt": "Serbia",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -10220,15 +10287,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Abramowicz",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dušan Stojinović",
     "nt": "Słowenia",
     "r": 71,
@@ -10262,19 +10320,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Żynel",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Miłosz Piekutowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
+    "n": "Zlatan Alomerović",
+    "nt": "Serbia",
+    "r": 70,
+    "pr": 74,
     "p": [
      "GK"
     ]
@@ -10316,6 +10365,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Sławomir Abramowicz",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartłomiej Żynel",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Miłosz Piekutowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -10387,15 +10463,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Leszczyński",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Janasik",
     "nt": "Polska",
     "r": 77,
@@ -10426,15 +10493,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Kacper Trelowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -10493,24 +10551,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Głogowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Górski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Stanisław Szczyrek",
     "nt": "Polska",
     "r": 76,
@@ -10541,6 +10581,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Rafał Leszczyński",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kacper Trelowski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Głogowski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Górski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -10673,15 +10749,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Steve Kapuadi",
     "nt": "Demokratyczna Republika Konga",
     "r": 73,
@@ -10690,15 +10757,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Kacper Tobiasz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -10734,15 +10792,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Gabriel Kobylak",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -10790,15 +10839,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Cezary Miszta",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Róbert Pich",
     "nt": "Słowacja",
     "r": 71,
@@ -10822,6 +10862,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kacper Tobiasz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Gabriel Kobylak",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Cezary Miszta",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -10952,15 +11028,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dante Stipica",
-    "nt": "Chorwacja",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Malec",
     "nt": "Polska",
     "r": 74,
@@ -10994,15 +11061,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Valentin Cojocaru",
-    "nt": "Rumunia",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Danijel Lončar",
     "nt": "Bośnia",
     "r": 73,
@@ -11025,28 +11083,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Klebaniuk",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
+    "n": "Dante Stipica",
+    "nt": "Chorwacja",
+    "r": 72,
+    "pr": 76,
     "p": [
      "GK"
     ]
    },
    {
-    "n": "Axel Holewiński",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maciej Kowal",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
+    "n": "Valentin Cojocaru",
+    "nt": "Rumunia",
+    "r": 72,
+    "pr": 76,
     "p": [
      "GK"
     ]
@@ -11073,6 +11122,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bartosz Klebaniuk",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Axel Holewiński",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Kowal",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -11244,15 +11320,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Mrozek",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Barry Douglas",
     "nt": "Szkocja",
     "r": 73,
@@ -11283,15 +11350,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Filip Bednarek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -11339,24 +11397,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Mędrala",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Pruchniewski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Tomaszewski",
     "nt": "Polska",
     "r": 72,
@@ -11365,6 +11405,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Bartosz Mrozek",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -11378,6 +11427,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Filip Bednarek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Mędrala",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Pruchniewski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -11552,24 +11628,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Daniel Bielica",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michał Szromnik",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Boris Sekulić",
     "nt": "Słowacja",
     "r": 71,
@@ -11611,24 +11669,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mateusz Jeleń",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kamil Soberka",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -11717,6 +11757,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Daniel Bielica",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Szromnik",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Lawrence Ennali",
     "nt": "Niemcy",
     "r": 69,
@@ -11727,6 +11785,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Jeleń",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kamil Soberka",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -11774,10 +11850,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Fran Tudor",
+    "n": "Zoran Arsenić",
     "nt": "Chorwacja",
-    "r": 76,
-    "pr": 78,
+    "r": 73,
+    "pr": 77,
     "p": [
      "CB",
      "LB",
@@ -11785,7 +11861,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zoran Arsenić",
+    "n": "Fran Tudor",
     "nt": "Chorwacja",
     "r": 73,
     "pr": 77,
@@ -11855,15 +11931,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Vladan Kovačević",
-    "nt": "Bośnia",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Zwoliński",
     "nt": "Polska",
     "r": 71,
@@ -11919,33 +11986,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Bieszczad",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Antónis Tsiftsís",
-    "nt": "Grecja",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Hubert Muszyński",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jerzy Napieraj",
     "nt": "Polska",
     "r": 71,
@@ -11967,6 +12007,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Vladan Kovačević",
+    "nt": "Bośnia",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -12004,6 +12053,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Kacper Bieszczad",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Antónis Tsiftsís",
+    "nt": "Grecja",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Hubert Muszyński",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -12099,15 +12175,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Arkadiusz Woźniak",
     "nt": "Polska",
     "r": 69,
@@ -12200,6 +12267,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Marko Poletanović",
     "nt": "Serbia",
     "r": 68,
@@ -12261,24 +12337,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Szymon Weirauch",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sokrátis Dioúdis",
-    "nt": "Grecja",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kacper Lepczyński",
     "nt": "Polska",
     "r": 68,
@@ -12290,12 +12348,40 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Matys",
+    "n": "Marek Mróz",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Tornike Gaprindaszwili",
+    "nt": "Gruzja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Rafał Adamski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -12400,15 +12486,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Henrich Ravas",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Imad Rondić",
     "nt": "Bośnia",
     "r": 69,
@@ -12439,24 +12516,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jan Krzywański",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Szymański",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -12536,6 +12595,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Henrich Ravas",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Sebastian Kerk",
     "nt": "Niemcy",
     "r": 67,
@@ -12586,6 +12654,32 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Ignacy Dawid",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Filip Przybułek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -12616,15 +12710,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "František Plach",
-    "nt": "Słowacja",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -12672,6 +12757,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Holúbek",
     "nt": "Słowacja",
     "r": 73,
@@ -12705,15 +12799,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Szymański",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Liszewski",
     "nt": "Polska",
     "r": 73,
@@ -12722,24 +12807,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartłomiej Jelonek",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dawid Rychta",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -12753,6 +12820,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Karol Szymański",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartłomiej Jelonek",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dawid Rychta",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -12979,24 +13073,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Kochalski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Konrad Jałocha",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Gerstenstein",
     "nt": "Polska",
     "r": 69,
@@ -13027,15 +13103,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mateusz Dudek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -13102,6 +13169,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mateusz Kochalski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Konrad Jałocha",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Przemysław Maj",
     "nt": "Polska",
     "r": 67,
@@ -13112,6 +13197,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Dudek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -13251,15 +13345,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Oliwier Zych",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Sołowiej",
     "nt": "Polska",
     "r": 68,
@@ -13268,15 +13353,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Kewin Komar",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -13291,15 +13367,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Wróblewski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Filip Gil",
     "nt": "Polska",
     "r": 68,
@@ -13308,15 +13375,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Kacper Piechota",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -13404,6 +13462,52 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Jakub Stec",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Rok Kidrič",
+    "nt": "Słowenia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Igor Pieprzyca",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Oliwier Zych",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -13528,15 +13632,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Madejski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jani Atanasov",
     "nt": "Macedonia Północna",
     "r": 69,
@@ -13558,15 +13653,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Lukáš Hroššo",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -13614,15 +13700,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Wilk",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Stachera",
     "nt": "Polska",
     "r": 69,
@@ -13656,6 +13733,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Sebastian Madejski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Sylwester Lusiusz",
     "nt": "Polska",
     "r": 67,
@@ -13671,6 +13757,32 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Takuto Oshima",
     "nt": "Japonia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Myszor",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Bochnak",
+    "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
@@ -13722,15 +13834,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Xavier Dziekoński",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Miłosz Trojak",
     "nt": "Polska",
     "r": 71,
@@ -13766,15 +13869,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcus Godinho",
     "nt": "Kanada",
     "r": 70,
@@ -13797,24 +13891,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Mamla",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michał Niedbała",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radosław Turek",
     "nt": "Polska",
     "r": 70,
@@ -13823,6 +13899,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Xavier Dziekoński",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -13863,6 +13948,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Konrad Forenc",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Ronaldo Deaconu",
     "nt": "Rumunia",
     "r": 68,
@@ -13873,6 +13967,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Rafał Mamla",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Niedbała",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -14059,15 +14171,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Majchrowicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Jakubik",
     "nt": "Polska",
     "r": 67,
@@ -14142,24 +14245,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Albert Posiadała",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Wiktor Koptas",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Snopczyński",
     "nt": "Polska",
     "r": 67,
@@ -14170,15 +14255,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Krzysztof Bąkowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -14205,6 +14281,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Filip Majchrowicz",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Albert Posiadała",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wiktor Koptas",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krzysztof Bąkowski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -14320,15 +14432,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adrian Lis",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Kiełb",
     "nt": "Polska",
     "r": 70,
@@ -14348,15 +14451,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jędrzej Grobelny",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -14415,15 +14509,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Kustosz",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Lechowicz",
     "nt": "Polska",
     "r": 70,
@@ -14474,6 +14559,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Adrian Lis",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jędrzej Grobelny",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Márton Eppel",
     "nt": "Węgry",
     "r": 68,
@@ -14482,6 +14585,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Mateusz Kustosz",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -14548,24 +14660,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -14770,6 +14864,28 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Kacper Skwierczyński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -14919,15 +15035,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Aleksander Bobek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Śliwa",
     "nt": "Polska",
     "r": 67,
@@ -15000,24 +15107,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Arndt",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michał Kołba",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mieszko Lorenc",
     "nt": "Polska",
     "r": 67,
@@ -15054,6 +15143,39 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Anton Fase",
+    "nt": "Holandia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Oskar Koprowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Aleksander Bobek",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -15121,24 +15243,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Xavier Dziekoński",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Vladan Kovačević",
-    "nt": "Bośnia",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Cebula",
     "nt": "Polska",
     "r": 77,
@@ -15185,15 +15289,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Trelowski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Andrzej Niewulis",
     "nt": "Polska",
     "r": 77,
@@ -15216,9 +15311,36 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Xavier Dziekoński",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Vladan Kovačević",
+    "nt": "Bośnia",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kacper Trelowski",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Rajczykowski",
     "nt": "Polska",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
@@ -15356,15 +15478,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Filip Mladenović",
     "nt": "Serbia",
     "r": 75,
@@ -15384,15 +15497,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Kacper Tobiasz",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -15440,15 +15544,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Cezary Miszta",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Nikodem Niski",
     "nt": "Polska",
     "r": 74,
@@ -15457,15 +15552,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Trojanowski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -15479,6 +15565,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kacper Tobiasz",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Cezary Miszta",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Trojanowski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -15709,15 +15831,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Bednarek",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maksymilian Pingot",
     "nt": "Polska",
     "r": 76,
@@ -15762,33 +15875,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Bąkowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Artur Rudko",
-    "nt": "Ukraina",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Karol Drażdżewski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Tomaszewski",
     "nt": "Polska",
     "r": 76,
@@ -15797,6 +15883,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Filip Bednarek",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krzysztof Bąkowski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Artur Rudko",
+    "nt": "Ukraina",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Karol Drażdżewski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -15977,15 +16099,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dante Stipica",
-    "nt": "Chorwacja",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Luka Zahovič",
     "nt": "Słowenia",
     "r": 71,
@@ -16069,15 +16182,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Klebaniuk",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Mruk",
     "nt": "Polska",
     "r": 70,
@@ -16086,15 +16190,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Kowal",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -16108,6 +16203,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dante Stipica",
+    "nt": "Chorwacja",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -16183,6 +16287,24 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Bartosz Klebaniuk",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Kowal",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -16203,15 +16325,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "František Plach",
-    "nt": "Słowacja",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Kądzior",
     "nt": "Polska",
     "r": 77,
@@ -16222,15 +16335,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -16278,6 +16382,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Holúbek",
     "nt": "Słowacja",
     "r": 75,
@@ -16322,15 +16435,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Szymański",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Liszewski",
     "nt": "Polska",
     "r": 75,
@@ -16342,10 +16446,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Jelonek",
+    "n": "Jakub Szmatuła",
     "nt": "Polska",
-    "r": 75,
-    "pr": 79,
+    "r": 74,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -16359,6 +16463,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Karol Szymański",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartłomiej Jelonek",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -16585,15 +16707,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Daniel Bielica",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Aleksander Paluszek",
     "nt": "Polska",
     "r": 70,
@@ -16649,24 +16762,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kevin Broll",
-    "nt": "Niemcy",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Paweł Sokół",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dani Pacheco",
     "nt": "Hiszpania",
     "r": 69,
@@ -16703,6 +16798,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Daniel Bielica",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kevin Broll",
+    "nt": "Niemcy",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Sokół",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -16840,24 +16962,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Niemczycki",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sebastian Madejski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "David Jablonský",
     "nt": "Czechy",
     "r": 73,
@@ -16869,15 +16973,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Lukáš Hroššo",
-    "nt": "Słowacja",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Oskar Wójcik",
     "nt": "Polska",
     "r": 73,
@@ -16886,15 +16981,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Adam Wilk",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -16917,15 +17003,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Filip Kramarz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -16961,6 +17038,51 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Karol Niemczycki",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Madejski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Lukáš Hroššo",
+    "nt": "Słowacja",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Adam Wilk",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Filip Kramarz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -17056,15 +17178,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adrian Lis",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Kiełb",
     "nt": "Polska",
     "r": 73,
@@ -17109,15 +17222,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jędrzej Grobelny",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Wiktor Pleśnierowicz",
     "nt": "Polska",
     "r": 73,
@@ -17140,15 +17244,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Kustosz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adam Zreľák",
     "nt": "Słowacja",
     "r": 72,
@@ -17157,6 +17252,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Adrian Lis",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jędrzej Grobelny",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Kustosz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -17319,15 +17441,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kacper Chodyna",
     "nt": "Polska",
     "r": 71,
@@ -17387,6 +17500,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Dawid Kurminowski",
     "nt": "Polska",
     "r": 70,
@@ -17409,24 +17531,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Szymon Weirauch",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kacper Bieszczad",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Guram Giorbelidze",
     "nt": "Gruzja",
     "r": 70,
@@ -17446,15 +17550,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michał Matys",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -17584,6 +17679,35 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Szymon Weirauch",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Martin Doležal",
+    "nt": "Czechy",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Kacper Bieszczad",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -17626,15 +17750,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Majchrowicz",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Jakubik",
     "nt": "Polska",
     "r": 71,
@@ -17657,15 +17772,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Gabriel Kobylak",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dominik Sokół",
     "nt": "Polska",
     "r": 71,
@@ -17677,24 +17783,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Albert Posiadała",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Ojrzyński",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Aleksander Gajgier",
     "nt": "Polska",
     "r": 71,
@@ -17703,6 +17791,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Filip Majchrowicz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -17729,6 +17826,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Gabriel Kobylak",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Albert Posiadała",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Ojrzyński",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -17872,15 +17996,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Mrozek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Flis",
     "nt": "Polska",
     "r": 72,
@@ -17936,15 +18051,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Kochalski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Saïd Hamulic",
     "nt": "Bośnia",
     "r": 71,
@@ -17967,15 +18073,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Dudek",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Domański",
     "nt": "Polska",
     "r": 70,
@@ -17989,6 +18086,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Bartosz Mrozek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mateusz Mak",
     "nt": "Polska",
     "r": 69,
@@ -17999,6 +18105,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Kochalski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Dudek",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -18231,15 +18355,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Henrich Ravas",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mato Miloš",
     "nt": "Chorwacja",
     "r": 69,
@@ -18262,15 +18377,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Wrąbel",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Martin Kreuzriegler",
     "nt": "Austria",
     "r": 69,
@@ -18290,15 +18396,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Wasyl Łytwynenko",
-    "nt": "Ukraina",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -18354,6 +18451,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Henrich Ravas",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Karol Danielak",
     "nt": "Polska",
     "r": 67,
@@ -18391,7 +18497,29 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jakub Wrąbel",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Ignacy Dawid",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Filip Zawadzki",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -18516,15 +18644,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Szymusik",
     "nt": "Polska",
     "r": 69,
@@ -18533,24 +18652,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Rafał Mamla",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcel Zapytowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -18584,15 +18685,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Adrian Sandach",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -18648,6 +18740,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Konrad Forenc",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jacek Podgórski",
     "nt": "Polska",
     "r": 67,
@@ -18675,6 +18776,45 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Adrian Danek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dalibor Takáč",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Miłosz Strzeboński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Marcin Szpakowski",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -18790,15 +18930,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zlatan Alomerović",
-    "nt": "Serbia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Skrzypczak",
     "nt": "Polska",
     "r": 69,
@@ -18880,15 +19011,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Abramowicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Olszewski",
     "nt": "Polska",
     "r": 68,
@@ -18922,24 +19044,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Żynel",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Miłosz Piekutowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Czerech",
     "nt": "Polska",
     "r": 68,
@@ -18959,6 +19063,52 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Zlatan Alomerović",
+    "nt": "Serbia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Bida",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Juan Cámara",
+    "nt": "Hiszpania",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Andrzej Trubeha",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -19002,15 +19152,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Leszczyński",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Janasik",
     "nt": "Polska",
     "r": 70,
@@ -19043,15 +19184,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Szromnik",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -19121,24 +19253,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Józef Burta",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Oskar Mielcarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Olivier Wypart",
     "nt": "Polska",
     "r": 69,
@@ -19147,6 +19261,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Rafał Leszczyński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -19226,7 +19349,40 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michał Szromnik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Adrian Łyszczarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Caye Quintana",
+    "nt": "Hiszpania",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Marcel Zylla",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -19328,15 +19484,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -19465,28 +19612,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Gradecki",
+    "n": "Krzysztof Kamiński",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Oskar Lodziński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kamil Zapytowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -19515,6 +19644,43 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Michał Mokrzycki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Radosław Cielemęcki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Tomasz Walczak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -19562,15 +19728,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Nalepa",
     "nt": "Polska",
     "r": 69,
@@ -19582,8 +19739,8 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
     "r": 68,
     "pr": 72,
     "p": [
@@ -19805,6 +19962,17 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Henrik Castegren",
+    "nt": "Szwecja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
    }
   ]
  },
@@ -19932,15 +20100,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Abramowicz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michael Kostka",
     "nt": "Polska",
     "r": 67,
@@ -20026,15 +20185,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Lenarcik",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jon Aurtenetxe",
     "nt": "Hiszpania",
     "r": 67,
@@ -20070,19 +20220,47 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Chadała",
+    "n": "Mateusz Letkiewicz",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CB",
+     "LB",
+     "RB"
     ]
    },
    {
-    "n": "Alan Madaliński",
+    "n": "Hamza Bahaïd",
+    "nt": "Belgia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Kacper Chmielewski",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Abramowicz",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -20130,15 +20308,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Mrozek",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Skrzypczak",
     "nt": "Polska",
     "r": 78,
@@ -20180,24 +20349,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Filip Bednarek",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mickey van der Hart",
-    "nt": "Holandia",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -20253,6 +20404,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Bartosz Mrozek",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Filip Bednarek",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mickey van der Hart",
+    "nt": "Holandia",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -20448,15 +20626,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Vladan Kovačević",
-    "nt": "Bośnia",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Milan Rundić",
     "nt": "Serbia",
     "r": 76,
@@ -20479,15 +20648,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Trelowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Andrzej Niewulis",
     "nt": "Polska",
     "r": 76,
@@ -20496,15 +20656,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Mądrzyk",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -20519,6 +20670,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Vladan Kovačević",
+    "nt": "Bośnia",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mateusz Wdowiak",
     "nt": "Polska",
     "r": 74,
@@ -20529,6 +20689,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Kacper Trelowski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Mądrzyk",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -20696,15 +20874,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dante Stipica",
-    "nt": "Chorwacja",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Hubert Matynia",
     "nt": "Polska",
     "r": 76,
@@ -20749,15 +20918,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Bursztyn",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Mruk",
     "nt": "Polska",
     "r": 75,
@@ -20766,15 +20926,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dariusz Krzysztofek",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -20815,6 +20966,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dante Stipica",
+    "nt": "Chorwacja",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Michał Kucharczyk",
     "nt": "Polska",
     "r": 73,
@@ -20836,6 +20996,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Jakub Bursztyn",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dariusz Krzysztofek",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -20950,15 +21128,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1aa05a",
   "players": [
    {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Zwoliński",
     "nt": "Polska",
     "r": 75,
@@ -20992,6 +21161,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Rafał Pietrzak",
     "nt": "Polska",
     "r": 73,
@@ -21011,15 +21189,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Zlatan Alomerović",
-    "nt": "Serbia",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -21058,15 +21227,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Antoni Mikułko",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jarosław Kubicki",
     "nt": "Polska",
     "r": 71,
@@ -21077,6 +21237,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Zlatan Alomerović",
+    "nt": "Serbia",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Antoni Mikułko",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -21268,24 +21446,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "František Plach",
-    "nt": "Słowacja",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Arkadiusz Pyrka",
     "nt": "Polska",
     "r": 74,
@@ -21330,6 +21490,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Holúbek",
     "nt": "Słowacja",
     "r": 73,
@@ -21363,15 +21532,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Szymański",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maksym Gendera",
     "nt": "Polska",
     "r": 73,
@@ -21396,6 +21556,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Patryk Sokołowski",
     "nt": "Polska",
     "r": 71,
@@ -21406,6 +21575,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Karol Szymański",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -21621,15 +21799,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Michalski",
     "nt": "Polska",
     "r": 69,
@@ -21689,15 +21858,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Damian Węglarz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kristián Vallo",
     "nt": "Słowacja",
     "r": 68,
@@ -21717,15 +21877,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartłomiej Gradecki",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -21751,10 +21902,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Oczkowski",
+    "n": "Krzysztof Kamiński",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -21783,6 +21934,43 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dušan Lagator",
+    "nt": "Czarnogóra",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Radosław Cielemęcki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Tomasz Walczak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -21826,15 +22014,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Majchrowicz",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Jakubik",
     "nt": "Polska",
     "r": 71,
@@ -21843,15 +22022,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mateusz Kochalski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -21910,15 +22080,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jan Szpaderski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Bodzioch",
     "nt": "Polska",
     "r": 71,
@@ -21927,6 +22088,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Filip Majchrowicz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Kochalski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jan Szpaderski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -22120,15 +22308,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Robert Dadok",
     "nt": "Polska",
     "r": 69,
@@ -22190,6 +22369,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Adrian Gryszkiewicz",
     "nt": "Polska",
     "r": 67,
@@ -22198,15 +22386,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Daniel Bielica",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -22306,6 +22485,19 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Ishmael Baidoo",
     "nt": "Ghana",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Michał Rostkowski",
+    "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
@@ -22416,24 +22608,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Niemczycki",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Lukáš Hroššo",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Zaucha",
     "nt": "Polska",
     "r": 70,
@@ -22445,15 +22619,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Wilk",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krystian Bracik",
     "nt": "Polska",
     "r": 70,
@@ -22462,15 +22627,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Filip Kramarz",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -22555,6 +22711,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Karol Niemczycki",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Myszor",
     "nt": "Polska",
     "r": 68,
@@ -22568,6 +22733,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Lukáš Hroššo",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mathias Hebo Rasmussen",
     "nt": "Dania",
     "r": 68,
@@ -22578,6 +22752,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Adam Wilk",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Filip Kramarz",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -22642,24 +22834,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Artur Boruc",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kacper Tobiasz",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -22731,24 +22905,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Kikolski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Kochalski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Lindsay Rose",
     "nt": "Mauritius",
     "r": 69,
@@ -22793,15 +22949,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Cezary Miszta",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Nawotka",
     "nt": "Polska",
     "r": 69,
@@ -22810,15 +22957,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Wojciech Muzyk",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -22846,10 +22984,72 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Artur Boruc",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kacper Tobiasz",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mahir Emreli",
     "nt": "Azerbejdżan",
     "r": 68,
     "pr": 72,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Jurgen Çelhaka",
+    "nt": "Albania",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Szymon Włodarczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Maciej Kikolski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kacper Kostorz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
     "p": [
      "ST",
      "LW",
@@ -22919,15 +23119,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adrian Lis",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Kiełb",
     "nt": "Polska",
     "r": 72,
@@ -22950,15 +23141,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jędrzej Grobelny",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Kieliba",
     "nt": "Polska",
     "r": 72,
@@ -22967,15 +23149,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Patryk Prange",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -23011,6 +23184,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Adrian Lis",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jędrzej Grobelny",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Patryk Prange",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -23199,15 +23399,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Pāvels Šteinbors",
-    "nt": "Łotwa",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomáš Přikryl",
     "nt": "Czechy",
     "r": 70,
@@ -23267,15 +23458,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Xavier Dziekoński",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bogdan Țîru",
     "nt": "Rumunia",
     "r": 69,
@@ -23295,6 +23477,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Pāvels Šteinbors",
+    "nt": "Łotwa",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -23346,15 +23537,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Abramowicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Olszewski",
     "nt": "Polska",
     "r": 68,
@@ -23388,24 +23570,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Jasionek",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Błażej Niezgoda",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jan Majsterek",
     "nt": "Polska",
     "r": 68,
@@ -23414,6 +23578,52 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Gabor Żukowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Xavier Dziekoński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Przemysław Mystkowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dani Quintana",
+    "nt": "Hiszpania",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -23484,15 +23694,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -23692,15 +23893,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Szymon Weirauch",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Karol Podliński",
     "nt": "Polska",
     "r": 67,
@@ -23709,6 +23901,26 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Lorenco Šimić",
+    "nt": "Chorwacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -23828,15 +24040,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Flis",
     "nt": "Polska",
     "r": 68,
@@ -23908,15 +24111,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Rafał Strączek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -24001,6 +24195,26 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Adrian Szczutowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -24068,15 +24282,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Matúš Putnocký",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -24176,6 +24381,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Matúš Putnocký",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Sebastian Bergier",
     "nt": "Polska",
     "r": 67,
@@ -24195,15 +24409,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michał Szromnik",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -24278,6 +24483,19 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Szymon Lewkot",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Adrian Bukowski",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -24437,15 +24655,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Loska",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Ernest Terpiłowski",
     "nt": "Polska",
     "r": 67,
@@ -24531,15 +24740,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Budziłek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Kukułowicz",
     "nt": "Polska",
     "r": 67,
@@ -24573,6 +24773,26 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Patryk Czarnowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Tomasz Loska",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -24581,6 +24801,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2021/22",
   "color": "#888888",
   "players": [
+   {
+    "n": "Jakub Błaszczykowski",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Maciej Sadlok",
     "nt": "Polska",
@@ -24621,28 +24854,6 @@ window.EKSTRAKLASA_SQUADS = [
     "nt": "Ghana",
     "r": 69,
     "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Błaszczykowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
     "p": [
      "CDM",
      "CM",
@@ -24695,15 +24906,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Mateusz Lis",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -24781,15 +24983,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Kieszek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Szot",
     "nt": "Polska",
     "r": 67,
@@ -24849,10 +25042,45 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mikołaj Biegański",
+    "n": "Aschraf El Mahdioui",
+    "nt": "Holandia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Adi Mehremić",
+    "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Przemysław Zdybowicz",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -24958,15 +25186,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -25153,6 +25372,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Maciej Gostomski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -25239,33 +25467,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Artur Boruc",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kacper Tobiasz",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomáš Pekhart",
     "nt": "Czechy",
     "r": 77,
@@ -25310,15 +25511,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Kochalski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Josip Juranović",
     "nt": "Chorwacja",
     "r": 77,
@@ -25327,15 +25519,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Cezary Miszta",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -25350,15 +25533,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Muzyk",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Konik",
     "nt": "Polska",
     "r": 77,
@@ -25367,6 +25541,60 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Radosław Cierzniak",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Artur Boruc",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kacper Tobiasz",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Kochalski",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Cezary Miszta",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Muzyk",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -25510,15 +25738,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Trelowski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Andrzej Niewulis",
     "nt": "Polska",
     "r": 77,
@@ -25527,15 +25746,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Szumski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -25572,9 +25782,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Kacper Trelowski",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Szumski",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Branislav Pindroch",
     "nt": "Słowacja",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
@@ -25734,15 +25962,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dante Stipica",
-    "nt": "Chorwacja",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Hubert Matynia",
     "nt": "Polska",
     "r": 77,
@@ -25787,15 +26006,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Bursztyn",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Mruk",
     "nt": "Polska",
     "r": 76,
@@ -25807,33 +26017,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Krzysztofek",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcel Mendes-Dudziński",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Nikodem Sujecki",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Filip Balcewicz",
     "nt": "Polska",
     "r": 76,
@@ -25842,6 +26025,51 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Dante Stipica",
+    "nt": "Chorwacja",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Bursztyn",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dariusz Krzysztofek",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcel Mendes-Dudziński",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Nikodem Sujecki",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -26024,15 +26252,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Matúš Putnocký",
-    "nt": "Słowacja",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Wojciech Golla",
     "nt": "Polska",
     "r": 74,
@@ -26079,6 +26298,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Matúš Putnocký",
+    "nt": "Słowacja",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Dino Štiglec",
     "nt": "Chorwacja",
     "r": 73,
@@ -26087,15 +26315,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michał Szromnik",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -26143,42 +26362,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Budzyński",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Bartłomiej Frasik",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dariusz Szczerbal",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Miłosz Tysiak",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Maćkowiak",
     "nt": "Polska",
     "r": 73,
@@ -26198,6 +26381,51 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Michał Szromnik",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Budzyński",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartłomiej Frasik",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dariusz Szczerbal",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Miłosz Tysiak",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -26280,15 +26508,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adrian Lis",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Kiełb",
     "nt": "Polska",
     "r": 73,
@@ -26308,15 +26527,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Daniel Bielica",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -26364,15 +26574,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Leo Przybylak",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Filip Małek",
     "nt": "Polska",
     "r": 73,
@@ -26394,6 +26595,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Adrian Lis",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Daniel Bielica",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Leo Przybylak",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -26598,24 +26826,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "František Plach",
-    "nt": "Słowacja",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Arkadiusz Pyrka",
     "nt": "Polska",
     "r": 73,
@@ -26660,6 +26870,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Holúbek",
     "nt": "Słowacja",
     "r": 72,
@@ -26671,19 +26890,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Szymański",
+    "n": "Jakub Szmatuła",
     "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Patryk Królczyk",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
+    "r": 71,
+    "pr": 75,
     "p": [
      "GK"
     ]
@@ -26723,6 +26933,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Karol Szymański",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Patryk Królczyk",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -26820,15 +27048,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1aa05a",
   "players": [
    {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Kopacz",
     "nt": "Polska",
     "r": 72,
@@ -26875,6 +27094,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Rafał Pietrzak",
     "nt": "Polska",
     "r": 71,
@@ -26894,15 +27122,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Zlatan Alomerović",
-    "nt": "Serbia",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -26952,10 +27171,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Eryk Mirus",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
+    "n": "Zlatan Alomerović",
+    "nt": "Serbia",
+    "r": 69,
+    "pr": 73,
     "p": [
      "GK"
     ]
@@ -27006,6 +27225,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Eryk Mirus",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -27153,15 +27381,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Saša Balić",
     "nt": "Czarnogóra",
     "r": 70,
@@ -27194,15 +27413,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -27250,24 +27460,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kamil Bielikow",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dominik Kalinowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Søren Reese",
     "nt": "Dania",
     "r": 69,
@@ -27289,6 +27481,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -27366,7 +27567,42 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Konrad Forenc",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Adam Ratajczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jewgienij Baszkirow",
+    "nt": "Rosja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dawid Pakulski",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -27460,15 +27696,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Pāvels Šteinbors",
-    "nt": "Łotwa",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Martin Pospíšil",
     "nt": "Czechy",
     "r": 69,
@@ -27541,15 +27768,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Xavier Dziekoński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bogdan Țîru",
     "nt": "Rumunia",
     "r": 68,
@@ -27571,6 +27789,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Pāvels Šteinbors",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -27597,15 +27824,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Damian Węglarz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -27663,6 +27881,32 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Maciej Bortniczuk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Kris Twardek",
+    "nt": "Kanada",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -27728,15 +27972,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Norbert Wojtuszek",
     "nt": "Polska",
     "r": 73,
@@ -27756,15 +27991,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Martin Chudý",
-    "nt": "Słowacja",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -27834,15 +28060,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Neugebauer",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Nowak",
     "nt": "Polska",
     "r": 71,
@@ -27856,6 +28073,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Piotr Krawczyk",
     "nt": "Polska",
     "r": 70,
@@ -27864,6 +28090,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Martin Chudý",
+    "nt": "Słowacja",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Neugebauer",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -28029,15 +28273,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Bednarek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tymoteusz Puchacz",
     "nt": "Polska",
     "r": 70,
@@ -28112,24 +28347,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Krzysztof Bąkowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marko Malenica",
-    "nt": "Chorwacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -28213,6 +28430,35 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Filip Szymczak",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Filip Bednarek",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krzysztof Bąkowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -28317,15 +28563,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Michalski",
     "nt": "Polska",
     "r": 69,
@@ -28387,15 +28624,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Wrąbel",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Sielewski",
     "nt": "Polska",
     "r": 68,
@@ -28404,24 +28632,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartłomiej Gradecki",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Bartłomiej Żynel",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -28458,10 +28668,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adrian Tokarski",
+    "n": "Krzysztof Kamiński",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -28489,6 +28699,56 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Fryderyk Gerbowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Airam Cabrera",
+    "nt": "Hiszpania",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Aleksander Pawlak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Hubert Adamczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -28497,6 +28757,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2020/21",
   "color": "#888888",
   "players": [
+   {
+    "n": "Jakub Błaszczykowski",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Rafał Janicki",
     "nt": "Polska",
@@ -28544,15 +28817,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Abramowicz",
     "nt": "Polska",
     "r": 70,
@@ -28572,19 +28836,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Błaszczykowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -28620,15 +28871,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mateusz Lis",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -28700,28 +28942,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kamil Broda",
+    "n": "Michał Buchalik",
     "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Miłosz Jaskuła",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Piotr Zagórowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
+    "r": 68,
+    "pr": 72,
     "p": [
      "GK"
     ]
@@ -28753,8 +28977,54 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mateusz Lis",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Gieorgij Żukow",
     "nt": "Kazachstan",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Aleksander Buksa",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Patryk Plewka",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Nikola Kuveljić",
+    "nt": "Serbia",
     "r": 67,
     "pr": 71,
     "p": [
@@ -28781,15 +29051,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -28848,6 +29109,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Michael Gardawski",
     "nt": "Niemcy",
     "r": 72,
@@ -28856,15 +29126,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Karol Niemczycki",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -28890,15 +29151,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Lukáš Hroššo",
-    "nt": "Słowacja",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Oskar Wójcik",
     "nt": "Polska",
     "r": 72,
@@ -28918,24 +29170,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Adam Wilk",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Grzywaczewski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -29008,6 +29242,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Karol Niemczycki",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Lukáš Hroššo",
+    "nt": "Słowacja",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Adam Wilk",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Grzywaczewski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -29127,15 +29397,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Flis",
     "nt": "Polska",
     "r": 68,
@@ -29183,15 +29444,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Rafał Strączek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -29318,6 +29570,28 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Szymon Stasik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -29338,15 +29612,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Nowak",
     "nt": "Polska",
     "r": 68,
@@ -29357,15 +29622,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Rafał Leszczyński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -29415,6 +29671,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Łukasz Sierpina",
     "nt": "Polska",
     "r": 67,
@@ -29438,15 +29703,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Martin Polaček",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -29607,6 +29863,32 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Rafał Figiel",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Filip Laskowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -29756,15 +30038,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Domagoj Antolić",
     "nt": "Chorwacja",
     "r": 68,
@@ -29812,15 +30085,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Radosław Majecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -29881,10 +30145,30 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Cezary Miszta",
-    "nt": "Polska",
+    "n": "Ivan Obradović",
+    "nt": "Serbia",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Radosław Cierzniak",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Radosław Majecki",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -30065,15 +30349,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mickey van der Hart",
-    "nt": "Holandia",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tymoteusz Puchacz",
     "nt": "Polska",
     "r": 67,
@@ -30166,10 +30441,21 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Karol Szymański",
+    "n": "Tomasz Dejewski",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Mickey van der Hart",
+    "nt": "Holandia",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -30274,15 +30560,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "František Plach",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tom Hateley",
     "nt": "Anglia",
     "r": 69,
@@ -30346,15 +30623,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Uroš Korun",
     "nt": "Słowenia",
     "r": 68,
@@ -30396,6 +30664,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -30456,6 +30733,19 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Denis Gojko",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -30464,6 +30754,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2019/20",
   "color": "#1aa05a",
   "players": [
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Maciej Gajos",
     "nt": "Polska",
@@ -30490,28 +30793,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Jarosław Kubicki",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
     "nt": "Polska",
     "r": 70,
     "pr": 74,
@@ -30574,6 +30855,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tomasz Makowski",
     "nt": "Polska",
     "r": 68,
@@ -30619,15 +30909,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Zlatan Alomerović",
-    "nt": "Serbia",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -30747,6 +31028,19 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Egy Maulana Vikri",
+    "nt": "Indonezja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -30865,15 +31159,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Matúš Putnocký",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Łabojko",
     "nt": "Polska",
     "r": 69,
@@ -30941,6 +31226,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Matúš Putnocký",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -31154,15 +31448,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dante Stipica",
-    "nt": "Chorwacja",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Hołota",
     "nt": "Polska",
     "r": 68,
@@ -31272,15 +31557,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jędrzej Grobelny",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Santeri Hostikka",
     "nt": "Finlandia",
     "r": 67,
@@ -31328,6 +31604,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Soufian Benyamina",
+    "nt": "Niemcy",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Dante Stipica",
+    "nt": "Chorwacja",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -31414,15 +31710,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michal Sipľak",
     "nt": "Słowacja",
     "r": 68,
@@ -31506,6 +31793,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Ołeksij Dytiatjew",
     "nt": "Ukraina",
     "r": 67,
@@ -31551,15 +31847,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Lukáš Hroššo",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -31619,6 +31906,19 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Mateusz Supryn",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -31687,15 +31987,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -31784,6 +32075,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Przemysław Mystkowski",
     "nt": "Polska",
     "r": 67,
@@ -31794,15 +32094,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Damian Węglarz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -31908,6 +32199,19 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Mikołaj Wasilewski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -32032,15 +32336,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Zapolnik",
     "nt": "Polska",
     "r": 68,
@@ -32089,15 +32384,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Martin Chudý",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Gryszkiewicz",
     "nt": "Polska",
     "r": 67,
@@ -32106,15 +32392,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Tomasz Loska",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -32187,6 +32464,39 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Ishmael Baidoo",
+    "nt": "Ghana",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Adam Örn Arnarson",
+    "nt": "Islandia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -32293,15 +32603,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jarosław Jach",
     "nt": "Polska",
     "r": 68,
@@ -32396,15 +32697,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Trelowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Andrzej Niewulis",
     "nt": "Polska",
     "r": 67,
@@ -32424,15 +32716,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Szumski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -32470,6 +32753,41 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Andrija Luković",
+    "nt": "Serbia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Apolinarski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -32637,15 +32955,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Saša Balić",
     "nt": "Czarnogóra",
     "r": 68,
@@ -32670,15 +32979,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Mazek",
     "nt": "Polska",
     "r": 67,
@@ -32689,15 +32989,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Oliwier Zych",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -32738,15 +33029,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kacper Bieszczad",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rok Sirk",
     "nt": "Słowenia",
     "r": 67,
@@ -32755,6 +33037,52 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Dominik Jończy",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Daniel Dudziński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Asmir Suljić",
+    "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -32940,15 +33268,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Thomas Dähne",
-    "nt": "Niemcy",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Ángel García",
     "nt": "Hiszpania",
     "r": 67,
@@ -32981,15 +33300,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jakub Wrąbel",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -33039,6 +33349,28 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Mikołaj Kwietniewski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Thomas Dähne",
+    "nt": "Niemcy",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -33048,6 +33380,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Jakub Błaszczykowski",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Paweł Brożek",
     "nt": "Polska",
     "r": 74,
@@ -33056,19 +33401,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Jakub Błaszczykowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -33150,15 +33482,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -33245,15 +33568,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Lis",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Plewka",
     "nt": "Polska",
     "r": 67,
@@ -33323,6 +33637,26 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Przemysław Zdybowicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -33418,15 +33752,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Pāvels Šteinbors",
-    "nt": "Łotwa",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawit Schirtladze",
     "nt": "Gruzja",
     "r": 69,
@@ -33498,6 +33823,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Pāvels Šteinbors",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -33805,15 +34139,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Kozioł",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Spychała",
     "nt": "Polska",
     "r": 67,
@@ -33908,6 +34233,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Marek Kozioł",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -33965,15 +34299,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Kujawa",
     "nt": "Polska",
     "r": 69,
@@ -33982,6 +34307,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -34131,15 +34465,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Arndt",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Juraszek",
     "nt": "Polska",
     "r": 67,
@@ -34148,15 +34473,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michał Kołba",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -34173,15 +34489,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Budzyński",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Rozmus",
     "nt": "Polska",
     "r": 67,
@@ -34190,6 +34497,41 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jewhen Radionow",
+    "nt": "Ukraina",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Maciej Dampc",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Artur Sójka",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -34294,15 +34636,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "František Plach",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Dziczek",
     "nt": "Polska",
     "r": 69,
@@ -34355,15 +34688,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Uroš Korun",
     "nt": "Słowenia",
     "r": 68,
@@ -34394,6 +34718,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "František Plach",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -34471,6 +34804,17 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Karsten Ayong",
     "nt": "Czechy",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Karol Stanek",
+    "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
@@ -34583,15 +34927,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "José Kanté",
     "nt": "Gwinea",
     "r": 69,
@@ -34660,15 +34995,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Szymański",
     "nt": "Polska",
     "r": 68,
@@ -34679,6 +35005,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -34743,15 +35078,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Majecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Hołownia",
     "nt": "Polska",
     "r": 67,
@@ -34761,6 +35087,30 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "William Rémy",
+    "nt": "Francja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Cristian Pasquato",
+    "nt": "Włochy",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -34769,6 +35119,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2018/19",
   "color": "#1aa05a",
   "players": [
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Jarosław Kubicki",
     "nt": "Polska",
@@ -34791,28 +35154,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -34916,6 +35257,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tomasz Makowski",
     "nt": "Polska",
     "r": 68,
@@ -34937,15 +35287,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Zlatan Alomerović",
-    "nt": "Serbia",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -35049,6 +35390,17 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Daniel Mikołajewski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -35157,15 +35509,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Szczepaniak",
     "nt": "Polska",
     "r": 69,
@@ -35214,15 +35557,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Milan Dimun",
     "nt": "Słowacja",
     "r": 68,
@@ -35260,10 +35594,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Filip Majchrowicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -35340,6 +35674,28 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Sergei Zenjov",
+    "nt": "Estonia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Niko Datković",
+    "nt": "Chorwacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -35432,24 +35788,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marián Kelemen",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -35555,6 +35893,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marián Kelemen",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -35801,15 +36157,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kacper Chodyna",
     "nt": "Polska",
     "r": 68,
@@ -35893,15 +36240,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Moneta",
     "nt": "Polska",
     "r": 67,
@@ -35912,6 +36250,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Adam Matuszczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -36114,15 +36474,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Załuska",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcel Wędrychowski",
     "nt": "Polska",
     "r": 68,
@@ -36193,10 +36544,21 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jędrzej Grobelny",
+    "n": "Adrian Benedyczak",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Łukasz Załuska",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -36281,24 +36643,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Matúš Putnocký",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Darko Jevtić",
     "nt": "Szwajcaria",
     "r": 69,
@@ -36379,6 +36723,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Matúš Putnocký",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -36625,15 +36987,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Pietrzak",
     "nt": "Polska",
     "r": 68,
@@ -36692,15 +37045,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Mateusz Lis",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -36775,6 +37119,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Piotr Świątko",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -36964,15 +37328,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Miśkiewicz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Elhadji Pape Diaw",
     "nt": "Senegal",
     "r": 67,
@@ -37019,15 +37374,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Matthias Hamrol",
-    "nt": "Niemcy",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Zlatko Janjić",
     "nt": "Bośnia",
     "r": 67,
@@ -37041,15 +37387,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Sokół",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Firlej",
     "nt": "Polska",
     "r": 67,
@@ -37058,6 +37395,39 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Piotr Pierzchała",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Oktawian Skrzecz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Michał Miśkiewicz",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -37208,24 +37578,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Loska",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Daniel Bielica",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dani Suárez",
     "nt": "Hiszpania",
     "r": 67,
@@ -37329,10 +37681,34 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Pawłowski",
+    "n": "Daniel Liszka",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Rafał Wolsztyński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Tomasz Loska",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -37474,15 +37850,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Dankowski",
     "nt": "Polska",
     "r": 68,
@@ -37581,15 +37948,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Wrąbel",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Farshad Ahmadzadeh",
     "nt": "Iran",
     "r": 67,
@@ -37626,6 +37984,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Paweł Kucharczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Jakub Słowik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -37692,15 +38070,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Pāvels Šteinbors",
-    "nt": "Łotwa",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -37786,6 +38155,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Pāvels Šteinbors",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -38082,15 +38460,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Thomas Dähne",
-    "nt": "Niemcy",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Igor Łasicki",
     "nt": "Polska",
     "r": 67,
@@ -38148,33 +38517,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Gradecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcel Zapytowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Bartłomiej Żynel",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krystian Miś",
     "nt": "Polska",
     "r": 67,
@@ -38196,6 +38538,46 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Patryk Wieliczko",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Thomas Dähne",
+    "nt": "Niemcy",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartłomiej Gradecki",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcel Zapytowski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -38312,15 +38694,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -38442,15 +38815,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Anton Kanibołoćkyj",
-    "nt": "Ukraina",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Aleksandar Miljković",
     "nt": "Serbia",
     "r": 67,
@@ -38483,6 +38847,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Michał Pojasek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Łukasz Sapela",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -38613,15 +38997,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Konrad Wrzesiński",
     "nt": "Polska",
     "r": 68,
@@ -38654,15 +39029,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -38770,6 +39136,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Jakub Pawlik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -38924,15 +39312,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Szymański",
     "nt": "Polska",
     "r": 69,
@@ -39005,15 +39384,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Thibault Moulin",
     "nt": "Francja",
     "r": 68,
@@ -39051,7 +39421,29 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Michał Masłowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Moneta",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -39195,15 +39587,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Burliga",
     "nt": "Polska",
     "r": 69,
@@ -39223,15 +39606,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marián Kelemen",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -39290,6 +39664,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marián Kelemen",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Przemysław Mystkowski",
     "nt": "Polska",
     "r": 67,
@@ -39316,15 +39708,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Damian Węglarz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Nemanja Mitrović",
     "nt": "Słowenia",
     "r": 67,
@@ -39338,6 +39721,19 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jacek Góralski",
     "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dmytro Chomczenowśkyj",
+    "nt": "Ukraina",
     "r": 67,
     "pr": 71,
     "p": [
@@ -39441,24 +39837,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Matúš Putnocký",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radosław Majewski",
     "nt": "Polska",
     "r": 69,
@@ -39480,15 +39858,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Bartosz Mrozek",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -39562,6 +39931,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Matúš Putnocký",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tymoteusz Puchacz",
     "nt": "Polska",
     "r": 67,
@@ -39625,6 +40012,17 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Emir Dilaver",
     "nt": "Austria",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Lasse Nielsen",
+    "nt": "Dania",
     "r": 67,
     "pr": 71,
     "p": [
@@ -39783,24 +40181,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Loska",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Grzegorz Kasprzik",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dani Suárez",
     "nt": "Hiszpania",
     "r": 67,
@@ -39884,15 +40264,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Pawłowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "David Ledecký",
     "nt": "Czechy",
     "r": 67,
@@ -39914,6 +40285,37 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Kiklaisz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Dominik Lasik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Tomasz Loska",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -40162,15 +40564,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Seweryn Kiełpin",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Konrad Michalak",
     "nt": "Polska",
     "r": 67,
@@ -40203,6 +40596,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Seweryn Kiełpin",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -40328,15 +40730,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -40497,6 +40890,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -40650,15 +41052,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Filip Jagiełło",
     "nt": "Polska",
     "r": 68,
@@ -40751,24 +41144,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Martin Polaček",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Mazek",
     "nt": "Polska",
     "r": 67,
@@ -40779,6 +41154,41 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Adam Matuszczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Paweł Żyra",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -40924,15 +41334,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zlatan Alomerović",
-    "nt": "Serbia",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Kwiecień",
     "nt": "Polska",
     "r": 68,
@@ -40952,15 +41353,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -41019,15 +41411,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Matthias Hamrol",
-    "nt": "Niemcy",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dani Abalo",
     "nt": "Hiszpania",
     "r": 67,
@@ -41064,6 +41447,37 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Krystian Miś",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Shawn Barry",
+    "nt": "Portoryko",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Zlatan Alomerović",
+    "nt": "Serbia",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -41143,24 +41557,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -41270,6 +41666,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -41498,15 +41912,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Igors Tarasovs",
     "nt": "Łotwa",
     "r": 68,
@@ -41640,10 +42045,23 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Wrąbel",
+    "n": "Daniel Łuczak",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Słowik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -41813,15 +42231,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Załuska",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Kort",
     "nt": "Polska",
     "r": 68,
@@ -41907,15 +42316,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Bursztyn",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mate Cincadze",
     "nt": "Gruzja",
     "r": 67,
@@ -41929,10 +42329,34 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adrian Henger",
+    "n": "Patryk Paczuk",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Aron Stasiak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Łukasz Załuska",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -42004,15 +42428,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Zbozień",
     "nt": "Polska",
     "r": 69,
@@ -42045,15 +42460,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Pāvels Šteinbors",
-    "nt": "Łotwa",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -42126,6 +42532,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Pāvels Šteinbors",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -42228,10 +42652,23 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1aa05a",
   "players": [
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Sławomir Peszko",
     "nt": "Polska",
-    "r": 71,
-    "pr": 75,
+    "r": 77,
+    "pr": 79,
     "p": [
      "CDM",
      "CM",
@@ -42249,28 +42686,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sebastian Mila",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -42352,6 +42767,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -42639,15 +43063,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Uroš Korun",
     "nt": "Słowenia",
     "r": 68,
@@ -42770,15 +43185,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dobrivoj Rusov",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dario Rugašević",
     "nt": "Chorwacja",
     "r": 67,
@@ -42798,6 +43204,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dobrivoj Rusov",
+    "nt": "Słowacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -42919,15 +43343,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ján Mucha",
-    "nt": "Słowacja",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Artem Putiwcew",
     "nt": "Ukraina",
     "r": 68,
@@ -42936,15 +43351,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dariusz Trela",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -43004,15 +43410,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Krzysztof Baran",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -43083,6 +43480,41 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Krystian Peda",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dejan Janjatović",
+    "nt": "Serbia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Ján Mucha",
+    "nt": "Słowacja",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -43213,15 +43645,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Danek",
     "nt": "Polska",
     "r": 68,
@@ -43327,24 +43750,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Pietrzkiewicz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Radliński",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Hubert Maślanka",
     "nt": "Polska",
     "r": 67,
@@ -43366,6 +43771,39 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Kacper Smoleń",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Wiktor Nowak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -43516,15 +43954,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Aleksandar Prijović",
     "nt": "Serbia",
     "r": 69,
@@ -43608,15 +44037,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Stojan Vranješ",
     "nt": "Bośnia",
     "r": 68,
@@ -43643,6 +44063,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Michał Masłowski",
     "nt": "Polska",
     "r": 67,
@@ -43653,6 +44082,17 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bartosz Bereszyński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -43750,15 +44190,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marián Kelemen",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Karol Świderski",
     "nt": "Polska",
     "r": 69,
@@ -43853,6 +44284,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Marián Kelemen",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Przemysław Mystkowski",
     "nt": "Polska",
     "r": 67,
@@ -43863,15 +44303,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Damian Węglarz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -43933,6 +44364,17 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Kamil Pajnowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Emil Łupiński",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -44074,33 +44516,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Matúš Putnocký",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Bartosz Mrozek",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Kędziora",
     "nt": "Polska",
     "r": 68,
@@ -44158,6 +44573,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Matúš Putnocký",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Paulus Arajuuri",
     "nt": "Finlandia",
     "r": 67,
@@ -44166,15 +44599,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mateusz Lis",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -44222,6 +44646,28 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Paweł Tomczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Lasse Nielsen",
+    "nt": "Dania",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
    }
   ]
  },
@@ -44230,6 +44676,32 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2016/17",
   "color": "#1aa05a",
   "players": [
+   {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Grzegorz Kuświk",
     "nt": "Polska",
@@ -44254,32 +44726,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Michał Chrapek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Sebastian Mila",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
     "nt": "Polska",
     "r": 70,
     "pr": 74,
@@ -44440,15 +44886,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Bąk",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Simeon Sławczew",
     "nt": "Bułgaria",
     "r": 67,
@@ -44495,19 +44932,36 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Vanja Milinković-Savić",
-    "nt": "Serbia",
+    "n": "Milen Gamakow",
+    "nt": "Bułgaria",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
-    "n": "Łukasz Budziłek",
+    "n": "Martin Kobylański",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Bąk",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -44581,15 +45035,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Nabil Aankour",
     "nt": "Maroko",
     "r": 69,
@@ -44629,15 +45074,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zbigniew Małkowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radek Dejmek",
     "nt": "Czechy",
     "r": 68,
@@ -44646,15 +45082,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -44681,6 +45108,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -44793,6 +45229,30 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Jakub Kotarzewski",
     "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Krystian Miś",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Charlie Trafford",
+    "nt": "Kanada",
     "r": 67,
     "pr": 71,
     "p": [
@@ -44918,15 +45378,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Pietrzak",
     "nt": "Polska",
     "r": 68,
@@ -44935,15 +45386,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Załuska",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -44990,15 +45432,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Miśkiewicz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -45082,6 +45515,39 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Przemysław Porębski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Ptak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -45258,15 +45724,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Lewandowski",
     "nt": "Polska",
     "r": 68,
@@ -45301,15 +45758,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -45368,6 +45816,26 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Patryk Adamczuk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Jakub Słowik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -45409,15 +45877,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -45541,10 +46000,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Trela",
+    "n": "Krzysztof Pilarz",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -45594,15 +46053,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Baran",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Martin Juhar",
     "nt": "Słowacja",
     "r": 67,
@@ -45646,6 +46096,32 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Piotr Nowak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Miroszka",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -45824,15 +46300,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Đorđe Čotra",
     "nt": "Serbia",
     "r": 68,
@@ -45914,19 +46381,34 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Martin Polaček",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Konrad Forenc",
+    "n": "Paweł Żyra",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Artur Siemaszko",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -46034,15 +46516,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -46175,15 +46648,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dobrivoj Rusov",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Edvinas Girdvainis",
     "nt": "Litwa",
     "r": 67,
@@ -46206,10 +46670,36 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Freitag",
+    "n": "Maciej Borycka",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dominik Budzik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -46281,15 +46771,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adam Kokoszka",
     "nt": "Polska",
     "r": 68,
@@ -46346,6 +46827,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -46410,15 +46900,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ľuboš Kamenár",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "András Gosztonyi",
     "nt": "Węgry",
     "r": 67,
@@ -46443,15 +46924,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Budzyński",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Wiech",
     "nt": "Polska",
     "r": 67,
@@ -46460,6 +46932,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Ľuboš Kamenár",
+    "nt": "Słowacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dominik Budzyński",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -46664,15 +47154,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Seweryn Kiełpin",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Byrtek",
     "nt": "Polska",
     "r": 67,
@@ -46728,15 +47209,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Kaniecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Piotrowski",
     "nt": "Polska",
     "r": 67,
@@ -46747,6 +47219,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Witalij Hemeha",
+    "nt": "Ukraina",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Seweryn Kiełpin",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -46813,15 +47307,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Pāvels Šteinbors",
-    "nt": "Łotwa",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -46921,6 +47406,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Pāvels Šteinbors",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Krzysztof Sobieraj",
     "nt": "Polska",
     "r": 67,
@@ -46964,15 +47458,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Konrad Jałocha",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -47024,12 +47509,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Arkadiusz Moczadło",
+    "n": "Damian Mosiejko",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Węsierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -47173,15 +47673,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Polczak",
     "nt": "Polska",
     "r": 69,
@@ -47254,6 +47745,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Erik Jendrišek",
     "nt": "Słowacja",
     "r": 67,
@@ -47302,16 +47802,20 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Wilk",
+    "n": "Radosław Kanach",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
-    "n": "Radosław Kanach",
+    "n": "Krzysztof Szewczyk",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -47521,15 +48025,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sergiusz Prusak",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Poźniak",
     "nt": "Polska",
     "r": 67,
@@ -47567,15 +48062,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Małecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Bogusławski",
     "nt": "Polska",
     "r": 67,
@@ -47610,6 +48096,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Patryk Błaziak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Sergiusz Prusak",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -47845,15 +48351,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Eduards Višņakovs",
     "nt": "Łotwa",
     "r": 67,
@@ -47891,10 +48388,23 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Libor Hrdlička",
-    "nt": "Słowacja",
+    "n": "Przemysław Bargiel",
+    "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -47906,6 +48416,17 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2015/16",
   "color": "#0f7a36",
   "players": [
+   {
+    "n": "Marek Saganowski",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
    {
     "n": "Nemanja Nikolić",
     "nt": "Węgry",
@@ -47963,26 +48484,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marek Saganowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -48067,15 +48568,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Stojan Vranješ",
     "nt": "Bośnia",
     "r": 69,
@@ -48086,6 +48578,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -48126,6 +48627,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Michał Masłowski",
     "nt": "Polska",
     "r": 67,
@@ -48150,15 +48660,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szumski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Makowski",
     "nt": "Polska",
     "r": 67,
@@ -48180,6 +48681,19 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Ivan Tričkovski",
+    "nt": "Macedonia Północna",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -48334,15 +48848,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Musiolik",
     "nt": "Polska",
     "r": 68,
@@ -48362,15 +48867,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Rafał Leszczyński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -48442,15 +48938,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dobrivoj Rusov",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patrick Dytko",
     "nt": "Polska",
     "r": 67,
@@ -48461,6 +48948,41 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dominik Budzik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Cezary Demianiuk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -48676,24 +49198,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Martin Polaček",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Żyra",
     "nt": "Polska",
     "r": 67,
@@ -48752,6 +49256,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Konrad Andrzejczak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Martin Polaček",
+    "nt": "Słowacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -48875,15 +49401,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Wójcicki",
     "nt": "Polska",
     "r": 69,
@@ -48903,15 +49420,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -48961,6 +49469,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Sreten Sretenović",
     "nt": "Serbia",
     "r": 67,
@@ -48985,15 +49511,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Wilk",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Szewczyk",
     "nt": "Polska",
     "r": 67,
@@ -49004,15 +49521,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Krystian Stępniowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -49027,6 +49535,24 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Adam Wilk",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krystian Stępniowski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -49036,6 +49562,32 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1aa05a",
   "players": [
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Grzegorz Kuświk",
     "nt": "Polska",
     "r": 74,
@@ -49044,19 +49596,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Sebastian Mila",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -49085,19 +49624,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Michał Chrapek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
     "nt": "Polska",
     "r": 70,
     "pr": 74,
@@ -49293,15 +49819,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Bąk",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Juliusz Letniowski",
     "nt": "Polska",
     "r": 67,
@@ -49323,6 +49840,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Mateusz Bąk",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -49462,15 +49988,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Lewandowski",
     "nt": "Polska",
     "r": 68,
@@ -49492,15 +50009,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -49602,10 +50110,32 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Piotrowski",
+    "n": "Błażej Chouwer",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Słowik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -49705,15 +50235,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dariusz Dudka",
     "nt": "Polska",
     "r": 69,
@@ -49724,15 +50245,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -49797,15 +50309,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Barry Douglas",
     "nt": "Szkocja",
     "r": 68,
@@ -49838,6 +50341,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -49895,6 +50416,17 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Denis Thomalla",
+    "nt": "Niemcy",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -49987,15 +50519,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Matúš Putnocký",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -50102,6 +50625,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Matúš Putnocký",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Maciej Urbańczyk",
     "nt": "Polska",
     "r": 67,
@@ -50112,15 +50644,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -50184,6 +50707,17 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Siedlik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -50314,24 +50848,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jakub Bartosz",
     "nt": "Polska",
     "r": 68,
@@ -50353,15 +50869,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Miśkiewicz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -50470,6 +50977,39 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Szymon Witek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Jakub Mordec",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -50548,15 +51088,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -50656,6 +51187,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Maciej Pałaszewski",
     "nt": "Polska",
     "r": 67,
@@ -50666,24 +51206,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jakub Wrąbel",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Abramowicz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -50758,6 +51280,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jakub Wrąbel",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Abramowicz",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -50984,15 +51524,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Drągowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Martin Baran",
     "nt": "Słowacja",
     "r": 67,
@@ -51049,6 +51580,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Bartłomiej Drągowski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -51168,15 +51708,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zbigniew Małkowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radek Dejmek",
     "nt": "Czechy",
     "r": 68,
@@ -51220,15 +51751,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dariusz Trela",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -51340,6 +51862,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Andrzej Paprocki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Zbigniew Małkowski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -51503,15 +52047,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Nowak",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dalibor Pleva",
     "nt": "Słowacja",
     "r": 67,
@@ -51582,15 +52117,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Andrzej Witan",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Wołodymyr Kowal",
     "nt": "Ukraina",
     "r": 67,
@@ -51623,6 +52149,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Kaczmarczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Sebastian Nowak",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -51788,15 +52336,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sergiusz Prusak",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Poźniak",
     "nt": "Polska",
     "r": 67,
@@ -51856,15 +52395,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Silvio Rodić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Wojciech Kalinowski",
     "nt": "Polska",
     "r": 67,
@@ -51878,15 +52408,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Mucha",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Kopeć",
     "nt": "Polska",
     "r": 67,
@@ -51895,6 +52416,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Sergiusz Prusak",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Silvio Rodić",
+    "nt": "Chorwacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dominik Mucha",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -51987,15 +52535,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -52108,15 +52647,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Janukiewicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Ołeksandr Szeweluchin",
     "nt": "Ukraina",
     "r": 68,
@@ -52139,7 +52669,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Kasprzik",
+    "n": "Sebastian Przyrowski",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -52182,6 +52712,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Marcin Urynowicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Dominik Sadzawicki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -52263,15 +52815,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Wojciech Kaczmarek",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -52357,24 +52900,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Sebastian Madejski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Emilijus Zubas",
-    "nt": "Litwa",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -52472,6 +52997,39 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Mateusz Janeczko",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Gracjan Horoszkiewicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Wojciech Kaczmarek",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -52552,24 +53110,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -52669,15 +53209,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Barry Douglas",
     "nt": "Szkocja",
     "r": 68,
@@ -52735,6 +53266,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Paulus Arajuuri",
     "nt": "Finlandia",
     "r": 67,
@@ -52757,6 +53306,17 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Kebba Ceesay",
+    "nt": "Gambia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
    }
   ]
  },
@@ -52765,6 +53325,17 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2014/15",
   "color": "#0f7a36",
   "players": [
+   {
+    "n": "Marek Saganowski",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
    {
     "n": "Arkadiusz Piech",
     "nt": "Polska",
@@ -52816,17 +53387,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Saganowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
     "n": "Jakub Rzeźniczak",
     "nt": "Polska",
     "r": 70,
@@ -52835,15 +53395,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -52964,6 +53515,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -53181,15 +53741,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Wasiluk",
     "nt": "Polska",
     "r": 68,
@@ -53258,15 +53809,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Drągowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Martin Baran",
     "nt": "Słowacja",
     "r": 67,
@@ -53302,15 +53844,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Baran",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Porębski",
     "nt": "Polska",
     "r": 67,
@@ -53333,6 +53866,37 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Adam Waszkiewicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Radosław Jasiński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Jakub Słowik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -53342,10 +53906,10 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Róbert Pich",
-    "nt": "Słowacja",
-    "r": 74,
-    "pr": 78,
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
     "p": [
      "CDM",
      "CM",
@@ -53355,10 +53919,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Mila",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
+    "n": "Róbert Pich",
+    "nt": "Słowacja",
+    "r": 74,
+    "pr": 78,
     "p": [
      "CDM",
      "CM",
@@ -53398,15 +53962,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -53517,6 +54072,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Maciej Pałaszewski",
     "nt": "Polska",
     "r": 67,
@@ -53527,15 +54091,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jakub Wrąbel",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -53562,15 +54117,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Wojciech Pawłowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -53619,6 +54165,28 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Waldemar Gancarczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Wrąbel",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -53810,15 +54378,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Trela",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adam Buksa",
     "nt": "Polska",
     "r": 68,
@@ -53830,15 +54389,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Bąk",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Nikola Leković",
     "nt": "Serbia",
     "r": 67,
@@ -53847,15 +54397,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartosz Kaniecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -53906,6 +54447,37 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Damian Garbacik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Paweł Czychowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Dariusz Trela",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -54060,15 +54632,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Emmanuel Sarki",
     "nt": "Haiti",
     "r": 67,
@@ -54141,15 +54704,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Gerard Bieszczad",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Szymon Witek",
     "nt": "Polska",
     "r": 67,
@@ -54193,6 +54747,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Damian Buras",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -54300,15 +54876,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Pāvels Šteinbors",
-    "nt": "Łotwa",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -54454,6 +55021,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Pāvels Šteinbors",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Przemysław Oziębała",
     "nt": "Polska",
     "r": 67,
@@ -54467,21 +55043,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Loska",
+    "n": "Konrad Nowak",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
-    "n": "Grzegorz Kasprzik",
+    "n": "Dominik Sadzawicki",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -54678,24 +55260,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Radosław Janukiewicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Wojtkowski",
     "nt": "Polska",
     "r": 67,
@@ -54769,6 +55333,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Radosław Janukiewicz",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -54892,15 +55474,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Nowak",
     "nt": "Polska",
     "r": 69,
@@ -54995,6 +55568,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Sebastian Steblecki",
     "nt": "Polska",
     "r": 67,
@@ -55005,15 +55587,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -55062,6 +55635,19 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Krzysztof Szewczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -55216,15 +55802,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Helik",
     "nt": "Polska",
     "r": 68,
@@ -55295,15 +55872,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Rzuchowski",
     "nt": "Polska",
     "r": 67,
@@ -55351,6 +55919,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Ján Chovanec",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Kamiński",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -55577,15 +56167,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Vytautas Černiauskas",
-    "nt": "Litwa",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Siergiej Chiżniczenko",
     "nt": "Kazachstan",
     "r": 67,
@@ -55594,15 +56175,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Wojciech Małecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -55617,15 +56189,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Kosiorowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Załęcki",
     "nt": "Polska",
     "r": 67,
@@ -55636,6 +56199,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Vytautas Černiauskas",
+    "nt": "Litwa",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Małecki",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Kosiorowski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -55794,15 +56384,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Wojciech Kędziora",
     "nt": "Polska",
     "r": 68,
@@ -55895,15 +56476,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szumski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Moskwik",
     "nt": "Polska",
     "r": 67,
@@ -55923,6 +56495,28 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Patrick Dytko",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -56038,15 +56632,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Malinowski",
     "nt": "Polska",
     "r": 68,
@@ -56121,7 +56706,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Richard Zajac",
+    "n": "Michal Peškovič",
     "nt": "Słowacja",
     "r": 67,
     "pr": 71,
@@ -56180,15 +56765,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Madejski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Frank Adu Kwame",
     "nt": "Ghana",
     "r": 67,
@@ -56208,6 +56784,30 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Krzysztof Chrapek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Wojciech Trochim",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -56412,15 +57012,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sergiusz Prusak",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Zawistowski",
     "nt": "Polska",
     "r": 67,
@@ -56458,15 +57049,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Silvio Rodić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kalkowski",
     "nt": "Polska",
     "r": 67,
@@ -56491,10 +57073,36 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Socha",
+    "n": "Patryk Burzyński",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Kamil Dubicki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Sergiusz Prusak",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -56541,15 +57149,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -56601,6 +57200,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Łukasz Nawotczyński",
     "nt": "Polska",
     "r": 67,
@@ -56609,15 +57217,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Damian Węglarz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -56642,15 +57241,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Andrzej Witan",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -56746,6 +57336,24 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Damian Węglarz",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Andrzej Witan",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -56800,15 +57408,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -56910,6 +57509,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Adam Mójta",
     "nt": "Polska",
     "r": 67,
@@ -56953,15 +57561,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Emilijus Zubas",
-    "nt": "Litwa",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -57028,12 +57627,25 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Lenarcik",
+    "n": "Daniils Turkovs",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Mateusz Szymorek",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -57043,6 +57655,17 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2013/14",
   "color": "#0f7a36",
   "players": [
+   {
+    "n": "Marek Saganowski",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
    {
     "n": "Miroslav Radović",
     "nt": "Serbia",
@@ -57083,17 +57706,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Saganowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
     "n": "Wladimer Dwaliszwili",
     "nt": "Gruzja",
     "r": 72,
@@ -57113,15 +57725,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -57232,6 +57835,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mateusz Cichocki",
     "nt": "Polska",
     "r": 68,
@@ -57293,15 +57905,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Efir",
     "nt": "Polska",
     "r": 67,
@@ -57321,6 +57924,17 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Marko Šuler",
+    "nt": "Słowenia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -57455,24 +58069,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kamiński",
     "nt": "Polska",
     "r": 69,
@@ -57554,15 +58150,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Barry Douglas",
     "nt": "Szkocja",
     "r": 68,
@@ -57608,6 +58195,37 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Daylon Claasen",
+    "nt": "RPA",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -57762,15 +58380,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Babiarz",
     "nt": "Polska",
     "r": 68,
@@ -57781,15 +58390,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -57897,6 +58497,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Kamil Włodyka",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -58058,15 +58680,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Bąk",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Dawidowicz",
     "nt": "Polska",
     "r": 67,
@@ -58075,15 +58688,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Małkowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -58109,15 +58713,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Kaniecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Smuczyński",
     "nt": "Polska",
     "r": 67,
@@ -58128,15 +58723,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Kacper Rosa",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -58176,6 +58762,50 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Kacper Łazaj",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Damian Kugiel",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Krzysztof Iwanowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Mateusz Bąk",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -58341,15 +58971,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Miśkiewicz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Gordan Bunoza",
     "nt": "Bośnia",
     "r": 67,
@@ -58466,6 +59087,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Michał Miśkiewicz",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -58575,15 +59205,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Pāvels Šteinbors",
-    "nt": "Łotwa",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Małkowski",
     "nt": "Polska",
     "r": 69,
@@ -58643,15 +59264,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Norbert Witkowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Ołeksandr Szeweluchin",
     "nt": "Ukraina",
     "r": 68,
@@ -58671,6 +59283,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Pāvels Šteinbors",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -58750,6 +59371,17 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Boris Pandža",
     "nt": "Bośnia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Tomasz Wełnicki",
+    "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
@@ -58908,24 +59540,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dawid Kudła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Radosław Janukiewicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Kort",
     "nt": "Polska",
     "r": 68,
@@ -59045,6 +59659,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Wilk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Dawid Kudła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -59175,15 +59809,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Kaczmarek",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Hérold Goulon",
     "nt": "Francja",
     "r": 68,
@@ -59210,15 +59835,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Damian Węglarz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Abbott",
     "nt": "Polska",
     "r": 67,
@@ -59238,15 +59854,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Andrzej Witan",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -59329,6 +59936,39 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Michał Cywiński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Nawrocki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Wojciech Kaczmarek",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -59340,8 +59980,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Sebastian Mila",
     "nt": "Polska",
-    "r": 71,
-    "pr": 75,
+    "r": 78,
+    "pr": 80,
     "p": [
      "CDM",
      "CM",
@@ -59396,15 +60036,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Marián Kelemen",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -59515,10 +60146,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Gikiewicz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "n": "Marián Kelemen",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -59532,15 +60163,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Wrąbel",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -59609,6 +60231,32 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Patryk Misik",
+    "nt": "Kanada",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Paweł Uliczny",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -59841,15 +60489,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Richard Zajac",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Górkiewicz",
     "nt": "Polska",
     "r": 67,
@@ -59885,15 +60524,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ladislav Rybánsky",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Żegleń",
     "nt": "Polska",
     "r": 67,
@@ -59902,6 +60532,28 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Daniel Bujok",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Richard Zajac",
+    "nt": "Słowacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -60021,15 +60673,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Kupisz",
     "nt": "Polska",
     "r": 68,
@@ -60113,15 +60756,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Drągowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Martin Baran",
     "nt": "Słowacja",
     "r": 67,
@@ -60157,15 +60791,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Baran",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Giorgi Popchadze",
     "nt": "Gruzja",
     "r": 67,
@@ -60185,6 +60810,39 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Adam Waszkiewicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Paweł Drażba",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Słowik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -60324,15 +60982,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Podgórski",
     "nt": "Polska",
     "r": 68,
@@ -60354,15 +61003,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dariusz Trela",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -60425,15 +61065,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szumski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Lisowski",
     "nt": "Polska",
     "r": 67,
@@ -60468,6 +61099,39 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Artis Lazdiņš",
+    "nt": "Łotwa",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Tomáš Dočekal",
+    "nt": "Czechy",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -60611,15 +61275,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zbigniew Małkowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Lisowski",
     "nt": "Polska",
     "r": 68,
@@ -60758,6 +61413,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Zbigniew Małkowski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -60838,15 +61502,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -60981,6 +61636,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Sebastian Steblecki",
     "nt": "Polska",
     "r": 67,
@@ -61016,15 +61680,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rok Štraus",
     "nt": "Słowenia",
     "r": 67,
@@ -61039,6 +61694,19 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Łukasz Zejdler",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Bartosz Żurek",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -61103,15 +61771,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -61340,6 +61999,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -61471,15 +62139,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Hładun",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Đorđe Čotra",
     "nt": "Serbia",
     "r": 68,
@@ -61514,15 +62173,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -61598,15 +62248,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Kozioł",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Bonecki",
     "nt": "Polska",
     "r": 67,
@@ -61620,10 +62261,45 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Ptak",
+    "n": "Damian Kowalczyk",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Boris Godál",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Piotr Azikiewicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Dominik Hładun",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -61655,15 +62331,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 80,
-    "pr": 82,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -61700,6 +62367,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Dickson Choto",
     "nt": "Zimbabwe",
     "r": 78,
@@ -61733,21 +62409,14 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
+    "n": "Marek Saganowski",
     "nt": "Polska",
     "r": 77,
     "pr": 79,
     "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Konrad Jałocha",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
+     "ST",
+     "LW",
+     "RW"
     ]
    },
    {
@@ -61773,14 +62442,21 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Saganowski",
+    "n": "Wojciech Skaba",
     "nt": "Polska",
-    "r": 74,
-    "pr": 78,
+    "r": 75,
+    "pr": 79,
     "p": [
-     "ST",
-     "LW",
-     "RW"
+     "GK"
+    ]
+   },
+   {
+    "n": "Konrad Jałocha",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -61928,24 +62604,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kamiński",
     "nt": "Polska",
     "r": 79,
@@ -62001,6 +62659,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Bartosz Bereszyński",
     "nt": "Polska",
     "r": 77,
@@ -62023,24 +62699,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Miszczuk",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Aleksander Wandzel",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Cieślak",
     "nt": "Polska",
     "r": 77,
@@ -62060,6 +62718,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jakub Miszczuk",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Aleksander Wandzel",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -62198,8 +62874,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Sebastian Mila",
     "nt": "Polska",
-    "r": 74,
-    "pr": 78,
+    "r": 78,
+    "pr": 80,
     "p": [
      "CDM",
      "CM",
@@ -62241,15 +62917,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marián Kelemen",
-    "nt": "Słowacja",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -62336,10 +63003,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Gikiewicz",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
+    "n": "Marián Kelemen",
+    "nt": "Słowacja",
+    "r": 70,
+    "pr": 74,
     "p": [
      "GK"
     ]
@@ -62391,15 +63058,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Żukowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sylwester Patejuk",
     "nt": "Polska",
     "r": 69,
@@ -62410,6 +63068,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -62472,6 +63139,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Krzysztof Żukowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -62514,15 +63190,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Podgórski",
     "nt": "Polska",
     "r": 71,
@@ -62546,15 +63213,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Dariusz Trela",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -62588,15 +63246,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Szumski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -62679,6 +63328,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dariusz Trela",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tomáš Dočekal",
     "nt": "Czechy",
     "r": 69,
@@ -62722,6 +63389,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Jakub Szumski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -62802,15 +63478,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Norbert Witkowski",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Ołeksandr Szeweluchin",
     "nt": "Ukraina",
     "r": 75,
@@ -62844,24 +63511,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Skorupski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Sławik",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Bedronka",
     "nt": "Polska",
     "r": 74,
@@ -62870,6 +63519,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Norbert Witkowski",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -62883,6 +63541,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Skorupski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Sławik",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -63065,24 +63741,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adam Kokoszka",
     "nt": "Polska",
     "r": 73,
@@ -63149,6 +63807,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Paweł Wszołek",
     "nt": "Polska",
     "r": 72,
@@ -63162,7 +63829,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Budzyński",
+    "n": "Sebastian Przyrowski",
     "nt": "Polska",
     "r": 72,
     "pr": 76,
@@ -63227,6 +63894,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Dominik Budzyński",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -63409,15 +64085,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Miśkiewicz",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Gordan Bunoza",
     "nt": "Bośnia",
     "r": 71,
@@ -63426,15 +64093,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sergei Pareiko",
-    "nt": "Estonia",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -63504,24 +64162,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Milan Jovanić",
-    "nt": "Serbia",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jan Kocoń",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartłomiej Kolanko",
     "nt": "Polska",
     "r": 71,
@@ -63546,6 +64186,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michał Miśkiewicz",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sergei Pareiko",
+    "nt": "Estonia",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Cwetan Genkow",
     "nt": "Bułgaria",
     "r": 69,
@@ -63554,6 +64212,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Milan Jovanić",
+    "nt": "Serbia",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jan Kocoń",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -63756,15 +64432,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Madera",
     "nt": "Polska",
     "r": 69,
@@ -63822,15 +64489,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Małkowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Vytautas Andriuškevičius",
     "nt": "Litwa",
     "r": 68,
@@ -63853,21 +64511,49 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Kaniecki",
+    "n": "Adrian Bielawski",
     "nt": "Polska",
     "r": 68,
     "pr": 72,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
    },
    {
-    "n": "Patryk Sobczak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "n": "Marko Bajić",
+    "nt": "Serbia",
+    "r": 67,
+    "pr": 71,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Wojciech Zyska",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -63910,15 +64596,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -64016,15 +64693,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Kozioł",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Aleksandyr Tunczew",
     "nt": "Bułgaria",
     "r": 70,
@@ -64047,15 +64715,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Amadeusz Skrzyniarz",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Wilczek",
     "nt": "Polska",
     "r": 69,
@@ -64064,6 +64723,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -64077,6 +64745,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Marek Kozioł",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Amadeusz Skrzyniarz",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -64162,6 +64848,17 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2012/13",
   "color": "#f2b705",
   "players": [
+   {
+    "n": "Euzebiusz Smolarek",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
    {
     "n": "Damian Kądzior",
     "nt": "Polska",
@@ -64274,15 +64971,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Filip Modelski",
     "nt": "Polska",
     "r": 69,
@@ -64313,17 +65001,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Euzebiusz Smolarek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -64388,15 +65065,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Baran",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Porębski",
     "nt": "Polska",
     "r": 68,
@@ -64419,10 +65087,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Skowron",
+    "n": "Jakub Słowik",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -64438,6 +65106,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Michał Pawlik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Baran",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -64505,15 +65195,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zbigniew Małkowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Lisowski",
     "nt": "Polska",
     "r": 71,
@@ -64560,15 +65241,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Małecki",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Kiercz",
     "nt": "Polska",
     "r": 70,
@@ -64577,24 +65249,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Ołeksij Szlakotin",
-    "nt": "Hongkong",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Bartosz Gugulski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -64630,6 +65284,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Zbigniew Małkowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -64702,6 +65365,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Wojciech Małecki",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Ołeksij Szlakotin",
+    "nt": "Hongkong",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Gugulski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -64804,15 +65494,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Janukiewicz",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Peter Hricko",
     "nt": "Słowacja",
     "r": 70,
@@ -64821,15 +65502,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartosz Fabiniak",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -64855,15 +65527,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dušan Perniš",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Szałek",
     "nt": "Polska",
     "r": 70,
@@ -64872,15 +65535,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Krystian Rudnicki",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -64934,6 +65588,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Radosław Janukiewicz",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Robert Kolendowicz",
     "nt": "Polska",
     "r": 69,
@@ -64960,6 +65623,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Bartosz Fabiniak",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Donald Djoussé",
     "nt": "Kamerun",
     "r": 68,
@@ -64968,6 +65640,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Dušan Perniš",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krystian Rudnicki",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -65037,15 +65727,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Patryk Stępiński",
     "nt": "Polska",
     "r": 70,
@@ -65101,15 +65782,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Patryk Wolański",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Duda",
     "nt": "Polska",
     "r": 69,
@@ -65121,15 +65793,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Miloš Dragojević",
-    "nt": "Czarnogóra",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Đorđe Đikanović",
     "nt": "Czarnogóra",
     "r": 69,
@@ -65138,6 +65801,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -65256,6 +65928,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Patryk Wolański",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Sebastian Radzio",
     "nt": "Polska",
     "r": 67,
@@ -65266,6 +65947,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Miloš Dragojević",
+    "nt": "Czarnogóra",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -65418,24 +66108,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Richard Zajac",
-    "nt": "Słowacja",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Bąk",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michal Piter-Bučko",
     "nt": "Słowacja",
     "r": 68,
@@ -65490,15 +66162,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartłomiej Danowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -65562,6 +66225,39 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Wojciech Reiman",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Damian Szczęsny",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Richard Zajac",
+    "nt": "Słowacja",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -65690,15 +66386,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Stawarczyk",
     "nt": "Polska",
     "r": 69,
@@ -65756,15 +66443,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kamiński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mindaugas Panka",
     "nt": "Litwa",
     "r": 68,
@@ -65786,6 +66464,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -65826,15 +66513,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Włodyka",
     "nt": "Polska",
     "r": 67,
@@ -65845,6 +66523,30 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Kwiatkowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Arkadiusz Lewiński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -65912,15 +66614,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Stachowiak",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Wilusz",
     "nt": "Polska",
     "r": 71,
@@ -65965,15 +66658,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Budziłek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Seweryn Michalski",
     "nt": "Polska",
     "r": 70,
@@ -66007,15 +66691,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Damian Podleśny",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mikołaj Grzelak",
     "nt": "Polska",
     "r": 70,
@@ -66024,15 +66699,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Krystian Paprocki",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -66112,6 +66778,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Adam Stachowiak",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Miroslav Božok",
     "nt": "Słowacja",
     "r": 68,
@@ -66122,6 +66797,41 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Kamil Wacławczyk",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Bartłomiej Bartosiak",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Budziłek",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -66154,6 +66864,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Dariusz Pietrasiak",
     "nt": "Polska",
     "r": 77,
@@ -66162,15 +66885,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marián Kelemen",
-    "nt": "Słowacja",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -66207,10 +66921,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Gikiewicz",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
+    "n": "Marián Kelemen",
+    "nt": "Słowacja",
+    "r": 75,
+    "pr": 79,
     "p": [
      "GK"
     ]
@@ -66249,10 +66963,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Żukowski",
+    "n": "Rafał Gikiewicz",
     "nt": "Polska",
-    "r": 75,
-    "pr": 79,
+    "r": 74,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -66271,16 +66985,12 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Mila",
+    "n": "Krzysztof Żukowski",
     "nt": "Polska",
     "r": 73,
     "pr": 77,
     "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
+     "GK"
     ]
    },
    {
@@ -66459,15 +67169,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Stawarczyk",
     "nt": "Polska",
     "r": 78,
@@ -66490,6 +67191,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Željko Đokić",
     "nt": "Bośnia",
     "r": 76,
@@ -66498,24 +67208,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Damian Matras",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -66584,6 +67276,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Matko Perdijić",
+    "nt": "Chorwacja",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Damian Matras",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -66718,15 +67428,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dušan Kuciak",
-    "nt": "Słowacja",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Artur Jędrzejczyk",
     "nt": "Polska",
     "r": 79,
@@ -66757,6 +67458,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Dušan Kuciak",
+    "nt": "Słowacja",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -66804,33 +67514,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Szumski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marijan Antolović",
-    "nt": "Chorwacja",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Srđa Knežević",
     "nt": "Serbia",
     "r": 76,
@@ -66839,6 +67522,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Szumski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marijan Antolović",
+    "nt": "Chorwacja",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -66986,15 +67696,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Wojtkowiak",
     "nt": "Polska",
     "r": 78,
@@ -67003,15 +67704,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -67092,6 +67784,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Artjoms Rudņevs",
     "nt": "Łotwa",
     "r": 76,
@@ -67116,7 +67826,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Gerard Bieszczad",
     "nt": "Polska",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -67125,7 +67835,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Przemysław Frąckowiak",
     "nt": "Polska",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -67134,7 +67844,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Aleksander Wandzel",
     "nt": "Polska",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -67261,15 +67971,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Pavol Staňo",
     "nt": "Słowacja",
     "r": 76,
@@ -67278,15 +67979,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Zbigniew Małkowski",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -67312,6 +68004,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tadas Kijanskas",
     "nt": "Litwa",
     "r": 74,
@@ -67320,15 +68021,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Wojciech Małecki",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -67354,15 +68046,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Miśkiewicz",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Artur Cebula",
     "nt": "Polska",
     "r": 74,
@@ -67371,6 +68054,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Zbigniew Małkowski",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Małecki",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Miśkiewicz",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -67562,15 +68272,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adam Kokoszka",
     "nt": "Polska",
     "r": 73,
@@ -67604,15 +68305,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Aleksandar Todorovski",
     "nt": "Macedonia Północna",
     "r": 73,
@@ -67624,7 +68316,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adrian Lis",
+    "n": "Sebastian Przyrowski",
     "nt": "Polska",
     "r": 72,
     "pr": 76,
@@ -67641,6 +68333,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -67693,6 +68394,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Adrian Lis",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -67821,15 +68531,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sergei Pareiko",
-    "nt": "Estonia",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Osmán Chávez",
     "nt": "Honduras",
     "r": 75,
@@ -67907,10 +68608,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Sergei Pareiko",
+    "nt": "Estonia",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Milan Jovanić",
     "nt": "Serbia",
-    "r": 75,
-    "pr": 79,
+    "r": 73,
+    "pr": 77,
     "p": [
      "GK"
     ]
@@ -67918,8 +68628,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Filip Kurto",
     "nt": "Polska",
-    "r": 75,
-    "pr": 79,
+    "r": 73,
+    "pr": 77,
     "p": [
      "GK"
     ]
@@ -68172,33 +68882,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Boris Peškovič",
-    "nt": "Słowacja",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Skorupski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Sławik",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adam Wolniewicz",
     "nt": "Polska",
     "r": 73,
@@ -68266,6 +68949,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Boris Peškovič",
+    "nt": "Słowacja",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Skorupski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Sławik",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -68470,15 +69180,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Aleksander Ptak",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Wilczek",
     "nt": "Polska",
     "r": 69,
@@ -68514,15 +69215,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Darvydas Šernas",
     "nt": "Litwa",
     "r": 69,
@@ -68531,15 +69223,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Bojan Isailović",
-    "nt": "Serbia",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -68586,6 +69269,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Aleksander Ptak",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -68636,6 +69328,28 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Konrad Forenc",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "David Abwo",
+    "nt": "Nigeria",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -68696,15 +69410,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Kupisz",
     "nt": "Polska",
     "r": 70,
@@ -68753,15 +69458,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Rasiak",
     "nt": "Polska",
     "r": 69,
@@ -68781,6 +69477,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -68819,15 +69524,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Baran",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "El Mehdi Sidqy",
     "nt": "Maroko",
     "r": 68,
@@ -68847,15 +69543,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Tomasz Ptak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -68881,15 +69568,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Piotr Lipka",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Soczyński",
     "nt": "Polska",
     "r": 68,
@@ -68901,6 +69579,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jakub Słowik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Bartłomiej Grzelak",
     "nt": "Polska",
     "r": 67,
@@ -68909,6 +69596,43 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Jan Pawłowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Marko Ćetković",
+    "nt": "Czarnogóra",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Ermin Seratlić",
+    "nt": "Czarnogóra",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -68949,15 +69673,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -69016,24 +69731,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Kaniecki",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Patryk Wolański",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Duda",
     "nt": "Polska",
     "r": 75,
@@ -69042,6 +69739,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Kaniecki",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Patryk Wolański",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -69274,24 +69998,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Richard Zajac",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Bąk",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Górkiewicz",
     "nt": "Polska",
     "r": 70,
@@ -69369,33 +70075,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartłomiej Danowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Bartosz Kostyra",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maciej Wierzbicki",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Daniel Gołuch",
     "nt": "Polska",
     "r": 70,
@@ -69466,6 +70145,57 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Richard Zajac",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Bąk",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mariusz Sacha",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Adam Cieśliński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Bartłomiej Danowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -69508,15 +70238,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Lewon Hajrapetjan",
     "nt": "Armenia",
     "r": 73,
@@ -69536,15 +70257,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Małkowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -69570,10 +70282,28 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Małkowski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Wojciech Pawłowski",
     "nt": "Polska",
-    "r": 73,
-    "pr": 77,
+    "r": 71,
+    "pr": 75,
     "p": [
      "GK"
     ]
@@ -69802,15 +70532,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mate Lacić",
     "nt": "Chorwacja",
     "r": 72,
@@ -69877,15 +70598,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Budziłek",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Witasik",
     "nt": "Polska",
     "r": 71,
@@ -69894,15 +70606,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Krakowiak",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -69916,6 +70619,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Sapela",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -69991,6 +70703,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Łukasz Budziłek",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Krakowiak",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Grzegorz Fonfara",
     "nt": "Polska",
     "r": 68,
@@ -70039,21 +70769,12 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Marek Saganowski",
     "nt": "Polska",
-    "r": 73,
-    "pr": 77,
+    "r": 77,
+    "pr": 79,
     "p": [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Bogusław Wyparło",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -70115,6 +70836,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bogusław Wyparło",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -70273,15 +71003,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Pavle Velimirović",
-    "nt": "Czarnogóra",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Artur Gieraga",
     "nt": "Polska",
     "r": 67,
@@ -70316,6 +71037,17 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Szymon Salski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -70358,15 +71090,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Wojciech Kaczmarek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -70422,15 +71145,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Szymon Gąsiński",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -70490,6 +71204,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Wojciech Kaczmarek",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -70582,6 +71305,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Szymon Gąsiński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tamir Kahlon",
     "nt": "Izrael",
     "r": 67,
@@ -70615,12 +71347,14 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Mariusz Pawełek",
+    "n": "Paweł Brożek",
     "nt": "Polska",
-    "r": 77,
-    "pr": 79,
+    "r": 79,
+    "pr": 81,
     "p": [
-     "GK"
+     "ST",
+     "LW",
+     "RW"
     ]
    },
    {
@@ -70643,6 +71377,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -70723,15 +71466,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Milan Jovanić",
-    "nt": "Serbia",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Serge Branco",
     "nt": "Kamerun",
     "r": 75,
@@ -70740,24 +71474,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Filip Kurto",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Jarosiński",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -70774,14 +71490,30 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Brożek",
+    "n": "Milan Jovanić",
+    "nt": "Serbia",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Filip Kurto",
     "nt": "Polska",
     "r": 73,
     "pr": 77,
     "p": [
-     "ST",
-     "LW",
-     "RW"
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Jarosiński",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -70896,6 +71628,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Piotr Celeban",
     "nt": "Polska",
     "r": 77,
@@ -70915,15 +71660,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marián Kelemen",
-    "nt": "Słowacja",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -70960,10 +71696,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Kaczmarek",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
+    "n": "Marián Kelemen",
+    "nt": "Słowacja",
+    "r": 74,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -70991,16 +71727,12 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Mila",
+    "n": "Wojciech Kaczmarek",
     "nt": "Polska",
     "r": 73,
     "pr": 77,
     "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
+     "GK"
     ]
    },
    {
@@ -71336,15 +72068,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Panče Ḱumbev",
     "nt": "Macedonia Północna",
     "r": 71,
@@ -71353,33 +72076,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Szumski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marijan Antolović",
-    "nt": "Chorwacja",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kostiantyn Machnowśkyj",
-    "nt": "Ukraina",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -71455,6 +72151,46 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Szumski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Alejandro Cabral",
+    "nt": "Argentyna",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Marijan Antolović",
+    "nt": "Chorwacja",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -71486,15 +72222,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jarosław Lato",
     "nt": "Polska",
     "r": 75,
@@ -71517,15 +72244,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Słowik",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Andrius Skerla",
     "nt": "Litwa",
     "r": 74,
@@ -71537,10 +72255,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Gikiewicz",
+    "n": "Grzegorz Sandomierski",
     "nt": "Polska",
-    "r": 74,
-    "pr": 78,
+    "r": 73,
+    "pr": 77,
     "p": [
      "GK"
     ]
@@ -71579,15 +72297,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Kosiorowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Gogol",
     "nt": "Polska",
     "r": 73,
@@ -71596,15 +72305,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Piotr Lipka",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -71619,6 +72319,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jakub Słowik",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Kamil Grosicki",
     "nt": "Polska",
     "r": 71,
@@ -71629,6 +72347,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Sebastian Kosiorowski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Piotr Lipka",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -71750,15 +72486,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Wojtkowiak",
     "nt": "Polska",
     "r": 78,
@@ -71770,15 +72497,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kamiński",
     "nt": "Polska",
     "r": 78,
@@ -71787,6 +72505,19 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
@@ -71856,6 +72587,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Bartosz Bereszyński",
     "nt": "Polska",
     "r": 76,
@@ -71869,7 +72618,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Grzegorz Kasprzik",
     "nt": "Polska",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -71878,7 +72627,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Gerard Bieszczad",
     "nt": "Polska",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -71910,19 +72659,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Kamil Drygas",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
     "nt": "Polska",
     "r": 70,
     "pr": 74,
@@ -72156,15 +72892,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Stachowiak",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Daniel Sikorski",
     "nt": "Austria",
     "r": 70,
@@ -72200,24 +72927,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Nowak",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Skorupski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Mańka",
     "nt": "Polska",
     "r": 69,
@@ -72239,6 +72948,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Adam Stachowiak",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Nowak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Skorupski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -72295,6 +73031,17 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Euzebiusz Smolarek",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Tomasz Brzyski",
     "nt": "Polska",
     "r": 78,
@@ -72314,15 +73061,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -72359,16 +73097,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Skowron",
+    "n": "Sebastian Przyrowski",
     "nt": "Polska",
     "r": 75,
     "pr": 79,
@@ -72396,6 +73125,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Skowron",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -72489,17 +73236,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Daniel Gołębiewski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
-    "n": "Euzebiusz Smolarek",
     "nt": "Polska",
     "r": 70,
     "pr": 74,
@@ -72622,15 +73358,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Kapsa",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Abdou Razack Traoré",
     "nt": "Burkina Faso",
     "r": 72,
@@ -72668,15 +73395,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Małkowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Vytautas Andriuškevičius",
     "nt": "Litwa",
     "r": 71,
@@ -72685,15 +73403,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Wojciech Pawłowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -72734,6 +73443,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Paweł Kapsa",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Marcin Kaczmarek",
     "nt": "Polska",
     "r": 69,
@@ -72768,6 +73486,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Sebastian Małkowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Pawłowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -72918,15 +73654,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Ostrowski",
     "nt": "Polska",
     "r": 73,
@@ -72993,15 +73720,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Fabiniak",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Souheïl Ben Radhia",
     "nt": "Tunezja",
     "r": 72,
@@ -73010,15 +73728,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartosz Kaniecki",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -73033,15 +73742,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Pytkowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Zawadzki",
     "nt": "Polska",
     "r": 72,
@@ -73053,6 +73753,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Darvydas Šernas",
     "nt": "Litwa",
     "r": 71,
@@ -73061,6 +73770,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Bartosz Fabiniak",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Kaniecki",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Pytkowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -73158,15 +73894,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mate Lacić",
     "nt": "Chorwacja",
     "r": 73,
@@ -73211,33 +73938,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Budziłek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dominik Kisiel",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kamil Paprocki",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Wenger",
     "nt": "Polska",
     "r": 72,
@@ -73262,6 +73962,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Łukasz Sapela",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Marcin Żewłakow",
     "nt": "Polska",
     "r": 71,
@@ -73281,6 +73990,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Łukasz Budziłek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dominik Kisiel",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kamil Paprocki",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -73504,15 +74240,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Aleksander Ptak",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Dąbrowski",
     "nt": "Polska",
     "r": 70,
@@ -73561,24 +74288,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Bojan Isailović",
-    "nt": "Serbia",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sergio Reina",
     "nt": "Kolumbia",
     "r": 70,
@@ -73623,6 +74332,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Aleksander Ptak",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mouhamadou Traoré",
     "nt": "Senegal",
     "r": 69,
@@ -73657,6 +74375,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Konrad Forenc",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bojan Isailović",
+    "nt": "Serbia",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -73750,15 +74486,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Stawarczyk",
     "nt": "Polska",
     "r": 74,
@@ -73818,6 +74545,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Artur Sobiech",
     "nt": "Polska",
     "r": 72,
@@ -73826,15 +74562,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -73857,24 +74584,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Damian Matras",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Struski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -73923,6 +74632,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Matko Perdijić",
+    "nt": "Chorwacja",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Damian Matras",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Struski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -74088,15 +74824,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zbigniew Małkowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Nowak",
     "nt": "Polska",
     "r": 68,
@@ -74107,15 +74834,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -74226,15 +74944,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Socha",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Nowak",
     "nt": "Polska",
     "r": 67,
@@ -74245,6 +74954,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Zbigniew Małkowski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Radosław Cierzniak",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Socha",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -74399,15 +75135,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cabaj",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dariusz Pawlusiński",
     "nt": "Polska",
     "r": 68,
@@ -74539,6 +75266,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Marcin Cabaj",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -74594,15 +75330,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Norbert Witkowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Miroslav Božok",
     "nt": "Słowacja",
     "r": 68,
@@ -74637,15 +75364,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Michał Szromnik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -74737,10 +75455,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Hieronim Zoch",
+    "n": "Norbert Witkowski",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -74819,6 +75537,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Michał Szromnik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Hieronim Zoch",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -74989,33 +75725,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Juszczyk",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Szymon Gąsiński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michal Misiewicz",
-    "nt": "Kanada",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Bažík",
     "nt": "Słowacja",
     "r": 67,
@@ -75101,6 +75810,39 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Clemence Matawu",
+    "nt": "Zimbabwe",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Vladimir Milenković",
+    "nt": "Serbia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Marcin Juszczyk",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -75109,6 +75851,17 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2009/10",
   "color": "#1f6fd6",
   "players": [
+   {
+    "n": "Robert Lewandowski",
+    "nt": "Polska",
+    "r": 83,
+    "pr": 85,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
    {
     "n": "Bartosz Bosacki",
     "nt": "Polska",
@@ -75121,15 +75874,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Wojtkowiak",
     "nt": "Polska",
     "r": 79,
@@ -75138,15 +75882,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jasmin Burić",
-    "nt": "Bośnia",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -75216,8 +75951,30 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Kasprzik",
+    "n": "Sławomir Peszko",
     "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jasmin Burić",
+    "nt": "Bośnia",
     "r": 77,
     "pr": 79,
     "p": [
@@ -75236,6 +75993,17 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Hernán Rengifo",
+    "nt": "Peru",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Mateusz Szałek",
     "nt": "Polska",
     "r": 77,
@@ -75247,27 +76015,12 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Lewandowski",
+    "n": "Grzegorz Kasprzik",
     "nt": "Polska",
     "r": 75,
     "pr": 79,
     "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
+     "GK"
     ]
    },
    {
@@ -75347,17 +76100,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Hernán Rengifo",
-    "nt": "Peru",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
     "n": "Anderson Cueto",
     "nt": "Peru",
     "r": 68,
@@ -75402,12 +76144,14 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Pawełek",
+    "n": "Paweł Brożek",
     "nt": "Polska",
     "r": 79,
     "pr": 81,
     "p": [
-     "GK"
+     "ST",
+     "LW",
+     "RW"
     ]
    },
    {
@@ -75441,6 +76185,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -75490,7 +76243,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Ilie Cebanu",
     "nt": "Mołdawia",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
@@ -75499,7 +76252,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Filip Kurto",
     "nt": "Polska",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
@@ -75508,21 +76261,10 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Łukasz Jarosiński",
     "nt": "Polska",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
-    ]
-   },
-   {
-    "n": "Paweł Brożek",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -75720,15 +76462,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Stawarczyk",
     "nt": "Polska",
     "r": 76,
@@ -75751,8 +76484,8 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
     "r": 74,
     "pr": 78,
     "p": [
@@ -75768,24 +76501,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Damian Matras",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Struski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -75847,6 +76562,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Matko Perdijić",
+    "nt": "Chorwacja",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Damian Matras",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Struski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -76047,24 +76789,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ján Mucha",
-    "nt": "Słowacja",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Rybus",
     "nt": "Polska",
     "r": 77,
@@ -76087,15 +76811,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Panče Ḱumbev",
     "nt": "Macedonia Północna",
     "r": 76,
@@ -76107,9 +76822,36 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Ján Mucha",
+    "nt": "Słowacja",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Gostomski",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Kostiantyn Machnowśkyj",
     "nt": "Ukraina",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -76278,15 +77020,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mate Lacić",
     "nt": "Chorwacja",
     "r": 76,
@@ -76320,33 +77053,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kozik",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Budziłek",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dominik Kisiel",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Jacak",
     "nt": "Polska",
     "r": 75,
@@ -76358,6 +77064,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Łukasz Sapela",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Dawid Nowak",
     "nt": "Polska",
     "r": 73,
@@ -76366,6 +77081,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Krzysztof Kozik",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Budziłek",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dominik Kisiel",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -76548,15 +77290,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zbigniew Małkowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Cezary Wilk",
     "nt": "Polska",
     "r": 70,
@@ -76567,15 +77300,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -76649,15 +77373,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Małecki",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Kiercz",
     "nt": "Polska",
     "r": 69,
@@ -76691,15 +77406,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Piotr Misztal",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Szajna",
     "nt": "Polska",
     "r": 69,
@@ -76721,6 +77427,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Zbigniew Małkowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -76750,6 +77465,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Radosław Cierzniak",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Dariusz Kozubek",
     "nt": "Polska",
     "r": 67,
@@ -76774,7 +77498,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Wojciech Małecki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Ernest Konon",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Łukasz Jamróz",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -76836,15 +77580,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Basta",
     "nt": "Polska",
     "r": 73,
@@ -76900,33 +77635,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Juraj Baláž",
-    "nt": "Słowacja",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michał Augustyn",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Andrzej Olszewski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Stanicki",
     "nt": "Polska",
     "r": 73,
@@ -76946,6 +77654,42 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Juraj Baláž",
+    "nt": "Słowacja",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Augustyn",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Andrzej Olszewski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -77113,24 +77857,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Kapsa",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Bąk",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Arkadiusz Mysona",
     "nt": "Polska",
     "r": 72,
@@ -77164,15 +77890,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Małkowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Peter Čvirik",
     "nt": "Słowacja",
     "r": 72,
@@ -77181,15 +77898,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartosz Dębowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -77212,6 +77920,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Paweł Kapsa",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -77251,6 +77968,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Bąk",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Małkowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Dębowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -77344,6 +78088,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Piotr Celeban",
     "nt": "Polska",
     "r": 75,
@@ -77388,28 +78145,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Kaczmarek",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sebastian Mila",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Krzysztof Wołczek",
     "nt": "Polska",
     "r": 72,
@@ -77429,15 +78164,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Ivo Vazgeč",
-    "nt": "Szwecja",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -77463,10 +78189,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Trojan",
+    "n": "Wojciech Kaczmarek",
     "nt": "Polska",
-    "r": 72,
-    "pr": 76,
+    "r": 71,
+    "pr": 75,
     "p": [
      "GK"
     ]
@@ -77506,6 +78232,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Ivo Vazgeč",
+    "nt": "Szwecja",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Trojan",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -77684,15 +78428,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Aleksander Ptak",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Oleksy",
     "nt": "Polska",
     "r": 71,
@@ -77765,15 +78500,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Konrad Forenc",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sreten Sretenović",
     "nt": "Serbia",
     "r": 70,
@@ -77815,24 +78541,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jewhen Kopył",
-    "nt": "Ukraina",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Damian Primel",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -77895,6 +78603,52 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Wojciech Kędziora",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Aleksander Ptak",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Hanzel",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Adrian Błąd",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -77923,24 +78677,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Grzegorz Szamotulski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -77999,10 +78735,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Gikiewicz",
+    "n": "Grzegorz Sandomierski",
     "nt": "Polska",
-    "r": 75,
-    "pr": 79,
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Grzegorz Szamotulski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -78019,15 +78764,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Kudrycki",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Gogol",
     "nt": "Polska",
     "r": 74,
@@ -78039,10 +78775,28 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Kudrycki",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Maciej Majewski",
     "nt": "Polska",
-    "r": 74,
-    "pr": 78,
+    "r": 72,
+    "pr": 76,
     "p": [
      "GK"
     ]
@@ -78210,15 +78964,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cabaj",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Wasiluk",
     "nt": "Polska",
     "r": 71,
@@ -78238,15 +78983,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Sławomir Olszewski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -78294,15 +79030,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Merda",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mateusz Urbański",
     "nt": "Polska",
     "r": 70,
@@ -78311,24 +79038,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marek Pączek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Przemysław Wróbel",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -78356,6 +79065,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Marcin Cabaj",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Dariusz Pawlusiński",
     "nt": "Polska",
     "r": 69,
@@ -78366,6 +79084,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Sławomir Olszewski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -78434,6 +79161,33 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Łukasz Merda",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marek Pączek",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Przemysław Wróbel",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mateusz Klich",
     "nt": "Polska",
     "r": 67,
@@ -78454,15 +79208,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Radosław Majdan",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Błażej Telichowski",
     "nt": "Polska",
     "r": 72,
@@ -78471,15 +79216,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -78504,6 +79240,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Radosław Majdan",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -78551,15 +79296,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Trałka",
     "nt": "Polska",
     "r": 70,
@@ -78599,6 +79335,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Sebastian Przyrowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mariusz Zasada",
     "nt": "Polska",
     "r": 70,
@@ -78607,15 +79352,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Skowron",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -78676,6 +79412,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Adrian Mierzejewski",
     "nt": "Polska",
     "r": 69,
@@ -78720,6 +79465,17 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Milan Nikolić",
+    "nt": "Serbia",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
    }
   ]
  },
@@ -78737,15 +79493,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Andrzej Bledzewski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -78806,15 +79553,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Norbert Witkowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Kowalski",
     "nt": "Polska",
     "r": 71,
@@ -78823,6 +79561,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Andrzej Bledzewski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -78867,15 +79614,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Hieronim Zoch",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -78938,6 +79676,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Norbert Witkowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Marcin Wachowicz",
     "nt": "Polska",
     "r": 69,
@@ -78983,6 +79730,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Hieronim Zoch",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -79067,15 +79823,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Dymkowski",
     "nt": "Polska",
     "r": 69,
@@ -79108,15 +79855,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Adam Stachowiak",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -79199,15 +79937,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Łobaczewski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Daniel Tanżyna",
     "nt": "Polska",
     "r": 68,
@@ -79227,6 +79956,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Michał Buchalik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Adam Stachowiak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -79268,6 +80015,19 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Szymon Jary",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jacek Bańczyk",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -79354,15 +80114,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -79556,10 +80307,23 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Kwapisz",
+    "n": "Daniel Iwan",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
     "p": [
      "GK"
     ]
@@ -79605,15 +80369,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Brożek",
     "nt": "Polska",
     "r": 79,
@@ -79633,6 +80388,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -79658,15 +80422,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Juszczyk",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Peter Šinglár",
     "nt": "Słowacja",
     "r": 77,
@@ -79675,15 +80430,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Ilie Cebanu",
-    "nt": "Mołdawia",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -79708,6 +80454,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Marcin Juszczyk",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Ilie Cebanu",
+    "nt": "Mołdawia",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -79923,15 +80687,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ján Mucha",
-    "nt": "Słowacja",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Rybus",
     "nt": "Polska",
     "r": 78,
@@ -79943,15 +80698,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Panče Ḱumbev",
     "nt": "Macedonia Północna",
     "r": 77,
@@ -79960,15 +80706,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Kostiantyn Machnowśkyj",
-    "nt": "Ukraina",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -79994,6 +80731,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Ján Mucha",
+    "nt": "Słowacja",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Takesure Chinyama",
     "nt": "Zimbabwe",
     "r": 76,
@@ -80002,6 +80748,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kostiantyn Machnowśkyj",
+    "nt": "Ukraina",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -80140,6 +80904,17 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1f6fd6",
   "players": [
    {
+    "n": "Robert Lewandowski",
+    "nt": "Polska",
+    "r": 83,
+    "pr": 85,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Bartosz Bosacki",
     "nt": "Polska",
     "r": 79,
@@ -80151,15 +80926,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Wojtkowiak",
     "nt": "Polska",
     "r": 78,
@@ -80168,6 +80934,19 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
@@ -80226,6 +81005,26 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Hernán Rengifo",
+    "nt": "Peru",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Zlatko Tanevski",
     "nt": "Macedonia Północna",
     "r": 76,
@@ -80234,33 +81033,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Ivan Turina",
-    "nt": "Chorwacja",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Paweł Linka",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dawid Kręt",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -80277,6 +81049,33 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Ivan Turina",
+    "nt": "Chorwacja",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Linka",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dawid Kręt",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Rafał Murawski",
     "nt": "Polska",
     "r": 73,
@@ -80290,28 +81089,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Lewandowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
-    "n": "Hernán Rengifo",
-    "nt": "Peru",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
     "n": "Piotr Reiss",
     "nt": "Polska",
     "r": 70,
@@ -80320,19 +81097,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -80419,15 +81183,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Radosław Majdan",
-    "nt": "Polska",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Błażej Telichowski",
     "nt": "Polska",
     "r": 78,
@@ -80439,15 +81194,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jarosław Lato",
     "nt": "Polska",
     "r": 78,
@@ -80456,6 +81202,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Radosław Majdan",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -80492,10 +81247,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
+    "n": "Sebastian Przyrowski",
     "nt": "Polska",
-    "r": 77,
-    "pr": 79,
+    "r": 76,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -80542,6 +81297,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -80742,15 +81506,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Drzymont",
     "nt": "Polska",
     "r": 76,
@@ -80795,15 +81550,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kozik",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Michalak",
     "nt": "Polska",
     "r": 75,
@@ -80826,10 +81572,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Misztal",
+    "n": "Łukasz Sapela",
     "nt": "Polska",
-    "r": 75,
-    "pr": 79,
+    "r": 74,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -80843,6 +81589,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Krzysztof Kozik",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Rafał Misztal",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -80979,6 +81743,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Piotr Celeban",
     "nt": "Polska",
     "r": 75,
@@ -81023,24 +81800,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Kaczmarek",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jacek Banaszyński",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Zbigniew Wójcik",
     "nt": "Polska",
     "r": 73,
@@ -81049,19 +81808,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Mila",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -81109,15 +81855,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Andrzej Olszewski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jacek Bąk",
     "nt": "Polska",
     "r": 72,
@@ -81126,6 +81863,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Wojciech Kaczmarek",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jacek Banaszyński",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -81139,6 +81894,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Andrzej Olszewski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -81315,15 +82079,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Peškovič",
-    "nt": "Słowacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Przybylski",
     "nt": "Polska",
     "r": 68,
@@ -81396,6 +82151,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Michal Peškovič",
+    "nt": "Słowacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Peter Hricko",
     "nt": "Słowacja",
     "r": 67,
@@ -81439,15 +82203,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Seweryn Kiełpin",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -81532,6 +82287,17 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Mateusz Kamiński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
    }
   ]
  },
@@ -81540,15 +82306,6 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2008/09",
   "color": "#f2b705",
   "players": [
-   {
-    "n": "Piotr Lech",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
    {
     "n": "Pavol Staňo",
     "nt": "Słowacja",
@@ -81569,6 +82326,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Piotr Lech",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -81616,15 +82382,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Gikiewicz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Dzienis",
     "nt": "Polska",
     "r": 72,
@@ -81647,10 +82404,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Rafał Gikiewicz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Maciej Kudrycki",
     "nt": "Polska",
-    "r": 72,
-    "pr": 76,
+    "r": 70,
+    "pr": 74,
     "p": [
      "GK"
     ]
@@ -81868,24 +82634,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Robert Mioduszewski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Nykiel",
     "nt": "Polska",
     "r": 73,
@@ -81910,6 +82658,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Robert Mioduszewski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Ireneusz Adamski",
     "nt": "Polska",
     "r": 72,
@@ -81918,15 +82684,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -81952,15 +82709,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Struski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Szczypior",
     "nt": "Polska",
     "r": 72,
@@ -81982,6 +82730,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Matko Perdijić",
+    "nt": "Chorwacja",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Struski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -82114,15 +82880,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adam Banaś",
     "nt": "Polska",
     "r": 76,
@@ -82164,15 +82921,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Kasprzik",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -82231,15 +82979,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Ponichtera",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Grolik",
     "nt": "Polska",
     "r": 75,
@@ -82248,6 +82987,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Grzegorz Kasprzik",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Ponichtera",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -82483,15 +83249,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Kapsa",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Artur Andruszczak",
     "nt": "Polska",
     "r": 68,
@@ -82502,15 +83259,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Mateusz Bąk",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -82582,15 +83330,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dominik Sobański",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Brede",
     "nt": "Polska",
     "r": 68,
@@ -82599,6 +83338,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Paweł Kapsa",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -82649,6 +83397,32 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Piotr Kasperkiewicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Kawa",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -82753,15 +83527,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Buchalik",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sławomir Szary",
     "nt": "Polska",
     "r": 70,
@@ -82817,15 +83582,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Stachowiak",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Gierczak",
     "nt": "Polska",
     "r": 69,
@@ -82872,10 +83628,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Bensz",
+    "n": "Michał Buchalik",
     "nt": "Polska",
-    "r": 69,
-    "pr": 73,
+    "r": 68,
+    "pr": 72,
     "p": [
      "GK"
     ]
@@ -82907,6 +83663,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Adam Stachowiak",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Bartosz Hinc",
     "nt": "Polska",
     "r": 68,
@@ -82929,6 +83694,19 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Daniel Rygel",
+    "nt": "Czechy",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -82946,15 +83724,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Andrzej Bledzewski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -82988,15 +83757,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Norbert Witkowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -83046,6 +83806,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Andrzej Bledzewski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Michał Płotka",
     "nt": "Polska",
     "r": 70,
@@ -83076,24 +83845,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Tomislav Bašić",
-    "nt": "Bośnia",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Radosław Kuć",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -83134,6 +83885,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Norbert Witkowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Marcin Wachowicz",
     "nt": "Polska",
     "r": 69,
@@ -83166,6 +83926,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Tomislav Bašić",
+    "nt": "Bośnia",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Radosław Kuć",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -83250,15 +84028,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cabaj",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Wasiluk",
     "nt": "Polska",
     "r": 70,
@@ -83267,15 +84036,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sławomir Olszewski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -83367,15 +84127,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Pączek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sławomir Szeliga",
     "nt": "Polska",
     "r": 68,
@@ -83386,6 +84137,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Marcin Cabaj",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -83425,6 +84185,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Sławomir Olszewski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -83485,6 +84254,19 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Árpád Majoros",
+    "nt": "Węgry",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -83538,33 +84320,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Nowak",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Skorupski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Michal Václavík",
-    "nt": "Czechy",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Māris Smirnovs",
     "nt": "Łotwa",
     "r": 72,
@@ -83598,15 +84353,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Laskowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Gancarczyk",
     "nt": "Polska",
     "r": 72,
@@ -83628,6 +84374,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Sebastian Nowak",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Skorupski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michal Václavík",
+    "nt": "Czechy",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Tomasz Laskowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -83777,15 +84559,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Bogusław Wyparło",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Zdzisław Leszczyński",
     "nt": "Polska",
     "r": 71,
@@ -83818,6 +84591,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bogusław Wyparło",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -83992,24 +84774,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Pająk",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Saša Ivanović",
-    "nt": "Czarnogóra",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dariusz Stachowiak",
     "nt": "Polska",
     "r": 67,
@@ -84044,6 +84808,32 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Labinot Haliti",
+    "nt": "Albania",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Gábor Vayer",
+    "nt": "Węgry",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -84084,15 +84874,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -84142,17 +84923,8 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Juszczyk",
+    "n": "Mariusz Pawełek",
     "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Ilie Cebanu",
-    "nt": "Mołdawia",
     "r": 77,
     "pr": 79,
     "p": [
@@ -84190,6 +84962,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Marcin Juszczyk",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Ilie Cebanu",
+    "nt": "Mołdawia",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -84407,15 +85197,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ján Mucha",
-    "nt": "Słowacja",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Błażej Augustyn",
     "nt": "Polska",
     "r": 78,
@@ -84424,15 +85205,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -84458,15 +85230,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Bronowicki",
     "nt": "Polska",
     "r": 77,
@@ -84486,6 +85249,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Ján Mucha",
+    "nt": "Słowacja",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Gostomski",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -84631,15 +85421,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jarosław Lato",
     "nt": "Polska",
     "r": 78,
@@ -84662,10 +85443,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Gliwa",
+    "n": "Sebastian Przyrowski",
     "nt": "Polska",
-    "r": 77,
-    "pr": 79,
+    "r": 76,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -84726,15 +85507,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Brzostowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Bartkowiak",
     "nt": "Polska",
     "r": 76,
@@ -84754,6 +85526,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Michał Gliwa",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dariusz Brzostowski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -84901,6 +85691,17 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1f6fd6",
   "players": [
    {
+    "n": "Hernán Rengifo",
+    "nt": "Peru",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Bartosz Bosacki",
     "nt": "Polska",
     "r": 76,
@@ -84909,15 +85710,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -85000,6 +85792,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Zlatko Tanevski",
     "nt": "Macedonia Północna",
     "r": 73,
@@ -85008,15 +85809,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Emilian Dolha",
-    "nt": "Rumunia",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -85053,46 +85845,8 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Binkowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Krzysztof Cichy",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dawid Kręt",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Reiss",
     "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
-    "n": "Hernán Rengifo",
-    "nt": "Peru",
     "r": 72,
     "pr": 76,
     "p": [
@@ -85112,6 +85866,42 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Emilian Dolha",
+    "nt": "Rumunia",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Robert Binkowski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krzysztof Cichy",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dawid Kręt",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -85216,15 +86006,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Aleksander Ptak",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Iwański",
     "nt": "Polska",
     "r": 74,
@@ -85260,15 +86041,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michal Václavík",
-    "nt": "Czechy",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Przemysław Kocot",
     "nt": "Polska",
     "r": 74,
@@ -85280,15 +86052,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Jesionkowski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Steinke",
     "nt": "Polska",
     "r": 74,
@@ -85297,6 +86060,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Aleksander Ptak",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michal Václavík",
+    "nt": "Czechy",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Jesionkowski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -85503,15 +86293,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kuś",
     "nt": "Polska",
     "r": 73,
@@ -85556,15 +86337,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sławomir Rutka",
     "nt": "Polska",
     "r": 72,
@@ -85573,15 +86345,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Piotr Leciejewski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -85598,6 +86361,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Radosław Cierzniak",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Krzysztof Gajtkowski",
     "nt": "Polska",
     "r": 70,
@@ -85606,6 +86387,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Piotr Leciejewski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -85727,15 +86517,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cabaj",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Skrzyński",
     "nt": "Polska",
     "r": 73,
@@ -85744,15 +86525,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sławomir Olszewski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -85844,15 +86616,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Pączek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Moskała",
     "nt": "Polska",
     "r": 71,
@@ -85861,6 +86624,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Marcin Cabaj",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sławomir Olszewski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -85885,6 +86666,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Marek Pączek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -86122,24 +86912,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Boris Peškovič",
-    "nt": "Słowacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Sławik",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Māris Smirnovs",
     "nt": "Łotwa",
     "r": 70,
@@ -86159,15 +86931,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Tomasz Laskowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -86206,6 +86969,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Boris Peškovič",
+    "nt": "Słowacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Piotr Madejski",
     "nt": "Polska",
     "r": 68,
@@ -86216,6 +86988,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Sławik",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Tomasz Laskowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -86278,15 +87068,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Piotr Lech",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Stolarczyk",
     "nt": "Polska",
     "r": 75,
@@ -86342,6 +87123,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Piotr Lech",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tomasz Jarzębowski",
     "nt": "Polska",
     "r": 73,
@@ -86361,15 +87151,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -86417,15 +87198,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kozik",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jhoel Herrera",
     "nt": "Peru",
     "r": 72,
@@ -86434,6 +87206,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Łukasz Sapela",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -86482,6 +87263,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Krzysztof Kozik",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -86588,15 +87378,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Mioduszewski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Sokołowski I",
     "nt": "Polska",
     "r": 70,
@@ -86669,6 +87450,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Robert Mioduszewski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Grzegorz Bonk",
     "nt": "Polska",
     "r": 69,
@@ -86693,15 +87483,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Nowak",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Pavol Baláž",
     "nt": "Słowacja",
     "r": 69,
@@ -86712,15 +87493,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Matko Perdijić",
-    "nt": "Chorwacja",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -86792,6 +87564,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Sebastian Nowak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Matko Perdijić",
+    "nt": "Chorwacja",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Przemysław Łudziński",
     "nt": "Polska",
     "r": 67,
@@ -86823,15 +87613,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Bogusław Wyparło",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Zdzisław Leszczyński",
     "nt": "Polska",
     "r": 76,
@@ -86851,6 +87632,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Bogusław Wyparło",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -86920,24 +87710,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Pająk",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Witold Sabela",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Dopierała",
     "nt": "Polska",
     "r": 73,
@@ -86981,6 +87753,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Marcin Pająk",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Witold Sabela",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -87137,15 +87927,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dariusz Dudek",
     "nt": "Polska",
     "r": 69,
@@ -87264,15 +88045,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Stachowiak",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Hinc",
     "nt": "Polska",
     "r": 68,
@@ -87296,6 +88068,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Krzysztof Pilarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -87345,15 +88126,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Linka",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Świerzyński",
     "nt": "Polska",
     "r": 67,
@@ -87375,6 +88147,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Przemysław Skrzeczowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Adam Stachowiak",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -87468,15 +88260,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Wierzchowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jacek Trzeciak",
     "nt": "Polska",
     "r": 69,
@@ -87556,19 +88339,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Suchański",
+    "n": "Jakub Wierzchowski",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Grzegorz Żmija",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -87657,6 +88431,32 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Rafał Jabłoński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Karol Drej",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -87725,15 +88525,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Sandomierski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dariusz Jarecki",
     "nt": "Polska",
     "r": 68,
@@ -87780,15 +88571,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jacek Banaszyński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Sołdecki",
     "nt": "Polska",
     "r": 68,
@@ -87797,6 +88579,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Grzegorz Sandomierski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -87927,12 +88718,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Mańka",
+    "n": "Karol Janik",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Cieluch",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    }
   ]
@@ -88059,15 +88865,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Fabiniak",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Joseph Oshadogan",
     "nt": "Włochy",
     "r": 69,
@@ -88076,15 +88873,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartosz Kaniecki",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -88099,15 +88887,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Hładowczak",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radosław Kursa",
     "nt": "Polska",
     "r": 69,
@@ -88116,15 +88895,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jakub Stawiany",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -88191,6 +88961,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Bartosz Fabiniak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Grzegorz Piechna",
     "nt": "Polska",
     "r": 67,
@@ -88210,6 +88989,35 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Bartosz Kaniecki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Broź",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Jakub Hładowczak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -88386,15 +89194,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Szymon Gąsiński",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jarosław Białek",
     "nt": "Polska",
     "r": 67,
@@ -88405,15 +89204,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Adam Bensz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -88502,6 +89292,28 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Dariusz Gawęcki",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Szymon Gąsiński",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -88566,24 +89378,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Liberda",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Piszczek",
     "nt": "Polska",
     "r": 75,
@@ -88603,15 +89397,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michal Václavík",
-    "nt": "Czechy",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -88659,15 +89444,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Jesionkowski",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Gąsiorek II",
     "nt": "Polska",
     "r": 75,
@@ -88690,6 +89466,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Liberda",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Maciej Iwański",
     "nt": "Polska",
     "r": 73,
@@ -88700,6 +89494,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Michal Václavík",
+    "nt": "Czechy",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jakub Jesionkowski",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -88788,15 +89600,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Piotr Lech",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Grodzicki",
     "nt": "Polska",
     "r": 77,
@@ -88841,6 +89644,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Piotr Lech",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tomasz Jarzębowski",
     "nt": "Polska",
     "r": 75,
@@ -88860,15 +89672,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -88927,15 +89730,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Misztal",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Boguski",
     "nt": "Polska",
     "r": 73,
@@ -88959,6 +89753,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Sapela",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -88992,6 +89795,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Rafał Misztal",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -89122,24 +89934,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ján Mucha",
-    "nt": "Słowacja",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maciej Gostomski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Bronowicki",
     "nt": "Polska",
     "r": 74,
@@ -89161,15 +89955,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Łukasz Fabiański",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -89203,6 +89988,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Ján Mucha",
+    "nt": "Słowacja",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Gostomski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -89242,6 +90045,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Fabiański",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -89344,15 +90156,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cabaj",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Giza",
     "nt": "Polska",
     "r": 71,
@@ -89374,15 +90177,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sławomir Olszewski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -89498,15 +90292,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Pączek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jacek Magiera",
     "nt": "Polska",
     "r": 69,
@@ -89533,6 +90318,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Marcin Cabaj",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sławomir Olszewski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Piotr Bania",
     "nt": "Polska",
     "r": 69,
@@ -89554,6 +90357,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Marek Pączek",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -89585,15 +90397,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -89641,10 +90444,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Aleksander Ptak",
+    "n": "Sebastian Przyrowski",
     "nt": "Polska",
-    "r": 77,
-    "pr": 79,
+    "r": 76,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -89705,15 +90508,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Brzostowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Bartkowiak",
     "nt": "Polska",
     "r": 76,
@@ -89722,6 +90516,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Aleksander Ptak",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dariusz Brzostowski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -89880,15 +90692,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Wojtkowiak",
     "nt": "Polska",
     "r": 73,
@@ -89957,15 +90760,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Kucharski",
     "nt": "Polska",
     "r": 72,
@@ -90014,7 +90808,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Linka",
+    "n": "Krzysztof Kotorowski",
     "nt": "Polska",
     "r": 71,
     "pr": 75,
@@ -90044,6 +90838,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Radosław Cierzniak",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -90094,6 +90897,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Paweł Linka",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -90183,15 +90995,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Drzymont",
     "nt": "Polska",
     "r": 73,
@@ -90211,15 +91014,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Załuska",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -90324,15 +91118,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Piotr Misztal",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kaczmarek",
     "nt": "Polska",
     "r": 71,
@@ -90343,6 +91128,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Załuska",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -90383,6 +91186,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Piotr Misztal",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jacek Kiełb",
     "nt": "Polska",
     "r": 69,
@@ -90416,6 +91228,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Jakub Błaszczykowski",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Arkadiusz Głowacki",
     "nt": "Polska",
     "r": 78,
@@ -90446,15 +91271,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -90491,16 +91307,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Emilian Dolha",
-    "nt": "Rumunia",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcin Juszczyk",
+    "n": "Mariusz Pawełek",
     "nt": "Polska",
     "r": 75,
     "pr": 79,
@@ -90528,6 +91335,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Emilian Dolha",
+    "nt": "Rumunia",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcin Juszczyk",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -90602,19 +91427,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Jakub Błaszczykowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -90697,15 +91509,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Bogusław Wyparło",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Zdzisław Leszczyński",
     "nt": "Polska",
     "r": 76,
@@ -90736,6 +91539,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Bogusław Wyparło",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -90783,24 +91595,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Pająk",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Witold Sabela",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Dettlaff",
     "nt": "Polska",
     "r": 73,
@@ -90844,6 +91638,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Marcin Pająk",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Witold Sabela",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -90991,15 +91803,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dariusz Dudek",
     "nt": "Polska",
     "r": 73,
@@ -91044,7 +91847,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
+    "n": "Krzysztof Pilarz",
     "nt": "Polska",
     "r": 71,
     "pr": 75,
@@ -91119,15 +91922,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jacek Gorczyca",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jan Woś",
     "nt": "Polska",
     "r": 70,
@@ -91175,6 +91969,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jacek Gorczyca",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -91314,15 +92126,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Norbert Witkowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Jakosz",
     "nt": "Polska",
     "r": 71,
@@ -91378,24 +92181,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Kamil Biecke",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maciej Palczewski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Bartosz Karwan",
     "nt": "Polska",
     "r": 69,
@@ -91422,6 +92207,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Norbert Witkowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Radosław Wróblewski",
     "nt": "Polska",
     "r": 68,
@@ -91443,6 +92237,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Kamil Biecke",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Palczewski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -91730,15 +92542,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Fabiniak",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Nowak",
     "nt": "Polska",
     "r": 67,
@@ -91821,6 +92624,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bartosz Fabiniak",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -92054,24 +92866,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Piotr Leciejewski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Przemysław Tytoń",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Szymanek",
     "nt": "Polska",
     "r": 67,
@@ -92106,6 +92900,26 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Janusz Surdykowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Piotr Leciejewski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -92269,15 +93083,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Sławik",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Bartos",
     "nt": "Polska",
     "r": 67,
@@ -92339,15 +93144,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Laskowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Artur Skiba",
     "nt": "Polska",
     "r": 67,
@@ -92374,15 +93170,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Mańka",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Sala",
     "nt": "Polska",
     "r": 67,
@@ -92394,6 +93181,39 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Krzysztof Kruczek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Grzegorz Jasiczek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Sławik",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -92402,6 +93222,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2006/07",
   "color": "#2462c0",
   "players": [
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Dariusz Romuzga",
     "nt": "Polska",
@@ -92417,19 +93250,6 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Patryk Rachwał",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
     "nt": "Polska",
     "r": 70,
     "pr": 74,
@@ -92571,15 +93391,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Gubiec",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mitar Peković",
     "nt": "Serbia",
     "r": 67,
@@ -92650,15 +93461,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Skowron",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Grzeszczyk",
     "nt": "Polska",
     "r": 67,
@@ -92672,10 +93474,28 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Robert Gubiec",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Skowron",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Skrzypiec",
     "nt": "Polska",
-    "r": 67,
-    "pr": 71,
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -92712,15 +93532,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Majdan",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Kamil Grosicki",
     "nt": "Polska",
     "r": 70,
@@ -92731,6 +93542,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Radosław Majdan",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -92756,15 +93576,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Boris Peškovič",
-    "nt": "Słowacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Skórski",
     "nt": "Polska",
     "r": 67,
@@ -92775,15 +93586,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Paweł Waśków",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -92808,6 +93610,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Boris Peškovič",
+    "nt": "Słowacja",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Waśków",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -92884,15 +93704,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Ján Mucha",
-    "nt": "Słowacja",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Veselin Đoković",
     "nt": "Serbia",
     "r": 77,
@@ -92901,15 +93712,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Fabiański",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -92957,9 +93759,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Ján Mucha",
+    "nt": "Słowacja",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Fabiański",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Kamil Ryłka",
     "nt": "Polska",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
@@ -93132,15 +93952,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Majdan",
-    "nt": "Polska",
-    "r": 80,
-    "pr": 82,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Brożek",
     "nt": "Polska",
     "r": 79,
@@ -93171,6 +93982,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jakub Błaszczykowski",
+    "nt": "Polska",
+    "r": 79,
+    "pr": 81,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Radosław Majdan",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -93207,24 +94040,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Piekutowski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcin Juszczyk",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Brożek",
     "nt": "Polska",
     "r": 76,
@@ -93233,6 +94048,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Adam Piekutowski",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcin Juszczyk",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -93329,19 +94162,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Jakub Błaszczykowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -93457,15 +94277,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Liberda",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Robert Kłos",
     "nt": "Polska",
     "r": 74,
@@ -93521,15 +94332,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Danijel Mađarić",
-    "nt": "Chorwacja",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Vladimír Čáp",
     "nt": "Czechy",
     "r": 73,
@@ -93565,6 +94367,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Liberda",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Dariusz Jackiewicz",
     "nt": "Polska",
     "r": 71,
@@ -93588,6 +94399,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Danijel Mađarić",
+    "nt": "Chorwacja",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -93705,15 +94525,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kikut",
     "nt": "Polska",
     "r": 76,
@@ -93747,15 +94558,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Kucharski",
     "nt": "Polska",
     "r": 76,
@@ -93778,6 +94580,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Māris Smirnovs",
     "nt": "Łotwa",
     "r": 75,
@@ -93786,15 +94597,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Paweł Linka",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -93808,6 +94610,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Radosław Cierzniak",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Linka",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -93962,15 +94782,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Artur Sarnat",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Szyndrowski",
     "nt": "Polska",
     "r": 75,
@@ -93993,15 +94804,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Robert Bednarek",
     "nt": "Polska",
     "r": 74,
@@ -94013,10 +94815,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Załuska",
+    "n": "Artur Sarnat",
     "nt": "Polska",
-    "r": 74,
-    "pr": 78,
+    "r": 73,
+    "pr": 77,
     "p": [
      "GK"
     ]
@@ -94055,15 +94857,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Wróblewski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Bonin",
     "nt": "Polska",
     "r": 72,
@@ -94074,6 +94867,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Załuska",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Tomasz Wróblewski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -94234,15 +95054,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sławomir Szary",
     "nt": "Polska",
     "r": 75,
@@ -94276,7 +95087,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Wojciech Skaba",
+    "n": "Mariusz Pawełek",
     "nt": "Polska",
     "r": 74,
     "pr": 78,
@@ -94351,10 +95162,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Wojciech Skaba",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jacek Gorczyca",
     "nt": "Polska",
-    "r": 74,
-    "pr": 78,
+    "r": 72,
+    "pr": 76,
     "p": [
      "GK"
     ]
@@ -94574,15 +95394,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Sikora",
     "nt": "Polska",
     "r": 70,
@@ -94642,15 +95453,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Aleksander Ptak",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Lumír Sedláček",
     "nt": "Czechy",
     "r": 69,
@@ -94659,6 +95461,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Sebastian Przyrowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -94738,6 +95549,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Aleksander Ptak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -94844,15 +95664,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cabaj",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Skrzyński",
     "nt": "Polska",
     "r": 69,
@@ -94874,15 +95685,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Sławomir Olszewski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -95009,6 +95811,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Marcin Cabaj",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sławomir Olszewski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Krzysztof Przytuła",
     "nt": "Polska",
     "r": 67,
@@ -95073,15 +95893,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jacek Popek",
     "nt": "Polska",
     "r": 74,
@@ -95104,15 +95915,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radosław Matusiak",
     "nt": "Polska",
     "r": 73,
@@ -95124,10 +95926,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jacek Banaszyński",
+    "n": "Krzysztof Pilarz",
     "nt": "Polska",
-    "r": 73,
-    "pr": 77,
+    "r": 72,
+    "pr": 76,
     "p": [
      "GK"
     ]
@@ -95174,6 +95976,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Łukasz Sapela",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jacek Banaszyński",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -95378,24 +96198,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Boris Peškovič",
-    "nt": "Słowacja",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Bartosz Fabiniak",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Michalski",
     "nt": "Polska",
     "r": 72,
@@ -95417,6 +96219,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Boris Peškovič",
+    "nt": "Słowacja",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Fabiniak",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -95512,6 +96332,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#2462c0",
   "players": [
    {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Dariusz Gęsior",
     "nt": "Polska",
     "r": 72,
@@ -95575,19 +96408,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Peszko",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Mamia Dżikia",
     "nt": "Gruzja",
     "r": 69,
@@ -95598,15 +96418,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jakub Wierzchowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -95656,15 +96467,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Gubiec",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mitar Peković",
     "nt": "Serbia",
     "r": 68,
@@ -95698,10 +96500,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Krakowiak",
+    "n": "Jakub Wierzchowski",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -95766,6 +96568,24 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Robert Gubiec",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Krakowiak",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -95797,24 +96617,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Andrzej Bledzewski",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Robert Mioduszewski",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jarosław Popiela",
     "nt": "Polska",
     "r": 74,
@@ -95823,15 +96625,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Artur Sejud",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -95854,6 +96647,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Andrzej Bledzewski",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Robert Mioduszewski",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -95890,15 +96701,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Przemysław Tytoń",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Stefaniuk",
     "nt": "Polska",
     "r": 73,
@@ -95910,6 +96712,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Artur Sejud",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Maciej Bykowski",
     "nt": "Polska",
     "r": 71,
@@ -95918,6 +96729,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Przemysław Tytoń",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -96076,15 +96896,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Piotr Lech",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jacek Wiśniewski",
     "nt": "Polska",
     "r": 69,
@@ -96104,6 +96915,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Piotr Lech",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -96240,15 +97060,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Piotr Leciejewski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Dudziński",
     "nt": "Polska",
     "r": 67,
@@ -96279,15 +97090,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Tomasz Laskowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -96322,6 +97124,28 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Ndéndé Guèye",
+    "nt": "Senegal",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
+   },
+   {
+    "n": "Michał Protasewicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
    }
   ]
  },
@@ -96350,15 +97174,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Norbert Witkowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -96406,24 +97221,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Chamera",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Kamil Biecke",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Godlewski",
     "nt": "Polska",
     "r": 72,
@@ -96457,6 +97254,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Norbert Witkowski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Bartosz Ława",
     "nt": "Polska",
     "r": 70,
@@ -96467,6 +97273,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Michał Chamera",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Kamil Biecke",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -96789,24 +97613,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mateusz Sławik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Paweł Kieszek",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jacek Moryc",
     "nt": "Polska",
     "r": 68,
@@ -96837,15 +97643,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartłomiej Fogler",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -96883,6 +97680,41 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Matías Favano",
+    "nt": "Argentyna",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Paulewicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Sławik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -96936,15 +97768,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -97027,6 +97850,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Krzysztof Kotorowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Jakub Wilk",
     "nt": "Polska",
     "r": 68,
@@ -97048,15 +97880,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Waldemar Piątek",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -97128,15 +97951,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Janicki",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Artur Marciniak",
     "nt": "Polska",
     "r": 67,
@@ -97161,6 +97975,30 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Mirosław Goliński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Ibou Sawaneh",
+    "nt": "Gambia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
    }
   ]
  },
@@ -97169,6 +98007,28 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2004/05",
   "color": "#888888",
   "players": [
+   {
+    "n": "Maciej Żurawski",
+    "nt": "Polska",
+    "r": 82,
+    "pr": 84,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Tomasz Frankowski",
+    "nt": "Polska",
+    "r": 81,
+    "pr": 83,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
    {
     "n": "Arkadiusz Głowacki",
     "nt": "Polska",
@@ -97203,37 +98063,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Majdan",
-    "nt": "Polska",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Tomasz Frankowski",
-    "nt": "Polska",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
-    "n": "Maciej Żurawski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
     "n": "Tomasz Kłos",
     "nt": "Polska",
     "r": 78,
@@ -97256,6 +98085,28 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Radosław Majdan",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mirosław Szymkowiak",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Nikola Mijailović",
     "nt": "Serbia",
     "r": 77,
@@ -97264,15 +98115,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Adam Piekutowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -97311,23 +98153,19 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Adam Piekutowski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Aleksander Kwiek",
     "nt": "Polska",
     "r": 71,
     "pr": 75,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
-    "n": "Mirosław Szymkowiak",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
     "p": [
      "CDM",
      "CM",
@@ -97440,6 +98278,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Mariusz Pawlak",
     "nt": "Polska",
     "r": 76,
@@ -97448,15 +98299,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -97482,10 +98324,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Liberda",
+    "n": "Sebastian Przyrowski",
     "nt": "Polska",
-    "r": 75,
-    "pr": 79,
+    "r": 74,
+    "pr": 78,
     "p": [
      "GK"
     ]
@@ -97546,15 +98388,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Brzostowski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Zając",
     "nt": "Polska",
     "r": 73,
@@ -97579,16 +98412,21 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Mila",
+    "n": "Mariusz Liberda",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dariusz Brzostowski",
     "nt": "Polska",
     "r": 72,
     "pr": 76,
     "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
+     "GK"
     ]
    },
    {
@@ -97800,6 +98638,26 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Artur Boruc",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marek Saganowski",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
     "n": "Tomasz Jarzębowski",
     "nt": "Polska",
     "r": 77,
@@ -97819,35 +98677,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Artur Boruc",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Andrzej Krzyształowicz",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marek Saganowski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -97884,10 +98713,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Zaremba",
+    "n": "Andrzej Krzyształowicz",
     "nt": "Polska",
-    "r": 76,
-    "pr": 78,
+    "r": 75,
+    "pr": 79,
     "p": [
      "GK"
     ]
@@ -97901,6 +98730,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Łukasz Zaremba",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -98000,6 +98838,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#2462c0",
   "players": [
    {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Marcin Wasilewski",
     "nt": "Polska",
     "r": 74,
@@ -98033,15 +98884,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Wierzchowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dariusz Gęsior",
     "nt": "Polska",
     "r": 72,
@@ -98063,15 +98905,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Robert Gubiec",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -98108,10 +98941,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Krakowiak",
+    "n": "Jakub Wierzchowski",
     "nt": "Polska",
-    "r": 72,
-    "pr": 76,
+    "r": 71,
+    "pr": 75,
     "p": [
      "GK"
     ]
@@ -98154,16 +98987,21 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Peszko",
+    "n": "Robert Gubiec",
     "nt": "Polska",
-    "r": 69,
-    "pr": 73,
+    "r": 70,
+    "pr": 74,
     "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Krakowiak",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -98296,15 +99134,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Cabaj",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Skrzyński",
     "nt": "Polska",
     "r": 74,
@@ -98313,15 +99142,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sławomir Olszewski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -98399,6 +99219,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Marcin Cabaj",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sławomir Olszewski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -98614,15 +99452,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kikut",
     "nt": "Polska",
     "r": 73,
@@ -98631,15 +99460,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -98665,15 +99485,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Cierzniak",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Kucharski",
     "nt": "Polska",
     "r": 73,
@@ -98693,6 +99504,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Radosław Cierzniak",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -98908,15 +99746,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Mioduszewski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Remigiusz Jezierski",
     "nt": "Polska",
     "r": 70,
@@ -98996,6 +99825,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Robert Mioduszewski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Veljko Nikitović",
     "nt": "Serbia",
     "r": 69,
@@ -99042,24 +99880,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Artur Holewiński",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mateusz Karnas",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mirosław Budka",
     "nt": "Polska",
     "r": 68,
@@ -99087,6 +99907,32 @@ window.EKSTRAKLASA_SQUADS = [
    },
    {
     "n": "Piotr Soczewka",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Paweł Bugała",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Kamil Oziemczuk",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -99202,15 +100048,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kotorowski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Błażej Telichowski",
     "nt": "Polska",
     "r": 69,
@@ -99290,7 +100127,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Waldemar Piątek",
+    "n": "Krzysztof Kotorowski",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -99307,15 +100144,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Fabiański",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -99376,6 +100204,28 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Marcin Pontus",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Dariusz Imbiorowicz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
+    ]
    }
   ]
  },
@@ -99430,15 +100280,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Krzysztof Pilarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -99549,7 +100390,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Fabiniak",
+    "n": "Krzysztof Pilarz",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -99569,15 +100410,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Waldemar Grzanka",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "César Fernando Silvera",
     "nt": "Urugwaj",
     "r": 67,
@@ -99588,6 +100420,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bartosz Fabiniak",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Waldemar Grzanka",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -99705,15 +100555,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jacek Banaszyński",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Jakosz",
     "nt": "Polska",
     "r": 68,
@@ -99799,15 +100640,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Paweł Kieszek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Głowacki",
     "nt": "Polska",
     "r": 67,
@@ -99856,15 +100688,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jarosław Paśnik",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dawid Jędrzejak",
     "nt": "Polska",
     "r": 67,
@@ -99876,6 +100699,35 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Richard Nwaeze",
+    "nt": "Nigeria",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Jacek Banaszyński",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Kieszek",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -99884,15 +100736,6 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2004/05",
   "color": "#1452a8",
   "players": [
-   {
-    "n": "Piotr Lech",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
    {
     "n": "Piotr Brożek",
     "nt": "Polska",
@@ -99913,6 +100756,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Piotr Lech",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -99973,15 +100825,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Piotr Leciejewski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Paweł Król",
     "nt": "Polska",
     "r": 71,
@@ -99990,15 +100833,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Bartosz Białkowski",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -100034,6 +100868,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Piotr Leciejewski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Bartosz Białkowski",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -100286,15 +101138,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Robert Kłos",
     "nt": "Polska",
     "r": 68,
@@ -100376,15 +101219,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Danijel Mađarić",
-    "nt": "Chorwacja",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Hübscher",
     "nt": "Polska",
     "r": 67,
@@ -100441,6 +101275,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jernej Javornik",
+    "nt": "Słowenia",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -100536,15 +101392,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Nosal",
     "nt": "Polska",
     "r": 69,
@@ -100602,6 +101449,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Łukasz Masłowski",
     "nt": "Polska",
     "r": 67,
@@ -100612,24 +101468,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Wojciech Skaba",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcin Bęben",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -100720,6 +101558,30 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Jarosław Wieczorek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "James Oamen",
+    "nt": "Nigeria",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -100850,15 +101712,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Klytta",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Fonfara",
     "nt": "Polska",
     "r": 68,
@@ -100926,15 +101779,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mateusz Sławik",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -101010,6 +101854,24 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Dariusz Klytta",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mateusz Sławik",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -101021,8 +101883,8 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Maciej Żurawski",
     "nt": "Polska",
-    "r": 78,
-    "pr": 80,
+    "r": 82,
+    "pr": 84,
     "p": [
      "ST",
      "LW",
@@ -101032,12 +101894,25 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Tomasz Frankowski",
     "nt": "Polska",
-    "r": 77,
-    "pr": 79,
+    "r": 81,
+    "pr": 83,
     "p": [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Mirosław Szymkowiak",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
@@ -101151,15 +102026,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Adam Piekutowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Mrowiec",
     "nt": "Polska",
     "r": 73,
@@ -101168,15 +102034,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michał Wróbel",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -101199,19 +102056,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Mirosław Szymkowiak",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -101251,6 +102095,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Adam Piekutowski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Wróbel",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -101408,24 +102270,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Załuska",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Andrzej Krzyształowicz",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Rosłoń",
     "nt": "Polska",
     "r": 77,
@@ -101448,9 +102292,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Łukasz Załuska",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Andrzej Krzyształowicz",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Łukasz Zaremba",
     "nt": "Polska",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
@@ -101593,24 +102455,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Szamotulski",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maciej Mielcarz",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Piotr Dziewicki",
     "nt": "Polska",
     "r": 75,
@@ -101703,6 +102547,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Grzegorz Szamotulski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Veselin Đoković",
     "nt": "Serbia",
     "r": 74,
@@ -101711,15 +102564,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dominik Sobański",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -101755,6 +102599,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Maciej Mielcarz",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dominik Sobański",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -101839,6 +102701,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Mariusz Pawlak",
     "nt": "Polska",
     "r": 74,
@@ -101850,28 +102725,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sebastian Mila",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Radek Mynář",
     "nt": "Czechy",
     "r": 73,
@@ -101880,15 +102733,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mariusz Liberda",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -101926,6 +102770,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Sebastian Przyrowski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -101973,15 +102826,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Brzostowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Wieszczycki",
     "nt": "Polska",
     "r": 71,
@@ -101992,6 +102836,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Mariusz Liberda",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -102056,6 +102909,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dariusz Brzostowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Igor Kozioł",
     "nt": "Polska",
     "r": 69,
@@ -102112,6 +102974,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2003/04",
   "color": "#2462c0",
   "players": [
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Ireneusz Jeleń",
     "nt": "Polska",
@@ -102218,37 +103093,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Wierzchowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Paweł Kapsa",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
-    ]
-   },
-   {
     "n": "Maciej Terlecki",
     "nt": "Polska",
     "r": 69,
@@ -102270,15 +103114,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sebastian Krakowiak",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -102317,6 +103152,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jakub Wierzchowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Emmanuel Ekwueme",
     "nt": "Nigeria",
     "r": 68,
@@ -102327,6 +103171,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Paweł Kapsa",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -102375,6 +103228,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Sebastian Krakowiak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -102532,15 +103394,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Waldemar Piątek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Mowlik",
     "nt": "Polska",
     "r": 70,
@@ -102549,24 +103402,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Norbert Tyrajski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Radliński",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -102635,6 +103470,33 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Waldemar Piątek",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Norbert Tyrajski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Radliński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Piotr Jacek",
     "nt": "Polska",
     "r": 67,
@@ -102668,15 +103530,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#1452a8",
   "players": [
    {
-    "n": "Piotr Lech",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Adrian Sikora",
     "nt": "Polska",
     "r": 72,
@@ -102685,6 +103538,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Piotr Lech",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -102780,15 +103642,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Laskowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Michał Probierz",
     "nt": "Polska",
     "r": 69,
@@ -102871,6 +103724,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Tomasz Laskowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -102975,15 +103837,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Mioduszewski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Skwara",
     "nt": "Polska",
     "r": 70,
@@ -103040,6 +103893,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Robert Mioduszewski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -103135,15 +103997,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Rachowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Artur Wilk",
     "nt": "Polska",
     "r": 68,
@@ -103214,6 +104067,19 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Piotr Wójcik",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
    }
   ]
  },
@@ -103270,15 +104136,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -103395,7 +104252,7 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Bęben",
+    "n": "Mariusz Pawełek",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
@@ -103500,6 +104357,19 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Wojciech Sałek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    }
   ]
@@ -103613,15 +104483,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Klytta",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Fonfara",
     "nt": "Polska",
     "r": 68,
@@ -103667,15 +104528,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Jarosław Tkocz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -103740,10 +104592,28 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dariusz Klytta",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jarosław Tkocz",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tomasz Michałowicz",
     "nt": "Polska",
-    "r": 67,
-    "pr": 71,
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -103922,15 +104792,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Gubiec",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Jarosiewicz",
     "nt": "Polska",
     "r": 67,
@@ -103941,15 +104802,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Paweł Kieszek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -104038,6 +104890,24 @@ window.EKSTRAKLASA_SQUADS = [
      "LB",
      "RB"
     ]
+   },
+   {
+    "n": "Robert Gubiec",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Kieszek",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -104079,15 +104949,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jacek Banaszyński",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -104157,15 +105018,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jacek Kikowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Ziemniak",
     "nt": "Polska",
     "r": 68,
@@ -104174,6 +105026,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jacek Banaszyński",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -104319,6 +105180,15 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Jacek Kikowski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -104349,15 +105219,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -104428,6 +105289,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -104595,12 +105465,14 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Kopaniecki",
+    "n": "Dariusz Turkowski",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -104643,15 +105515,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Zbigniew Robakiewicz",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -104753,6 +105616,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Zbigniew Robakiewicz",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Bogdan Zając",
     "nt": "Polska",
     "r": 68,
@@ -104847,15 +105719,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Ludwikowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radosław Becalik",
     "nt": "Polska",
     "r": 67,
@@ -104880,12 +105743,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Kula",
+    "n": "Jacek Pieprzyk",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Łukasz Sołtys",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CB",
+     "LB",
+     "RB"
     ]
    }
   ]
@@ -104895,6 +105773,28 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2002/03",
   "color": "#888888",
   "players": [
+   {
+    "n": "Maciej Żurawski",
+    "nt": "Polska",
+    "r": 82,
+    "pr": 84,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Tomasz Frankowski",
+    "nt": "Polska",
+    "r": 81,
+    "pr": 83,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
    {
     "n": "Arkadiusz Głowacki",
     "nt": "Polska",
@@ -104929,17 +105829,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Maciej Żurawski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
     "n": "Piotr Brożek",
     "nt": "Polska",
     "r": 78,
@@ -104951,12 +105840,29 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Artur Sarnat",
+    "n": "Kamil Kosowski",
     "nt": "Polska",
     "r": 78,
     "pr": 80,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mirosław Szymkowiak",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
@@ -105026,6 +105932,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Artur Sarnat",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Łukasz Nawotczyński",
     "nt": "Polska",
     "r": 76,
@@ -105039,7 +105954,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Adam Piekutowski",
     "nt": "Polska",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -105048,7 +105963,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Marcin Juszczyk",
     "nt": "Polska",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -105057,7 +105972,7 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Angelo Hugues",
     "nt": "Francja",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
@@ -105066,34 +105981,10 @@ window.EKSTRAKLASA_SQUADS = [
    {
     "n": "Maciej Palczewski",
     "nt": "Polska",
-    "r": 76,
+    "r": 74,
     "pr": 78,
     "p": [
      "GK"
-    ]
-   },
-   {
-    "n": "Tomasz Frankowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
-    ]
-   },
-   {
-    "n": "Kamil Kosowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -105131,19 +106022,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Mirosław Szymkowiak",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -105189,21 +106067,16 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Przyrowski",
-    "nt": "Polska",
-    "r": 79,
-    "pr": 81,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mariusz Liberda",
+    "n": "Sebastian Mila",
     "nt": "Polska",
     "r": 78,
     "pr": 80,
     "p": [
-     "GK"
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
     ]
    },
    {
@@ -105215,6 +106088,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Sebastian Przyrowski",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -105248,6 +106130,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Mariusz Liberda",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -105285,19 +106176,6 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
-    ]
-   },
-   {
-    "n": "Sebastian Mila",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -105487,15 +106365,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Klytta",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mirosław Sznaucner",
     "nt": "Polska",
     "r": 76,
@@ -105504,15 +106373,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jarosław Tkocz",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -105527,6 +106387,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Dariusz Klytta",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Krzysztof Gajtkowski",
     "nt": "Polska",
     "r": 74,
@@ -105535,6 +106404,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Jarosław Tkocz",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -105671,6 +106549,15 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#0f7a36",
   "players": [
    {
+    "n": "Artur Boruc",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Tomasz Kiełbowicz",
     "nt": "Polska",
     "r": 77,
@@ -105690,6 +106577,17 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Marek Saganowski",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
     ]
    },
    {
@@ -105770,24 +106668,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Artur Boruc",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Łukasz Załuska",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Nowak",
     "nt": "Polska",
     "r": 75,
@@ -105796,17 +106676,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marek Saganowski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "ST",
-     "LW",
-     "RW"
     ]
    },
    {
@@ -105821,15 +106690,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radostin Stanew",
-    "nt": "Bułgaria",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Cezary Kucharski",
     "nt": "Polska",
     "r": 73,
@@ -105838,6 +106698,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Łukasz Załuska",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Radostin Stanew",
+    "nt": "Bułgaria",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -105950,9 +106828,9 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Michał Chałbiński",
+    "n": "Marek Saganowski",
     "nt": "Polska",
-    "r": 75,
+    "r": 77,
     "pr": 79,
     "p": [
      "ST",
@@ -105961,10 +106839,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Saganowski",
+    "n": "Michał Chałbiński",
     "nt": "Polska",
-    "r": 74,
-    "pr": 78,
+    "r": 75,
+    "pr": 79,
     "p": [
      "ST",
      "LW",
@@ -105993,15 +106871,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Mariusz Pawełek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -106066,6 +106935,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Pawełek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Paweł Sibik",
     "nt": "Polska",
     "r": 70,
@@ -106079,15 +106957,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Bęben",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Radim Sáblík",
     "nt": "Czechy",
     "r": 70,
@@ -106096,15 +106965,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Tomala",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -106204,6 +107064,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Marcin Bęben",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Grzegorz Tomala",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Bartłomiej Socha",
     "nt": "Polska",
     "r": 67,
@@ -106290,15 +107168,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Grzegorz Szamotulski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Zieńczuk",
     "nt": "Polska",
     "r": 73,
@@ -106309,15 +107178,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Jarosław Stróżyński",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -106380,6 +107240,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Grzegorz Szamotulski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Veselin Đoković",
     "nt": "Serbia",
     "r": 72,
@@ -106388,15 +107257,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dominik Sobański",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -106422,6 +107282,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jarosław Stróżyński",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Marcin Burkhardt",
     "nt": "Polska",
     "r": 70,
@@ -106432,6 +107301,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dominik Sobański",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -106527,24 +107405,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Piotr Lech",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Andrzej Bledzewski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Lekki",
     "nt": "Polska",
     "r": 74,
@@ -106564,6 +107424,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Piotr Lech",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -106611,6 +107480,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Andrzej Bledzewski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Ivica Križanac",
     "nt": "Chorwacja",
     "r": 72,
@@ -106630,24 +107508,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Dmytro Diaczenko",
-    "nt": "Ukraina",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Damian Trojanowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -106687,6 +107547,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Dmytro Diaczenko",
+    "nt": "Ukraina",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Damian Trojanowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -106967,15 +107845,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Andrzej Krzyształowicz",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Jarosław Mazurkiewicz",
     "nt": "Polska",
     "r": 69,
@@ -107002,19 +107871,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Gubiec",
+    "n": "Andrzej Krzyształowicz",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Sebastian Knap",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -107064,6 +107924,24 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Robert Gubiec",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Knap",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -107095,15 +107973,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Zbigniew Robakiewicz",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Robert Dymkowski",
     "nt": "Polska",
     "r": 73,
@@ -107123,6 +107992,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Zbigniew Robakiewicz",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -107147,15 +108025,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Marcin Ludwikowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -107189,15 +108058,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Robert Nowogórski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -107262,6 +108122,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Marcin Ludwikowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Robert Nowogórski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Miodrag Anđelković",
     "nt": "Serbia",
     "r": 67,
@@ -107316,6 +108194,19 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2002/03",
   "color": "#2462c0",
   "players": [
+   {
+    "n": "Sławomir Peszko",
+    "nt": "Polska",
+    "r": 77,
+    "pr": 79,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
    {
     "n": "Dariusz Romuzga",
     "nt": "Polska",
@@ -107433,24 +108324,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Artur Sejud",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Paweł Kapsa",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Vahan Gevorgyan",
     "nt": "Polska",
     "r": 70,
@@ -107475,15 +108348,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sylwester Wyłupski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Maciej Pastuszka",
     "nt": "Polska",
     "r": 70,
@@ -107503,19 +108367,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sławomir Peszko",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
     ]
    },
    {
@@ -107542,6 +108393,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Artur Sejud",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Paweł Kapsa",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -107579,6 +108448,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Sylwester Wyłupski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -107692,15 +108570,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Szmatuła",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Matlak",
     "nt": "Polska",
     "r": 71,
@@ -107771,24 +108640,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Luncik",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Norbert Tyrajski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Michalski",
     "nt": "Polska",
     "r": 70,
@@ -107824,6 +108675,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Jakub Szmatuła",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Maciej Nuckowski",
     "nt": "Polska",
     "r": 69,
@@ -107854,6 +108714,24 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Mariusz Luncik",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Norbert Tyrajski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -108002,15 +108880,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jarosław Krupski",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Ireneusz Kowalski",
     "nt": "Polska",
     "r": 68,
@@ -108059,15 +108928,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jędrzej Kędziora",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Nerijus Radžius",
     "nt": "Litwa",
     "r": 68,
@@ -108101,10 +108961,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Rzepecki",
+    "n": "Jarosław Krupski",
     "nt": "Polska",
-    "r": 68,
-    "pr": 72,
+    "r": 67,
+    "pr": 71,
     "p": [
      "GK"
     ]
@@ -108131,6 +108991,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Jędrzej Kędziora",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mariusz Rzepecki",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -108320,15 +109198,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jarosław Matusiak",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mile Knežević",
     "nt": "Serbia",
     "r": 67,
@@ -108351,15 +109220,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Wróbel",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dariusz Kapciński",
     "nt": "Polska",
     "r": 67,
@@ -108368,15 +109228,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Ivo Schmucker",
-    "nt": "Czechy",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -108404,10 +109255,41 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Rogala",
+    "n": "Marek Tokarz",
     "nt": "Polska",
     "r": 67,
     "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Jarosław Matusiak",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Michał Wróbel",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Ivo Schmucker",
+    "nt": "Czechy",
+    "r": 65,
+    "pr": 69,
     "p": [
      "GK"
     ]
@@ -108534,15 +109416,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Matuszek",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Damian Gorawski",
     "nt": "Polska",
     "r": 71,
@@ -108600,15 +109473,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Toni Jurjev",
-    "nt": "Chorwacja",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Sebastian Skoczylas",
     "nt": "Polska",
     "r": 70,
@@ -108633,6 +109497,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Marek Matuszek",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Sławomir Paluch",
     "nt": "Polska",
     "r": 68,
@@ -108654,6 +109527,15 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Toni Jurjev",
+    "nt": "Chorwacja",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -108700,15 +109582,6 @@ window.EKSTRAKLASA_SQUADS = [
   "season": "2002/03",
   "color": "#888888",
   "players": [
-   {
-    "n": "Janusz Jojko",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
    {
     "n": "Marek Sokołowski",
     "nt": "Polska",
@@ -108782,6 +109655,15 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Janusz Jojko",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Mirosław Siara",
     "nt": "Polska",
     "r": 68,
@@ -108838,15 +109720,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
-    ]
-   },
-   {
-    "n": "Waldemar Piątek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -108907,15 +109780,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Dymanowski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Daniel Grębowski",
     "nt": "Polska",
     "r": 67,
@@ -108972,6 +109836,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Waldemar Piątek",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Tomasz Dymanowski",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -109104,15 +109986,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sławomir Olszewski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Walburg",
     "nt": "Polska",
     "r": 68,
@@ -109218,15 +110091,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Przemysław Norko",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Żebrowski",
     "nt": "Polska",
     "r": 67,
@@ -109261,6 +110125,28 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Bartosz Partyka",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Sławomir Olszewski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]
@@ -109370,24 +110256,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mariusz Luncik",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Norbert Tyrajski",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Michalski",
     "nt": "Polska",
     "r": 77,
@@ -109432,9 +110300,27 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Mariusz Luncik",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Norbert Tyrajski",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Grzegorz Dombka",
     "nt": "Polska",
-    "r": 77,
+    "r": 75,
     "pr": 79,
     "p": [
      "GK"
@@ -109542,6 +110428,19 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
+    "n": "Sebastian Mila",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
     "n": "Paweł Strąk",
     "nt": "Polska",
     "r": 78,
@@ -109561,15 +110460,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jarosław Krupski",
-    "nt": "Polska",
-    "r": 78,
-    "pr": 80,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -109606,15 +110496,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Andrzej Szyszko",
-    "nt": "Polska",
-    "r": 77,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mariusz Woroniecki",
     "nt": "Polska",
     "r": 77,
@@ -109626,20 +110507,25 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Radosław Sobolewski",
+    "n": "Jarosław Krupski",
     "nt": "Polska",
-    "r": 71,
-    "pr": 75,
+    "r": 76,
+    "pr": 78,
     "p": [
-     "CDM",
-     "CM",
-     "CAM",
-     "LM",
-     "RM"
+     "GK"
     ]
    },
    {
-    "n": "Sebastian Mila",
+    "n": "Andrzej Szyszko",
+    "nt": "Polska",
+    "r": 75,
+    "pr": 79,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Radosław Sobolewski",
     "nt": "Polska",
     "r": 71,
     "pr": 75,
@@ -109917,24 +110803,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Tomasz Rogala",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Wojciech Skrzypek",
-    "nt": "Polska",
-    "r": 71,
-    "pr": 75,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Podralski",
     "nt": "Polska",
     "r": 71,
@@ -109969,6 +110837,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Tomasz Rogala",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Wojciech Skrzypek",
+    "nt": "Polska",
+    "r": 69,
+    "pr": 73,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -110116,15 +111002,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Marcin Cabaj",
-    "nt": "Polska",
-    "r": 76,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Grzegorz Bronowicki",
     "nt": "Polska",
     "r": 76,
@@ -110191,24 +111068,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Mańka",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Grzegorz Nalepa",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Robert Różański",
     "nt": "Polska",
     "r": 75,
@@ -110239,6 +111098,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Marcin Cabaj",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 78,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marcin Mańka",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Grzegorz Nalepa",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -110406,15 +111292,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Łukasz Sapela",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Kaczmarek",
     "nt": "Polska",
     "r": 73,
@@ -110423,15 +111300,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Aleksander Ptak",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -110501,15 +111369,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Sebastian Łukiewicz",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dominik Banaszczyk",
     "nt": "Polska",
     "r": 72,
@@ -110540,6 +111399,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Łukasz Sapela",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Aleksander Ptak",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Sebastian Łukiewicz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -110696,24 +111582,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Artur Holewiński",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mariusz Stawarz",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Zbigniew Czerbniak",
     "nt": "Polska",
     "r": 70,
@@ -110816,6 +111684,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Artur Holewiński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mariusz Stawarz",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -111027,15 +111913,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Michał Sławuta",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Dominik Malesa",
     "nt": "Polska",
     "r": 72,
@@ -111058,24 +111935,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marek Baranowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Dariusz Ziółkowski",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Robert Rams",
     "nt": "Polska",
     "r": 72,
@@ -111084,6 +111943,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Michał Sławuta",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Marek Baranowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Dariusz Ziółkowski",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -111255,15 +112141,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Dariusz Klytta",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Wojciech Myszor",
     "nt": "Polska",
     "r": 70,
@@ -111376,15 +112253,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Suchański",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Wujek",
     "nt": "Polska",
     "r": 69,
@@ -111396,10 +112264,10 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Andrzej Urbańczyk",
+    "n": "Dariusz Klytta",
     "nt": "Polska",
-    "r": 69,
-    "pr": 73,
+    "r": 68,
+    "pr": 72,
     "p": [
      "GK"
     ]
@@ -111479,6 +112347,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Marcin Suchański",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Andrzej Urbańczyk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Ireneusz Waluś",
     "nt": "Polska",
     "r": 67,
@@ -111529,33 +112415,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Tomasz Hryńczuk",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jerzy Keller",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Krzysztof Osiński",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -111624,6 +112483,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Tomasz Hryńczuk",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jerzy Keller",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krzysztof Osiński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -111856,15 +112742,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Bartosz Rachowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Kusiak",
     "nt": "Polska",
     "r": 68,
@@ -111873,24 +112750,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Krzysztof Petrykowski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Robert Bilski",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -112060,6 +112919,33 @@ window.EKSTRAKLASA_SQUADS = [
      "LW",
      "RW"
     ]
+   },
+   {
+    "n": "Bartosz Rachowski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Krzysztof Petrykowski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Robert Bilski",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -112121,24 +113007,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Waldemar Stanik",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jacek Wosicki",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -112207,6 +113075,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Waldemar Stanik",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jacek Wosicki",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -112358,15 +113244,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Jacek Banaszyński",
-    "nt": "Polska",
-    "r": 75,
-    "pr": 79,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marcin Szymański",
     "nt": "Polska",
     "r": 74,
@@ -112433,24 +113310,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jacek Kikowski",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Mirosław Wierzycki",
-    "nt": "Polska",
-    "r": 74,
-    "pr": 78,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Marek Rybitwa",
     "nt": "Polska",
     "r": 74,
@@ -112470,6 +113329,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jacek Banaszyński",
+    "nt": "Polska",
+    "r": 73,
+    "pr": 77,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jacek Kikowski",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mirosław Wierzycki",
+    "nt": "Polska",
+    "r": 72,
+    "pr": 76,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -112641,15 +113527,6 @@ window.EKSTRAKLASA_SQUADS = [
   "color": "#888888",
   "players": [
    {
-    "n": "Arkadiusz Malarz",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Mirosław Milewski",
     "nt": "Polska",
     "r": 71,
@@ -112658,6 +113535,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Arkadiusz Malarz",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -112683,15 +113569,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Dziuba",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Reginis",
     "nt": "Polska",
     "r": 70,
@@ -112711,15 +113588,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Łukasz Borkowski",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -112779,6 +113647,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Robert Dziuba",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Łukasz Borkowski",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -113001,15 +113887,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Jakub Skrzypiec",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Rafał Jakubczak",
     "nt": "Polska",
     "r": 73,
@@ -113018,24 +113895,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Piotr Rossowski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Rafał Sadecki",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 77,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -113091,6 +113950,33 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Jakub Skrzypiec",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Piotr Rossowski",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Rafał Sadecki",
+    "nt": "Polska",
+    "r": 71,
+    "pr": 75,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -113241,15 +114127,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Mirosław Dymek",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Maciejczuk",
     "nt": "Polska",
     "r": 72,
@@ -113258,15 +114135,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Audrius Dilys",
-    "nt": "Litwa",
-    "r": 72,
-    "pr": 76,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -113344,6 +114212,24 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
+    ]
+   },
+   {
+    "n": "Mirosław Dymek",
+    "nt": "Polska",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Audrius Dilys",
+    "nt": "Litwa",
+    "r": 70,
+    "pr": 74,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -113616,15 +114502,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Marcin Latos",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tomasz Bernas",
     "nt": "Polska",
     "r": 67,
@@ -113646,33 +114523,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Sławomir Jeziorek",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Rafał Skórski",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Waldemar Sotnicki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -113746,6 +114596,48 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Grzegorz Jasiak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Robert Kubiela",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Michał Wiącek",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Marcin Latos",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -113788,15 +114680,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Robert Stanek",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Łukasz Antczak",
     "nt": "Polska",
     "r": 70,
@@ -113805,24 +114688,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Kurdziel",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Adam Iwiński",
-    "nt": "Polska",
-    "r": 70,
-    "pr": 74,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -113906,6 +114771,33 @@ window.EKSTRAKLASA_SQUADS = [
      "ST",
      "LW",
      "RW"
+    ]
+   },
+   {
+    "n": "Robert Stanek",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Grzegorz Kurdziel",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Adam Iwiński",
+    "nt": "Polska",
+    "r": 68,
+    "pr": 72,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -114147,42 +115039,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Rafał Kopaniecki",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Jakub Bella",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Marcin Feć",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Robert Kitowicz",
-    "nt": "Polska",
-    "r": 67,
-    "pr": 71,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Krzysztof Chełpa",
     "nt": "Polska",
     "r": 67,
@@ -114308,6 +115164,54 @@ window.EKSTRAKLASA_SQUADS = [
      "LM",
      "RM"
     ]
+   },
+   {
+    "n": "Marcin Lachowski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Mateusz Mika",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Sławomir Sieńczewski",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "CDM",
+     "CM",
+     "CAM",
+     "LM",
+     "RM"
+    ]
+   },
+   {
+    "n": "Rafał Kopaniecki",
+    "nt": "Polska",
+    "r": 65,
+    "pr": 69,
+    "p": [
+     "GK"
+    ]
    }
   ]
  },
@@ -114336,15 +115240,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Grzegorz Harasiuk",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -114378,15 +115273,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Mirosław Warzecha",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -114431,15 +115317,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Michał Podolak",
-    "nt": "Polska",
-    "r": 69,
-    "pr": 73,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -114511,6 +115388,24 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
+    "n": "Grzegorz Harasiuk",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Mirosław Warzecha",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
+    ]
+   },
+   {
     "n": "Andrzej Jasiński I",
     "nt": "Polska",
     "r": 67,
@@ -114547,6 +115442,15 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Michał Podolak",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "GK"
     ]
    },
    {
@@ -114607,15 +115511,6 @@ window.EKSTRAKLASA_SQUADS = [
     ]
    },
    {
-    "n": "Krzysztof Kozik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
     "n": "Tadeusz Bartnik",
     "nt": "Polska",
     "r": 68,
@@ -114624,33 +115519,6 @@ window.EKSTRAKLASA_SQUADS = [
      "CB",
      "LB",
      "RB"
-    ]
-   },
-   {
-    "n": "Jarosław Przewoźnik",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Tomasz Stańczyk",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
-    ]
-   },
-   {
-    "n": "Maciej Zając",
-    "nt": "Polska",
-    "r": 68,
-    "pr": 72,
-    "p": [
-     "GK"
     ]
    },
    {
@@ -114865,6 +115733,46 @@ window.EKSTRAKLASA_SQUADS = [
      "CAM",
      "LM",
      "RM"
+    ]
+   },
+   {
+    "n": "Marcin Bryła",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Tomasz Stachera",
+    "nt": "Polska",
+    "r": 67,
+    "pr": 71,
+    "p": [
+     "ST",
+     "LW",
+     "RW"
+    ]
+   },
+   {
+    "n": "Krzysztof Kozik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
+    ]
+   },
+   {
+    "n": "Jarosław Przewoźnik",
+    "nt": "Polska",
+    "r": 66,
+    "pr": 70,
+    "p": [
+     "GK"
     ]
    }
   ]

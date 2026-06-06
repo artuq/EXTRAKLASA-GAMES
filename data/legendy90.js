@@ -8,8 +8,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Wojciech Kowalczyk",
     "nt": "Polska",
-    "r": 78,
-    "pr": 82,
+    "r": 81,
+    "pr": 84,
     "p": [
      "ST"
     ]
@@ -17,8 +17,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Maciej Szczęsny",
     "nt": "Polska",
-    "r": 76,
-    "pr": 78,
+    "r": 78,
+    "pr": 80,
     "p": [
      "GK"
     ]
@@ -26,8 +26,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Jacek Zieliński",
     "nt": "Polska",
-    "r": 75,
-    "pr": 77,
+    "r": 76,
+    "pr": 78,
     "p": [
      "CB"
     ]
@@ -35,8 +35,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Radosław Michalski",
     "nt": "Polska",
-    "r": 75,
-    "pr": 77,
+    "r": 76,
+    "pr": 78,
     "p": [
      "CDM",
      "CM"
@@ -45,8 +45,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Jerzy Podbroźny",
     "nt": "Polska",
-    "r": 75,
-    "pr": 77,
+    "r": 76,
+    "pr": 78,
     "p": [
      "ST"
     ]
@@ -54,7 +54,7 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Marek Jóźwiak",
     "nt": "Polska",
-    "r": 73,
+    "r": 74,
     "pr": 76,
     "p": [
      "CB"
@@ -180,29 +180,39 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Marek Citko",
     "nt": "Polska",
-    "r": 77,
-    "pr": 82,
+    "r": 79,
+    "pr": 83,
     "p": [
      "CM",
      "CAM"
     ]
    },
    {
+    "n": "Marek Koniarek",
+    "nt": "Polska",
+    "r": 78,
+    "pr": 80,
+    "p": [
+     "ST"
+    ]
+   },
+   {
     "n": "Tomasz Łapiński",
     "nt": "Polska",
-    "r": 76,
-    "pr": 78,
+    "r": 77,
+    "pr": 79,
     "p": [
      "CB"
     ]
    },
    {
-    "n": "Marek Koniarek",
+    "n": "Mirosław Szymkowiak",
     "nt": "Polska",
-    "r": 76,
-    "pr": 79,
+    "r": 74,
+    "pr": 80,
     "p": [
-     "ST"
+     "CM",
+     "CAM"
     ]
    },
    {
@@ -221,16 +231,6 @@ window.LEGENDY90_SQUADS = [
     "pr": 75,
     "p": [
      "GK"
-    ]
-   },
-   {
-    "n": "Mirosław Szymkowiak",
-    "nt": "Polska",
-    "r": 72,
-    "pr": 80,
-    "p": [
-     "CM",
-     "CAM"
     ]
    },
    {
@@ -351,8 +351,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Tomasz Kłos",
     "nt": "Polska",
-    "r": 77,
-    "pr": 80,
+    "r": 78,
+    "pr": 81,
     "p": [
      "CB"
     ]
@@ -360,8 +360,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Mirosław Trzeciak",
     "nt": "Polska",
-    "r": 76,
-    "pr": 78,
+    "r": 78,
+    "pr": 80,
     "p": [
      "ST"
     ]
@@ -369,8 +369,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Tomasz Wieszczycki",
     "nt": "Polska",
-    "r": 74,
-    "pr": 76,
+    "r": 75,
+    "pr": 77,
     "p": [
      "CM",
      "CAM"
@@ -379,7 +379,7 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Marek Saganowski",
     "nt": "Polska",
-    "r": 74,
+    "r": 75,
     "pr": 80,
     "p": [
      "ST"
@@ -388,8 +388,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Witold Bendkowski",
     "nt": "Polska",
-    "r": 73,
-    "pr": 75,
+    "r": 74,
+    "pr": 76,
     "p": [
      "CB"
     ]
@@ -521,36 +521,36 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Tomasz Frankowski",
     "nt": "Polska",
-    "r": 78,
-    "pr": 81,
+    "r": 80,
+    "pr": 83,
     "p": [
      "ST"
     ]
    },
    {
+    "n": "Kazimierz Węgrzyn",
+    "nt": "Polska",
+    "r": 76,
+    "pr": 78,
+    "p": [
+     "CB"
+    ]
+   },
+   {
     "n": "Radosław Kałużny",
     "nt": "Polska",
-    "r": 75,
-    "pr": 77,
+    "r": 76,
+    "pr": 78,
     "p": [
      "CDM",
      "CM"
     ]
    },
    {
-    "n": "Kazimierz Węgrzyn",
+    "n": "Krzysztof Bukalski",
     "nt": "Polska",
     "r": 74,
     "pr": 76,
-    "p": [
-     "CB"
-    ]
-   },
-   {
-    "n": "Krzysztof Bukalski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 75,
     "p": [
      "CAM",
      "CM"
@@ -559,8 +559,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Olgierd Moskalewicz",
     "nt": "Polska",
-    "r": 73,
-    "pr": 76,
+    "r": 74,
+    "pr": 77,
     "p": [
      "CAM",
      "ST"
@@ -695,8 +695,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Emmanuel Olisadebe",
     "nt": "Polska",
-    "r": 78,
-    "pr": 82,
+    "r": 80,
+    "pr": 83,
     "p": [
      "ST"
     ]
@@ -704,8 +704,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Maciej Szczęsny",
     "nt": "Polska",
-    "r": 76,
-    "pr": 78,
+    "r": 78,
+    "pr": 80,
     "p": [
      "GK"
     ]
@@ -713,8 +713,8 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Tomasz Wieszczycki",
     "nt": "Polska",
-    "r": 74,
-    "pr": 76,
+    "r": 75,
+    "pr": 77,
     "p": [
      "CM",
      "CAM"
@@ -723,11 +723,21 @@ window.LEGENDY90_SQUADS = [
    {
     "n": "Arkadiusz Bąk",
     "nt": "Polska",
-    "r": 74,
-    "pr": 76,
+    "r": 75,
+    "pr": 77,
     "p": [
      "CAM",
      "CM"
+    ]
+   },
+   {
+    "n": "Igor Gołaszewski",
+    "nt": "Polska",
+    "r": 74,
+    "pr": 76,
+    "p": [
+     "RM",
+     "RW"
     ]
    },
    {
@@ -737,16 +747,6 @@ window.LEGENDY90_SQUADS = [
     "pr": 75,
     "p": [
      "CB"
-    ]
-   },
-   {
-    "n": "Igor Gołaszewski",
-    "nt": "Polska",
-    "r": 73,
-    "pr": 75,
-    "p": [
-     "RM",
-     "RW"
     ]
    },
    {

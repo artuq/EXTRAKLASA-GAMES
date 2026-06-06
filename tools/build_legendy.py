@@ -31,15 +31,15 @@ FIX = {
 }
 # gwiazdy: nazwisko (TM) -> (r, pr)
 STARS = {
- "Wojciech Kowalczyk":(78,82),"Jerzy Podbrozny":(75,77),"Jacek Zieliński":(75,77),
- "Marek Jozwiak":(73,76),"Radoslaw Michalski":(75,77),"Maciej Szczesny":(76,78),
- "Marek Citko":(77,82),"Tomasz Łapiński":(76,78),"Marek Koniarek":(76,79),
- "Miroslaw Szymkowiak":(72,80),
- "Tomasz Klos":(77,80),"Miroslaw Trzeciak":(76,78),"Marek Saganowski":(74,80),
- "Tomasz Wieszczycki":(74,76),"Witold Bendkowski":(73,75),
- "Tomasz Frankowski":(78,81),"Kazimierz Wegrzyn":(74,76),"Radoslaw Kaluzny":(75,77),
- "Krzysztof Bukalski":(73,75),"Olgierd Moskalewicz":(73,76),
- "Emmanuel Olisadebe":(78,82),"Arkadiusz Bak":(74,76),"Igor Golaszewski":(73,75),
+ "Wojciech Kowalczyk":(81,84),"Jerzy Podbrozny":(76,78),"Jacek Zieliński":(76,78),
+ "Marek Jozwiak":(74,76),"Radoslaw Michalski":(76,78),"Maciej Szczesny":(78,80),
+ "Marek Citko":(79,83),"Tomasz Łapiński":(77,79),"Marek Koniarek":(78,80),
+ "Miroslaw Szymkowiak":(74,80),
+ "Tomasz Klos":(78,81),"Miroslaw Trzeciak":(78,80),"Marek Saganowski":(75,80),
+ "Tomasz Wieszczycki":(75,77),"Witold Bendkowski":(74,76),
+ "Tomasz Frankowski":(80,83),"Kazimierz Wegrzyn":(76,78),"Radoslaw Kaluzny":(76,78),
+ "Krzysztof Bukalski":(74,76),"Olgierd Moskalewicz":(74,77),
+ "Emmanuel Olisadebe":(80,83),"Arkadiusz Bak":(75,77),"Igor Golaszewski":(74,76),
  "Tomas Zvirgzdauskas":(73,75),"Bartosz Tarachulski":(72,75),
 }
 

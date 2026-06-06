@@ -22,17 +22,31 @@ POS = {"GK":["GK"], "DEF":["CB","LB","RB"], "MID":["CDM","CM","CAM","LM","RM"],
        "ATT":["ST","LW","RW"]}
 MAX_PER_SQUAD = 24   # przytnij do trzonu, żeby koło/listy były grywalne
 
-BASE_G = {"GK":67, "DEF":67, "MID":67, "ATT":67}
+BASE_G = {"GK":65, "DEF":67, "MID":67, "ATT":67}
 
 # Ręczne overridey: rozpoznawalne gwiazdy, których heurystyka (gole/defensywa)
 # nie wychwytuje — głównie twórczy pomocnicy i skrzydłowi. Wartość = "podłoga"
 # oceny (jeśli automat dał mniej, podbijamy do tej liczby). Łatwo rozszerzać.
 STAR_FLOOR = {
+ # współcześni (twórcy/skrzydłowi gubieni przez heurystykę)
  "Josué": 82, "Ivi López": 81, "Jesús Imaz": 80, "Kristoffer Velde": 79,
  "Michał Skóraś": 79, "Erik Expósito": 79, "Marc Gual": 78, "Damian Kądzior": 77,
- "Ruben Vinagre": 77, "Fran Tudor": 76, "Giannis Papanikolaou": 76,
- "Marcin Cebula": 77, "John Yeboah": 77, "Antonio Colak": 78, "Carlitos": 78,
+ "Ruben Vinagre": 77, "Marcin Cebula": 77, "John Yeboah": 77, "Antonio Colak": 78,
+ "Carlitos": 78,
+ # złote ery — bezpieczne nazwiska (bez imiennika i schyłku kariery w bazie)
+ "Robert Lewandowski": 83, "Jakub Błaszczykowski": 79, "Euzebiusz Smolarek": 79,
+ "Sebastian Mila": 78, "Sławomir Peszko": 77, "Mirosław Szymkowiak": 77,
+ "Hernán Rengifo": 77, "Marek Saganowski": 77,
 }
+# overridey ZALEŻNE OD SEZONU — nazwiska z imiennikiem albo schyłkiem kariery w bazie
+def _ss(a, b): return ["%d/%s" % (y, str(y+1)[2:]) for y in range(a, b+1)]
+STAR_FLOOR_SEASON = {}
+for _nm, _val, _a, _b in [
+ ("Maciej Żurawski", 82, 2001, 2004), ("Tomasz Frankowski", 81, 2001, 2004),
+ ("Kamil Kosowski", 78, 2001, 2004), ("Artur Boruc", 78, 2002, 2004),
+ ("Paweł Brożek", 79, 2007, 2011),
+]:
+    for _s in _ss(_a, _b): STAR_FLOOR_SEASON[(_nm, _s)] = _val
 
 def rate(p, sgoals, team):
     """OVR w skali 'FC-realnej' (62-84). Baza ligowa + MAŁY modyfikator za
@@ -65,7 +79,8 @@ def convert(raw, scorers, tables):
         players = []
         for p in c["players"]:
             g = sg.get(p["n"], 0)                      # gole w TYM sezonie (0 jeśli nie strzelał)
-            ovr = min(88, max(rate(p, g, team), STAR_FLOOR.get(p["n"], 0)))  # heurystyka + override gwiazd
+            ovr = min(88, max(rate(p, g, team), STAR_FLOOR.get(p["n"], 0),
+                              STAR_FLOOR_SEASON.get((p["n"], c["season"]), 0)))  # heurystyka + overridey
             players.append({"n": p["n"], "nt": p["nt"], "grp": p["grp"],
                             "apps": p["apps"], "_r": ovr})
         # sortuj wg oceny potem doświadczenia, przytnij, ale zachowaj min. 1 GK
