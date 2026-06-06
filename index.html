@@ -290,6 +290,7 @@
 <script src="data/ekstraklasa.js"></script>
     <script src="data/legendy.js"></script>
     <script src="data/legendy90.js"></script>
+    <script src="data/config.js"></script>
 <script>
 /* =======================================================================
    BAZA: kluby × sezony. Każdy zawodnik: n=nazwisko, nt=narodowość,
@@ -733,26 +734,48 @@ function renderResult(){
   renderLeaderboard();
 }
 
-/* ===== Ranking (localStorage) ===== */
+/* ===== Ranking: globalny (Supabase) z fallbackiem na localStorage ===== */
 const LB_KEY="lb-34-0";
-function getLB(){try{return JSON.parse(localStorage.getItem(LB_KEY))||[]}catch(e){return[]}}
-function renderLeaderboard(myT){
-  const lb=getLB().sort((a,b)=>b.pts-a.pts||b.ovr-a.ovr).slice(0,12);
-  const ol=$("lbList"); if(!ol) return; ol.innerHTML="";
+const SB_ON=()=> !!(window.SB_URL && window.SB_KEY);
+function localLB(){try{return JSON.parse(localStorage.getItem(LB_KEY))||[]}catch(e){return[]}}
+function renderRows(lb, myT){
+  const ol=$("lbList"); if(!ol) return;
+  lb=lb.slice().sort((a,b)=>b.pts-a.pts||b.ovr-a.ovr).slice(0,20);
   if(!lb.length){ ol.innerHTML=`<li><span class="lbName" style="color:var(--muted)">Brak wyników — bądź pierwszy!</span></li>`; return; }
+  ol.innerHTML="";
   lb.forEach((e,i)=>{
-    const li=document.createElement("li"); if(myT&&e.t===myT) li.className="me";
+    const li=document.createElement("li"); if(myT&&e.t&&e.t===myT) li.className="me";
     li.innerHTML=`<span class="lbRank">${i+1}.</span>
-      <span class="lbName">${e.name}<br><span class="lbMeta">${e.form} · OVR ${e.ovr} · ${e.win||0}% W</span></span>
+      <span class="lbName">${e.name||"Anonim"}<br><span class="lbMeta">${e.form||""} · OVR ${e.ovr} · ${e.win||0}% W</span></span>
       <span class="lbScore">${e.pts}<br><span class="lbMeta" style="color:var(--muted)">pkt</span></span>`;
     ol.appendChild(li);
   });
 }
-function saveScore(){
+async function renderLeaderboard(myT){
+  const ol=$("lbList"); if(!ol) return;
+  if(!SB_ON()){ renderRows(localLB(), myT); return; }
+  ol.innerHTML=`<li><span class="lbName" style="color:var(--muted)">Ładowanie globalnego rankingu…</span></li>`;
+  try{
+    const res=await fetch(`${window.SB_URL}/rest/v1/scores?select=name,ovr,pts,win,form&order=pts.desc,ovr.desc&limit=20`,
+      {headers:{apikey:window.SB_KEY, Authorization:"Bearer "+window.SB_KEY}});
+    if(!res.ok) throw 0;
+    renderRows(await res.json(), myT);
+  }catch(e){ renderRows(localLB(), myT); }
+}
+async function saveScore(){
   const name=($("playerName").value||"Anonim").trim().slice(0,18), r=G.sim;
   const entry={name,ovr:G.ovr,pts:r.pts,win:Math.round(r.W/34*100),form:cfg.formation,t:Date.now()};
-  const lb=getLB(); lb.push(entry); localStorage.setItem(LB_KEY,JSON.stringify(lb));
-  renderLeaderboard(entry.t); toast("Wynik zapisany na ranking!");
+  const lb=localLB(); lb.push(entry); localStorage.setItem(LB_KEY,JSON.stringify(lb)); // zawsze kopia lokalna
+  if(SB_ON()){
+    try{
+      const res=await fetch(`${window.SB_URL}/rest/v1/scores`,{method:"POST",
+        headers:{apikey:window.SB_KEY, Authorization:"Bearer "+window.SB_KEY,
+                 "Content-Type":"application/json", Prefer:"return=minimal"},
+        body:JSON.stringify({name:entry.name,ovr:entry.ovr,pts:entry.pts,win:entry.win,form:entry.form})});
+      toast(res.ok ? "Wynik wysłany na globalny ranking!" : "Zapisano lokalnie (serwer odrzucił)");
+    }catch(e){ toast("Zapisano lokalnie (brak połączenia)"); }
+  } else { toast("Wynik zapisany na ranking!"); }
+  renderLeaderboard(entry.t);
 }
 function shareSquad(){
   const r=G.sim;
