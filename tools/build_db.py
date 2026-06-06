@@ -22,26 +22,26 @@ POS = {"GK":["GK"], "DEF":["CB","LB","RB"], "MID":["CDM","CM","CAM","LM","RM"],
        "ATT":["ST","LW","RW"]}
 MAX_PER_SQUAD = 24   # przytnij do trzonu, żeby koło/listy były grywalne
 
-BASE_G = {"GK":70, "DEF":70, "MID":70, "ATT":70}
+BASE_G = {"GK":67, "DEF":67, "MID":67, "ATT":67}
 
 def rate(p, sgoals, team):
-    """OVR (64-88) — znerfowane. Sygnały z DANEGO sezonu, ale mniejsze bonusy
-    i niższy sufit: ligowa gwiazda ~84-86, dobry BR/obrońca ~80, trzon ~70-72.
-    Skala 88-92 zostaje zarezerwowana dla legend."""
+    """OVR w skali 'FC-realnej' (62-84). Baza ligowa + MAŁY modyfikator za
+    realne staty z DANEGO sezonu: ligowy król strzelców ~77-78, trzon ~68-70,
+    dobry BR/obrońca mistrza ~77-79. Skala 85-92 zostaje dla legend."""
     g = p["grp"]; apps = p["apps"]
     r = BASE_G[g]
-    r += min(apps // 80, 3)                             # doświadczenie (mały bonus)
+    r += min(apps // 90, 3)                             # doświadczenie (mały bonus)
     if g in ("GK", "DEF"):
         if team:
             gapg = team["ga"] / max(1, team["gp"])
-            r += max(0, min(7, round((1.55 - gapg) * 10)))     # jakość defensywy
+            r += max(0, min(8, round((1.55 - gapg) * 11)))     # jakość defensywy
             r += max(0, min(2, round((8 - team["pos"]) / 4)))  # klasa zespołu
     elif g == "ATT":
-        r += min(round(sgoals * 0.7), 13)              # ~20 goli -> +13
+        r += min(round(sgoals * 0.45), 9)              # ~20 goli -> +9 (król ~77)
     elif g == "MID":
-        r += min(round(sgoals * 0.6), 8)               # strzelający pomocnik
+        r += min(round(sgoals * 0.4), 6)               # strzelający pomocnik
         if team and team["pos"] <= 3: r += 1
-    return max(64, min(88, r))
+    return max(62, min(84, r))
 
 def prime(r):
     """Ocena 'życiowej formy' — łagodny bonus; młodsi/słabsi mają więcej miejsca na wzrost."""
