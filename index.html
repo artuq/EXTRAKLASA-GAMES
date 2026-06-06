@@ -127,6 +127,15 @@
     padding:8px 14px; border-radius:999px; font-size:.82rem; display:inline-flex; gap:6px; align-items:center}
   .fbtn.coffee{background:var(--gold); border-color:var(--gold); color:#241a05; font-weight:800}
   .fbtn.coffee:hover{filter:brightness(1.08)}
+  .cupAnim{display:inline-block; transform-origin:50% 90%; animation:coffeeWiggle 4.5s ease-in-out infinite}
+  @keyframes coffeeWiggle{
+    0%,82%,100%{transform:translateY(0) rotate(0)}
+    86%{transform:translateY(-3px) rotate(-9deg)}
+    90%{transform:translateY(-3px) rotate(9deg)}
+    94%{transform:translateY(-1px) rotate(-4deg)}
+    98%{transform:translateY(0) rotate(0)}
+  }
+  @media (prefers-reduced-motion: reduce){ .cupAnim{animation:none} }
   .coffeeCta{display:flex; align-items:center; gap:12px; text-decoration:none;
     background:linear-gradient(90deg,#2a2208,#1a1606); border:1px solid var(--gold);
     border-radius:12px; padding:14px 16px; margin:14px 0; transition:.15s}
@@ -297,7 +306,7 @@
   <div class="footer">
     <a class="fbtn" href="#" id="lbFooter">🏆 Ranking</a>
     <a class="fbtn" href="mailto:a.kurek9@gmail.com?subject=34-0%20feedback" target="_blank">✉ Feedback</a>
-    <a class="fbtn coffee" href="https://buymeacoffee.com/art_games" target="_blank">☕ Postaw mi kawę</a>
+    <a class="fbtn coffee" href="https://buymeacoffee.com/art_games" target="_blank"><span class="cupAnim">☕</span> Postaw mi kawę</a>
   </div>
   <p class="credit">Zainspirowane 38-0.app · gra fanowska, niekomercyjna · oceny i składy orientacyjne</p>
 </div>
