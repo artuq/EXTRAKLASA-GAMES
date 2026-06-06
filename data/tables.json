@@ -1,0 +1,1833 @@
+{
+ "2001/02": {
+  "Lech Poznań": {
+   "pos": 1,
+   "gp": 38,
+   "gf": 64,
+   "ga": 18
+  },
+  "Orlen Płock": {
+   "pos": 2,
+   "gp": 38,
+   "gf": 50,
+   "ga": 24
+  },
+  "Szczakowianka Jaworzno": {
+   "pos": 3,
+   "gp": 38,
+   "gf": 61,
+   "ga": 50
+  },
+  "Górnik Łęczna": {
+   "pos": 4,
+   "gp": 38,
+   "gf": 49,
+   "ga": 35
+  },
+  "GKS Bełchatów": {
+   "pos": 5,
+   "gp": 38,
+   "gf": 55,
+   "ga": 46
+  },
+  "Ceramika Opoczno": {
+   "pos": 6,
+   "gp": 38,
+   "gf": 53,
+   "ga": 50
+  },
+  "Hetman Zamość": {
+   "pos": 7,
+   "gp": 38,
+   "gf": 47,
+   "ga": 43
+  },
+  "Ruch Radzionków": {
+   "pos": 8,
+   "gp": 38,
+   "gf": 52,
+   "ga": 51
+  },
+  "Polar Wrocław": {
+   "pos": 9,
+   "gp": 38,
+   "gf": 49,
+   "ga": 50
+  },
+  "Tłoki Gorzyce": {
+   "pos": 10,
+   "gp": 38,
+   "gf": 42,
+   "ga": 56
+  },
+  "Arka Gdynia": {
+   "pos": 11,
+   "gp": 38,
+   "gf": 39,
+   "ga": 41
+  },
+  "Górnik Polkowice": {
+   "pos": 12,
+   "gp": 38,
+   "gf": 34,
+   "ga": 35
+  },
+  "Świt Nowy Dwór Mazowiecki": {
+   "pos": 13,
+   "gp": 38,
+   "gf": 36,
+   "ga": 50
+  },
+  "Łódzki KS": {
+   "pos": 14,
+   "gp": 38,
+   "gf": 36,
+   "ga": 38
+  },
+  "Jagiellonia Białystok": {
+   "pos": 15,
+   "gp": 38,
+   "gf": 41,
+   "ga": 41
+  },
+  "Hutnik Kraków": {
+   "pos": 16,
+   "gp": 38,
+   "gf": 48,
+   "ga": 61
+  },
+  "Zagłębie Sosnowiec": {
+   "pos": 17,
+   "gp": 38,
+   "gf": 41,
+   "ga": 47
+  },
+  "Odra Opole": {
+   "pos": 18,
+   "gp": 38,
+   "gf": 40,
+   "ga": 61
+  },
+  "Włókniarz Kietrz": {
+   "pos": 19,
+   "gp": 38,
+   "gf": 34,
+   "ga": 53
+  },
+  "KS Myszków": {
+   "pos": 20,
+   "gp": 38,
+   "gf": 35,
+   "ga": 56
+  }
+ },
+ "2002/03": {
+  "Wisła Kraków": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 75,
+   "ga": 28
+  },
+  "Dyskobolia Grodzisk Wielkopolski": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 56,
+   "ga": 26
+  },
+  "GKS Katowice": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 39,
+   "ga": 21
+  },
+  "Legia Warszawa": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 61,
+   "ga": 29
+  },
+  "Odra Wodzisław Śląski": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 55,
+   "ga": 42
+  },
+  "Amica Wronki": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 43,
+   "ga": 34
+  },
+  "Górnik Zabrze": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 46,
+   "ga": 32
+  },
+  "Polonia Warszawa": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 37,
+   "ga": 45
+  },
+  "Widzew Łódź": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 29,
+   "ga": 39
+  },
+  "Wisła Płock": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 29,
+   "ga": 38
+  },
+  "Lech Poznań": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 41,
+   "ga": 38
+  },
+  "Zagłębie Lubin": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 34,
+   "ga": 44
+  },
+  "Szczakowianka Jaworzno": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 40,
+   "ga": 54
+  },
+  "Ruch Chorzów": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 29,
+   "ga": 39
+  },
+  "KSZO Ostrowiec Świętokrzyski": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 21,
+   "ga": 63
+  },
+  "Pogoń Szczecin": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 14,
+   "ga": 77
+  }
+ },
+ "2003/04": {
+  "Wisła Kraków": {
+   "pos": 1,
+   "gp": 26,
+   "gf": 73,
+   "ga": 30
+  },
+  "Legia Warszawa": {
+   "pos": 2,
+   "gp": 26,
+   "gf": 56,
+   "ga": 19
+  },
+  "Amica Wronki": {
+   "pos": 3,
+   "gp": 26,
+   "gf": 47,
+   "ga": 25
+  },
+  "Dyskobolia Grodzisk Wielkopolski": {
+   "pos": 4,
+   "gp": 26,
+   "gf": 59,
+   "ga": 31
+  },
+  "Wisła Płock": {
+   "pos": 5,
+   "gp": 26,
+   "gf": 41,
+   "ga": 39
+  },
+  "Lech Poznań": {
+   "pos": 6,
+   "gp": 26,
+   "gf": 43,
+   "ga": 34
+  },
+  "Górnik Zabrze": {
+   "pos": 7,
+   "gp": 26,
+   "gf": 26,
+   "ga": 33
+  },
+  "Górnik Łęczna": {
+   "pos": 8,
+   "gp": 26,
+   "gf": 22,
+   "ga": 38
+  },
+  "Odra Wodzisław Śląski": {
+   "pos": 9,
+   "gp": 26,
+   "gf": 27,
+   "ga": 40
+  },
+  "GKS Katowice": {
+   "pos": 10,
+   "gp": 26,
+   "gf": 20,
+   "ga": 42
+  },
+  "Polonia Warszawa": {
+   "pos": 11,
+   "gp": 26,
+   "gf": 25,
+   "ga": 40
+  },
+  "Górnik Polkowice": {
+   "pos": 12,
+   "gp": 26,
+   "gf": 17,
+   "ga": 37
+  },
+  "Świt Nowy Dwór Mazowiecki": {
+   "pos": 13,
+   "gp": 26,
+   "gf": 21,
+   "ga": 42
+  },
+  "Widzew Łódź": {
+   "pos": 14,
+   "gp": 26,
+   "gf": 25,
+   "ga": 52
+  }
+ },
+ "2004/05": {
+  "Wisła Kraków": {
+   "pos": 1,
+   "gp": 26,
+   "gf": 70,
+   "ga": 23
+  },
+  "Dyskobolia Grodzisk Wielkopolski": {
+   "pos": 2,
+   "gp": 26,
+   "gf": 46,
+   "ga": 28
+  },
+  "Legia Warszawa": {
+   "pos": 3,
+   "gp": 26,
+   "gf": 42,
+   "ga": 19
+  },
+  "Wisła Płock": {
+   "pos": 4,
+   "gp": 26,
+   "gf": 35,
+   "ga": 30
+  },
+  "Cracovia": {
+   "pos": 5,
+   "gp": 26,
+   "gf": 37,
+   "ga": 29
+  },
+  "Amica Wronki": {
+   "pos": 6,
+   "gp": 26,
+   "gf": 29,
+   "ga": 28
+  },
+  "Górnik Łęczna": {
+   "pos": 7,
+   "gp": 26,
+   "gf": 36,
+   "ga": 36
+  },
+  "Lech Poznań": {
+   "pos": 8,
+   "gp": 26,
+   "gf": 34,
+   "ga": 40
+  },
+  "Pogoń Szczecin": {
+   "pos": 9,
+   "gp": 26,
+   "gf": 34,
+   "ga": 43
+  },
+  "Polonia Warszawa": {
+   "pos": 10,
+   "gp": 26,
+   "gf": 27,
+   "ga": 52
+  },
+  "Górnik Zabrze": {
+   "pos": 11,
+   "gp": 26,
+   "gf": 27,
+   "ga": 30
+  },
+  "Zagłębie Lubin": {
+   "pos": 12,
+   "gp": 26,
+   "gf": 31,
+   "ga": 41
+  },
+  "Odra Wodzisław Śląski": {
+   "pos": 13,
+   "gp": 26,
+   "gf": 27,
+   "ga": 41
+  },
+  "GKS Katowice": {
+   "pos": 14,
+   "gp": 26,
+   "gf": 23,
+   "ga": 58
+  }
+ },
+ "2005/06": {
+  "Legia Warszawa": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 47,
+   "ga": 17
+  },
+  "Wisła Kraków": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 50,
+   "ga": 20
+  },
+  "Zagłębie Lubin": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 45,
+   "ga": 32
+  },
+  "Amica Wronki": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 50,
+   "ga": 28
+  },
+  "Korona Kielce": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 46,
+   "ga": 33
+  },
+  "Odra Wodzisław Śląski": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 23,
+   "ga": 27
+  },
+  "Dyskobolia Grodzisk Wielkopolski": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 37,
+   "ga": 45
+  },
+  "Cracovia": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 32,
+   "ga": 44
+  },
+  "GKS Bełchatów": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 30,
+   "ga": 32
+  },
+  "Pogoń Szczecin": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 29,
+   "ga": 34
+  },
+  "Wisła Płock": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 30,
+   "ga": 45
+  },
+  "Górnik Łęczna": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 23,
+   "ga": 31
+  },
+  "Górnik Zabrze": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 29,
+   "ga": 46
+  },
+  "Arka Gdynia": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 21,
+   "ga": 33
+  },
+  "Polonia Warszawa": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 20,
+   "ga": 45
+  },
+  "Lech Poznań": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 45,
+   "ga": 45
+  }
+ },
+ "2006/07": {
+  "Zagłębie Lubin": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 57,
+   "ga": 29
+  },
+  "GKS Bełchatów": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 63,
+   "ga": 32
+  },
+  "Legia Warszawa": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 53,
+   "ga": 33
+  },
+  "Cracovia": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 48,
+   "ga": 41
+  },
+  "Dyskobolia Grodzisk Wielkopolski": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 40,
+   "ga": 26
+  },
+  "Lech Poznań": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 53,
+   "ga": 36
+  },
+  "Korona Kielce": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 41,
+   "ga": 34
+  },
+  "Wisła Kraków": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 41,
+   "ga": 25
+  },
+  "Łódzki KS": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 31,
+   "ga": 30
+  },
+  "Odra Wodzisław Śląski": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 29,
+   "ga": 36
+  },
+  "Arka Gdynia": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 43,
+   "ga": 39
+  },
+  "Widzew Łódź": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 27,
+   "ga": 48
+  },
+  "Górnik Łęczna": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 24,
+   "ga": 64
+  },
+  "Górnik Zabrze": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 30,
+   "ga": 51
+  },
+  "Wisła Płock": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 20,
+   "ga": 47
+  },
+  "Pogoń Szczecin": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 24,
+   "ga": 53
+  }
+ },
+ "2007/08": {
+  "Wisła Kraków": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 68,
+   "ga": 18
+  },
+  "Legia Warszawa": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 48,
+   "ga": 17
+  },
+  "Dyskobolia Grodzisk Wielkopolski": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 52,
+   "ga": 24
+  },
+  "Lech Poznań": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 55,
+   "ga": 32
+  },
+  "Zagłębie Lubin": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 43,
+   "ga": 30
+  },
+  "Korona Kielce": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 38,
+   "ga": 32
+  },
+  "Cracovia": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 30,
+   "ga": 32
+  },
+  "Górnik Zabrze": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 34,
+   "ga": 39
+  },
+  "GKS Bełchatów": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 26,
+   "ga": 32
+  },
+  "Ruch Chorzów": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 35,
+   "ga": 41
+  },
+  "Łódzki KS": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 25,
+   "ga": 31
+  },
+  "Odra Wodzisław Śląski": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 28,
+   "ga": 47
+  },
+  "Polonia Bytom": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 22,
+   "ga": 45
+  },
+  "Jagiellonia Białystok": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 27,
+   "ga": 57
+  },
+  "Widzew Łódź": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 27,
+   "ga": 42
+  },
+  "Zagłębie Sosnowiec": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 19,
+   "ga": 58
+  }
+ },
+ "2008/09": {
+  "Wisła Kraków": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 53,
+   "ga": 21
+  },
+  "Legia Warszawa": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 52,
+   "ga": 17
+  },
+  "Lech Poznań": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 51,
+   "ga": 24
+  },
+  "Polonia Warszawa": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 40,
+   "ga": 23
+  },
+  "GKS Bełchatów": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 40,
+   "ga": 28
+  },
+  "Śląsk Wrocław": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 40,
+   "ga": 34
+  },
+  "Polonia Bytom": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 30,
+   "ga": 46
+  },
+  "Jagiellonia Białystok": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 28,
+   "ga": 34
+  },
+  "Ruch Chorzów": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 22,
+   "ga": 32
+  },
+  "Piast Gliwice": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 17,
+   "ga": 26
+  },
+  "Lechia Gdańsk": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 30,
+   "ga": 44
+  },
+  "Odra Wodzisław Śląski": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 23,
+   "ga": 40
+  },
+  "Arka Gdynia": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 27,
+   "ga": 39
+  },
+  "Cracovia": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 24,
+   "ga": 40
+  },
+  "Górnik Zabrze": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 20,
+   "ga": 33
+  },
+  "Łódzki KS": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 27,
+   "ga": 43
+  }
+ },
+ "2009/10": {
+  "Lech Poznań": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 51,
+   "ga": 20
+  },
+  "Wisła Kraków": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 48,
+   "ga": 20
+  },
+  "Ruch Chorzów": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 40,
+   "ga": 30
+  },
+  "Legia Warszawa": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 36,
+   "ga": 22
+  },
+  "GKS Bełchatów": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 37,
+   "ga": 27
+  },
+  "Korona Kielce": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 35,
+   "ga": 41
+  },
+  "Polonia Bytom": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 29,
+   "ga": 31
+  },
+  "Lechia Gdańsk": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 30,
+   "ga": 32
+  },
+  "Śląsk Wrocław": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 32,
+   "ga": 33
+  },
+  "Zagłębie Lubin": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 30,
+   "ga": 38
+  },
+  "Jagiellonia Białystok": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 29,
+   "ga": 27
+  },
+  "Cracovia": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 25,
+   "ga": 39
+  },
+  "Polonia Warszawa": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 25,
+   "ga": 38
+  },
+  "Arka Gdynia": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 28,
+   "ga": 39
+  },
+  "Odra Wodzisław Śląski": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 27,
+   "ga": 45
+  },
+  "Piast Gliwice": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 30,
+   "ga": 50
+  }
+ },
+ "2010/11": {
+  "Wisła Kraków": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 44,
+   "ga": 29
+  },
+  "Śląsk Wrocław": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 46,
+   "ga": 34
+  },
+  "Legia Warszawa": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 45,
+   "ga": 38
+  },
+  "Jagiellonia Białystok": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 38,
+   "ga": 32
+  },
+  "Lech Poznań": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 37,
+   "ga": 23
+  },
+  "Górnik Zabrze": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 36,
+   "ga": 40
+  },
+  "Polonia Warszawa": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 41,
+   "ga": 26
+  },
+  "Lechia Gdańsk": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 37,
+   "ga": 36
+  },
+  "Widzew Łódź": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 41,
+   "ga": 34
+  },
+  "GKS Bełchatów": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 31,
+   "ga": 33
+  },
+  "Zagłębie Lubin": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 31,
+   "ga": 38
+  },
+  "Ruch Chorzów": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 29,
+   "ga": 32
+  },
+  "Korona Kielce": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 34,
+   "ga": 48
+  },
+  "Cracovia": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 37,
+   "ga": 47
+  },
+  "Arka Gdynia": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 22,
+   "ga": 43
+  },
+  "Polonia Bytom": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 29,
+   "ga": 45
+  }
+ },
+ "2011/12": {
+  "Śląsk Wrocław": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 47,
+   "ga": 31
+  },
+  "Ruch Chorzów": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 44,
+   "ga": 28
+  },
+  "Legia Warszawa": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 42,
+   "ga": 17
+  },
+  "Lech Poznań": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 42,
+   "ga": 22
+  },
+  "Korona Kielce": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 34,
+   "ga": 29
+  },
+  "Polonia Warszawa": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 33,
+   "ga": 32
+  },
+  "Wisła Kraków": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 29,
+   "ga": 26
+  },
+  "Górnik Zabrze": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 36,
+   "ga": 30
+  },
+  "Zagłębie Lubin": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 36,
+   "ga": 42
+  },
+  "Jagiellonia Białystok": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 35,
+   "ga": 45
+  },
+  "Widzew Łódź": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 25,
+   "ga": 26
+  },
+  "Podbeskidzie Bielsko-Biała": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 26,
+   "ga": 39
+  },
+  "Lechia Gdańsk": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 21,
+   "ga": 30
+  },
+  "GKS Bełchatów": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 34,
+   "ga": 36
+  },
+  "Łódzki KS": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 23,
+   "ga": 53
+  },
+  "Cracovia": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 20,
+   "ga": 41
+  }
+ },
+ "2012/13": {
+  "Legia Warszawa": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 59,
+   "ga": 22
+  },
+  "Lech Poznań": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 46,
+   "ga": 22
+  },
+  "Śląsk Wrocław": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 44,
+   "ga": 42
+  },
+  "Piast Gliwice": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 41,
+   "ga": 41
+  },
+  "Górnik Zabrze": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 35,
+   "ga": 31
+  },
+  "Polonia Warszawa": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 45,
+   "ga": 34
+  },
+  "Wisła Kraków": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 28,
+   "ga": 35
+  },
+  "Lechia Gdańsk": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 42,
+   "ga": 43
+  },
+  "Zagłębie Lubin": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 38,
+   "ga": 37
+  },
+  "Jagiellonia Białystok": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 31,
+   "ga": 45
+  },
+  "Korona Kielce": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 32,
+   "ga": 37
+  },
+  "Pogoń Szczecin": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 29,
+   "ga": 39
+  },
+  "Widzew Łódź": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 30,
+   "ga": 41
+  },
+  "Podbeskidzie Bielsko-Biała": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 39,
+   "ga": 43
+  },
+  "Ruch Chorzów": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 35,
+   "ga": 48
+  },
+  "GKS Bełchatów": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 24,
+   "ga": 38
+  }
+ },
+ "2013/14": {},
+ "2014/15": {},
+ "2015/16": {},
+ "2016/17": {},
+ "2017/18": {},
+ "2018/19": {},
+ "2019/20": {},
+ "2020/21": {
+  "Legia Warszawa": {
+   "pos": 1,
+   "gp": 30,
+   "gf": 48,
+   "ga": 24
+  },
+  "Raków Częstochowa": {
+   "pos": 2,
+   "gp": 30,
+   "gf": 46,
+   "ga": 25
+  },
+  "Pogoń Szczecin": {
+   "pos": 3,
+   "gp": 30,
+   "gf": 36,
+   "ga": 23
+  },
+  "Śląsk Wrocław": {
+   "pos": 4,
+   "gp": 30,
+   "gf": 36,
+   "ga": 32
+  },
+  "Warta Poznań": {
+   "pos": 5,
+   "gp": 30,
+   "gf": 33,
+   "ga": 32
+  },
+  "Piast Gliwice": {
+   "pos": 6,
+   "gp": 30,
+   "gf": 39,
+   "ga": 32
+  },
+  "Lechia Gdańsk": {
+   "pos": 7,
+   "gp": 30,
+   "gf": 40,
+   "ga": 37
+  },
+  "Zagłębie Lubin": {
+   "pos": 8,
+   "gp": 30,
+   "gf": 38,
+   "ga": 40
+  },
+  "Jagiellonia Białystok": {
+   "pos": 9,
+   "gp": 30,
+   "gf": 39,
+   "ga": 48
+  },
+  "Górnik Zabrze": {
+   "pos": 10,
+   "gp": 30,
+   "gf": 31,
+   "ga": 33
+  },
+  "Lech Poznań": {
+   "pos": 11,
+   "gp": 30,
+   "gf": 39,
+   "ga": 38
+  },
+  "Wisła Płock": {
+   "pos": 12,
+   "gp": 30,
+   "gf": 37,
+   "ga": 44
+  },
+  "Wisła Kraków": {
+   "pos": 13,
+   "gp": 30,
+   "gf": 39,
+   "ga": 42
+  },
+  "Cracovia": {
+   "pos": 14,
+   "gp": 30,
+   "gf": 28,
+   "ga": 32
+  },
+  "Stal Mielec": {
+   "pos": 15,
+   "gp": 30,
+   "gf": 31,
+   "ga": 47
+  },
+  "Podbeskidzie Bielsko-Biała": {
+   "pos": 16,
+   "gp": 30,
+   "gf": 29,
+   "ga": 60
+  }
+ },
+ "2021/22": {
+  "Lech Poznań": {
+   "pos": 1,
+   "gp": 34,
+   "gf": 67,
+   "ga": 24
+  },
+  "Raków Częstochowa": {
+   "pos": 2,
+   "gp": 34,
+   "gf": 60,
+   "ga": 30
+  },
+  "Pogoń Szczecin": {
+   "pos": 3,
+   "gp": 34,
+   "gf": 63,
+   "ga": 31
+  },
+  "Lechia Gdańsk": {
+   "pos": 4,
+   "gp": 34,
+   "gf": 52,
+   "ga": 39
+  },
+  "Piast Gliwice": {
+   "pos": 5,
+   "gp": 34,
+   "gf": 45,
+   "ga": 37
+  },
+  "Wisła Płock": {
+   "pos": 6,
+   "gp": 34,
+   "gf": 48,
+   "ga": 51
+  },
+  "Radomiak Radom": {
+   "pos": 7,
+   "gp": 34,
+   "gf": 42,
+   "ga": 40
+  },
+  "Górnik Zabrze": {
+   "pos": 8,
+   "gp": 34,
+   "gf": 55,
+   "ga": 55
+  },
+  "Cracovia": {
+   "pos": 9,
+   "gp": 34,
+   "gf": 40,
+   "ga": 42
+  },
+  "Legia Warszawa": {
+   "pos": 10,
+   "gp": 34,
+   "gf": 46,
+   "ga": 48
+  },
+  "Warta Poznań": {
+   "pos": 11,
+   "gp": 34,
+   "gf": 35,
+   "ga": 38
+  },
+  "Jagiellonia Białystok": {
+   "pos": 12,
+   "gp": 34,
+   "gf": 39,
+   "ga": 50
+  },
+  "Zagłębie Lubin": {
+   "pos": 13,
+   "gp": 34,
+   "gf": 43,
+   "ga": 59
+  },
+  "Stal Mielec": {
+   "pos": 14,
+   "gp": 34,
+   "gf": 39,
+   "ga": 52
+  },
+  "Śląsk Wrocław": {
+   "pos": 15,
+   "gp": 34,
+   "gf": 42,
+   "ga": 52
+  },
+  "Bruk-Bet Termalica Nieciecza": {
+   "pos": 16,
+   "gp": 34,
+   "gf": 36,
+   "ga": 56
+  },
+  "Wisła Kraków": {
+   "pos": 17,
+   "gp": 34,
+   "gf": 37,
+   "ga": 54
+  },
+  "Górnik Łęczna": {
+   "pos": 18,
+   "gp": 34,
+   "gf": 29,
+   "ga": 60
+  }
+ },
+ "2022/23": {
+  "Raków Częstochowa": {
+   "pos": 1,
+   "gp": 34,
+   "gf": 63,
+   "ga": 24
+  },
+  "Legia Warszawa": {
+   "pos": 2,
+   "gp": 34,
+   "gf": 57,
+   "ga": 37
+  },
+  "Lech Poznań": {
+   "pos": 3,
+   "gp": 34,
+   "gf": 51,
+   "ga": 29
+  },
+  "Pogoń Szczecin": {
+   "pos": 4,
+   "gp": 34,
+   "gf": 57,
+   "ga": 46
+  },
+  "Piast Gliwice": {
+   "pos": 5,
+   "gp": 34,
+   "gf": 40,
+   "ga": 31
+  },
+  "Górnik Zabrze": {
+   "pos": 6,
+   "gp": 34,
+   "gf": 45,
+   "ga": 43
+  },
+  "Cracovia": {
+   "pos": 7,
+   "gp": 34,
+   "gf": 41,
+   "ga": 35
+  },
+  "Warta Poznań": {
+   "pos": 8,
+   "gp": 34,
+   "gf": 37,
+   "ga": 35
+  },
+  "Zagłębie Lubin": {
+   "pos": 9,
+   "gp": 34,
+   "gf": 35,
+   "ga": 44
+  },
+  "Radomiak Radom": {
+   "pos": 10,
+   "gp": 34,
+   "gf": 34,
+   "ga": 41
+  },
+  "Stal Mielec": {
+   "pos": 11,
+   "gp": 34,
+   "gf": 36,
+   "ga": 40
+  },
+  "Widzew Łódź": {
+   "pos": 12,
+   "gp": 34,
+   "gf": 38,
+   "ga": 47
+  },
+  "Korona Kielce": {
+   "pos": 13,
+   "gp": 34,
+   "gf": 39,
+   "ga": 48
+  },
+  "Jagiellonia Białystok": {
+   "pos": 14,
+   "gp": 34,
+   "gf": 48,
+   "ga": 49
+  },
+  "Śląsk Wrocław": {
+   "pos": 15,
+   "gp": 34,
+   "gf": 35,
+   "ga": 48
+  },
+  "Wisła Płock": {
+   "pos": 16,
+   "gp": 34,
+   "gf": 41,
+   "ga": 50
+  },
+  "Lechia Gdańsk": {
+   "pos": 17,
+   "gp": 34,
+   "gf": 28,
+   "ga": 56
+  },
+  "Miedź Legnica": {
+   "pos": 18,
+   "gp": 34,
+   "gf": 33,
+   "ga": 55
+  }
+ },
+ "2023/24": {
+  "Jagiellonia Białystok": {
+   "pos": 1,
+   "gp": 34,
+   "gf": 77,
+   "ga": 45
+  },
+  "Śląsk Wrocław": {
+   "pos": 2,
+   "gp": 34,
+   "gf": 50,
+   "ga": 31
+  },
+  "Legia Warszawa": {
+   "pos": 3,
+   "gp": 34,
+   "gf": 51,
+   "ga": 39
+  },
+  "Pogoń Szczecin": {
+   "pos": 4,
+   "gp": 34,
+   "gf": 59,
+   "ga": 38
+  },
+  "Lech Poznań": {
+   "pos": 5,
+   "gp": 34,
+   "gf": 47,
+   "ga": 41
+  },
+  "Górnik Zabrze": {
+   "pos": 6,
+   "gp": 34,
+   "gf": 45,
+   "ga": 41
+  },
+  "Raków Częstochowa": {
+   "pos": 7,
+   "gp": 34,
+   "gf": 54,
+   "ga": 39
+  },
+  "Zagłębie Lubin": {
+   "pos": 8,
+   "gp": 34,
+   "gf": 43,
+   "ga": 50
+  },
+  "Widzew Łódź": {
+   "pos": 9,
+   "gp": 34,
+   "gf": 45,
+   "ga": 46
+  },
+  "Piast Gliwice": {
+   "pos": 10,
+   "gp": 34,
+   "gf": 38,
+   "ga": 35
+  },
+  "Stal Mielec": {
+   "pos": 11,
+   "gp": 34,
+   "gf": 42,
+   "ga": 48
+  },
+  "Puszcza Niepołomice": {
+   "pos": 12,
+   "gp": 34,
+   "gf": 39,
+   "ga": 49
+  },
+  "Cracovia": {
+   "pos": 13,
+   "gp": 34,
+   "gf": 45,
+   "ga": 46
+  },
+  "Korona Kielce": {
+   "pos": 14,
+   "gp": 34,
+   "gf": 40,
+   "ga": 44
+  },
+  "Radomiak Radom": {
+   "pos": 15,
+   "gp": 34,
+   "gf": 41,
+   "ga": 58
+  },
+  "Warta Poznań": {
+   "pos": 16,
+   "gp": 34,
+   "gf": 33,
+   "ga": 43
+  },
+  "Ruch Chorzów": {
+   "pos": 17,
+   "gp": 34,
+   "gf": 40,
+   "ga": 55
+  },
+  "ŁKS Łódź": {
+   "pos": 18,
+   "gp": 34,
+   "gf": 34,
+   "ga": 75
+  }
+ },
+ "2024/25": {
+  "Lech Poznań": {
+   "pos": 1,
+   "gp": 34,
+   "gf": 68,
+   "ga": 31
+  },
+  "Raków Częstochowa": {
+   "pos": 2,
+   "gp": 34,
+   "gf": 51,
+   "ga": 23
+  },
+  "Jagiellonia Białystok": {
+   "pos": 3,
+   "gp": 34,
+   "gf": 56,
+   "ga": 42
+  },
+  "Pogoń Szczecin": {
+   "pos": 4,
+   "gp": 34,
+   "gf": 59,
+   "ga": 40
+  },
+  "Legia Warszawa": {
+   "pos": 5,
+   "gp": 34,
+   "gf": 60,
+   "ga": 45
+  },
+  "Cracovia": {
+   "pos": 6,
+   "gp": 34,
+   "gf": 58,
+   "ga": 53
+  },
+  "Motor Lublin": {
+   "pos": 7,
+   "gp": 34,
+   "gf": 48,
+   "ga": 59
+  },
+  "GKS Katowice": {
+   "pos": 8,
+   "gp": 34,
+   "gf": 49,
+   "ga": 47
+  },
+  "Górnik Zabrze": {
+   "pos": 9,
+   "gp": 34,
+   "gf": 43,
+   "ga": 39
+  },
+  "Piast Gliwice": {
+   "pos": 10,
+   "gp": 34,
+   "gf": 37,
+   "ga": 36
+  },
+  "Korona Kielce": {
+   "pos": 11,
+   "gp": 34,
+   "gf": 37,
+   "ga": 45
+  },
+  "Radomiak Radom": {
+   "pos": 12,
+   "gp": 34,
+   "gf": 48,
+   "ga": 52
+  },
+  "Widzew Łódź": {
+   "pos": 13,
+   "gp": 34,
+   "gf": 38,
+   "ga": 49
+  },
+  "Lechia Gdańsk": {
+   "pos": 14,
+   "gp": 34,
+   "gf": 44,
+   "ga": 59
+  },
+  "Zagłębie Lubin": {
+   "pos": 15,
+   "gp": 34,
+   "gf": 33,
+   "ga": 51
+  },
+  "Stal Mielec": {
+   "pos": 16,
+   "gp": 34,
+   "gf": 39,
+   "ga": 56
+  },
+  "Śląsk Wrocław": {
+   "pos": 17,
+   "gp": 34,
+   "gf": 38,
+   "ga": 53
+  },
+  "Puszcza Niepołomice": {
+   "pos": 18,
+   "gp": 34,
+   "gf": 37,
+   "ga": 63
+  }
+ },
+ "2025/26": {
+  "Lech Poznań": {
+   "pos": 1,
+   "gp": 34,
+   "gf": 62,
+   "ga": 45
+  },
+  "Górnik Zabrze": {
+   "pos": 2,
+   "gp": 34,
+   "gf": 50,
+   "ga": 38
+  },
+  "Jagiellonia Białystok": {
+   "pos": 3,
+   "gp": 34,
+   "gf": 56,
+   "ga": 41
+  },
+  "Raków Częstochowa": {
+   "pos": 4,
+   "gp": 34,
+   "gf": 51,
+   "ga": 40
+  },
+  "GKS Katowice": {
+   "pos": 5,
+   "gp": 34,
+   "gf": 51,
+   "ga": 45
+  },
+  "Legia Warszawa": {
+   "pos": 6,
+   "gp": 34,
+   "gf": 42,
+   "ga": 37
+  },
+  "Zagłębie Lubin": {
+   "pos": 7,
+   "gp": 34,
+   "gf": 45,
+   "ga": 38
+  },
+  "Wisła Płock": {
+   "pos": 8,
+   "gp": 34,
+   "gf": 34,
+   "ga": 38
+  },
+  "Pogoń Szczecin": {
+   "pos": 9,
+   "gp": 34,
+   "gf": 47,
+   "ga": 49
+  },
+  "Radomiak Radom": {
+   "pos": 10,
+   "gp": 34,
+   "gf": 52,
+   "ga": 53
+  },
+  "Korona Kielce": {
+   "pos": 11,
+   "gp": 34,
+   "gf": 40,
+   "ga": 40
+  },
+  "Motor Lublin": {
+   "pos": 12,
+   "gp": 34,
+   "gf": 46,
+   "ga": 53
+  },
+  "Cracovia": {
+   "pos": 13,
+   "gp": 34,
+   "gf": 39,
+   "ga": 42
+  },
+  "Widzew Łódź": {
+   "pos": 14,
+   "gp": 34,
+   "gf": 41,
+   "ga": 41
+  },
+  "Piast Gliwice": {
+   "pos": 15,
+   "gp": 34,
+   "gf": 42,
+   "ga": 46
+  },
+  "Lechia Gdańsk": {
+   "pos": 16,
+   "gp": 34,
+   "gf": 62,
+   "ga": 65
+  },
+  "Arka Gdynia": {
+   "pos": 17,
+   "gp": 34,
+   "gf": 34,
+   "ga": 61
+  },
+  "Bruk-Bet Termalica Nieciecza": {
+   "pos": 18,
+   "gp": 34,
+   "gf": 43,
+   "ga": 65
+  }
+ }
+}

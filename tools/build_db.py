@@ -22,27 +22,41 @@ POS = {"GK":["GK"], "DEF":["CB","LB","RB"], "MID":["CDM","CM","CAM","LM","RM"],
        "ATT":["ST","LW","RW"]}
 MAX_PER_SQUAD = 24   # przytnij do trzonu, żeby koło/listy były grywalne
 
-def rate(p):
-    """Estymacja OVR na ujednoliconej skali 66-86."""
-    g = p["grp"]; apps = p["apps"]; goals = p["goals"]
-    r = 70
-    r += min(apps // 45, 7)                       # doświadczenie (do +7)
-    if g == "ATT":  r += min(goals // 12, 7)      # napastnik: gole
-    elif g == "MID": r += min(goals // 18, 5)     # pomocnik: gole
-    elif g == "DEF": r += min(goals // 12, 2)     # obrońca: rzadkie gole = jakość
-    return max(66, min(86, r))
+BASE_G = {"GK":72, "DEF":72, "MID":71, "ATT":71}
+
+def rate(p, sgoals, team):
+    """Estymacja OVR (66-91) wg sygnałów z DANEGO sezonu:
+    - napastnik/pomocnik: gole sezonowe,
+    - obrońca/bramkarz: defensywa drużyny (stracone bramki/mecz) + miejsce w tabeli."""
+    g = p["grp"]; apps = p["apps"]
+    r = BASE_G[g]
+    r += min(apps // 70, 4)                             # doświadczenie (mały bonus)
+    if g in ("GK", "DEF"):
+        if team:
+            gapg = team["ga"] / max(1, team["gp"])
+            r += max(0, min(9, round((1.6 - gapg) * 12)))      # jakość defensywy zespołu
+            r += max(0, min(3, round((9 - team["pos"]) / 3)))  # ogólna klasa zespołu
+    elif g == "ATT":
+        r += min(round(sgoals * 0.9), 16)              # napastnik: gole w TYM sezonie
+    elif g == "MID":
+        r += min(round(sgoals * 0.8), 11)              # strzelający pomocnik
+        if team: r += max(0, min(2, round((6 - team["pos"]) / 3)))
+    return max(66, min(91, r))
 
 def prime(r):
-    """Ocena 'życiowej formy' — estymacja: lepsi rosną mocniej. Do doszlifowania ręcznie."""
-    return max(r, min(99, round(r + 2 + (r - 70) * 0.3)))
+    """Ocena 'życiowej formy' — łagodny bonus; młodsi/słabsi mają więcej miejsca na wzrost."""
+    return min(97, r + (4 if r < 76 else 2))
 
-def convert(raw):
+def convert(raw, scorers, tables):
     out = []
     for c in raw:
+        sg = scorers.get(c["season"], {})
+        team = tables.get(c["season"], {}).get(c["club"])   # tabela drużyny w tym sezonie
         players = []
         for p in c["players"]:
+            g = sg.get(p["n"], 0)                      # gole w TYM sezonie (0 jeśli nie strzelał)
             players.append({"n": p["n"], "nt": p["nt"], "grp": p["grp"],
-                            "apps": p["apps"], "goals": p["goals"], "_r": rate(p)})
+                            "apps": p["apps"], "_r": rate(p, g, team)})
         # sortuj wg oceny potem doświadczenia, przytnij, ale zachowaj min. 1 GK
         players.sort(key=lambda x: (x["_r"], x["apps"]), reverse=True)
         keep = players[:MAX_PER_SQUAD]
@@ -59,7 +73,11 @@ if __name__ == "__main__":
     here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     src = "data/raw_all.json" if os.path.exists(os.path.join(here, "data/raw_all.json")) else "data/raw_2025_26.json"
     raw = json.load(open(os.path.join(here, src), encoding="utf-8"))
-    db = convert(raw)
+    sc_path = os.path.join(here, "data/scorers.json")
+    scorers = json.load(open(sc_path, encoding="utf-8")) if os.path.exists(sc_path) else {}
+    tb_path = os.path.join(here, "data/tables.json")
+    tables = json.load(open(tb_path, encoding="utf-8")) if os.path.exists(tb_path) else {}
+    db = convert(raw, scorers, tables)
     js = "// AUTO-GENEROWANE z 90minut przez tools/build_db.py — nie edytuj ręcznie.\n"
     js += "window.EKSTRAKLASA_SQUADS = " + json.dumps(db, ensure_ascii=False, indent=1) + ";\n"
     open(os.path.join(here, "data/ekstraklasa.js"), "w", encoding="utf-8").write(js)
